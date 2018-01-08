@@ -3,3 +3,6 @@ _site/
 .jekyll-metadata
 
 .vscode
+
+node_modules
+assets/images/raw

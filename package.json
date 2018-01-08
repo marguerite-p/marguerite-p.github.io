@@ -1,0 +1,19 @@
+{
+  "name": "optimize-images",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "start": "gulp compress"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/marguerite-p/marguerite-p.github.io.git"
+  },
+  "author": "Julien Avert",
+  "license": "MIT",
+  "devDependencies": {
+    "gulp": "^3.9.1",
+    "gulp-imagemin": "^4.1.0",
+    "gulp-smushit": "^1.2.0"
+  }
+}
