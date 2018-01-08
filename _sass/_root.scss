@@ -40,6 +40,12 @@ html {
   }
 
   &-page {
+    &__image {
+      @include tablet {
+        max-width: 300px;
+      }
+    }
+    
     &__text {
       justify-content: center;
       p {
