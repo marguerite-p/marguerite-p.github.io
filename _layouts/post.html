@@ -1,0 +1,29 @@
+---
+layout: default
+permalink: pretty
+---
+
+<main aria-label="Article">
+  <div class="article-head">
+    <div class="title article-title">
+      {{ page.title }}
+    </div>
+    {% assign author = page.author | default: site.author %}
+    <div class="article-author">
+      <em>by {{ author }}</em>
+    </div>
+    <div class="article-date">
+      <em>{{ page.date | date: "%d/%m/%Y" }}</em>
+    </div>
+    <div class="article-tags">
+      <div class="tags">
+        <span class="tag">Tag label</span>
+        <span class="tag">Tag label</span>
+        <span class="tag">Tag label</span>
+      </div>
+    </div>
+  </div>
+  <div class="article-body content">
+    {{ content }}
+  </div>
+</main>

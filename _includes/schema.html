@@ -1,0 +1,74 @@
+<!-- Schema.org for Google -->
+<div class="is-hidden">
+  <!-- Person -->
+  <div
+    itemtype="http://schema.org/Person"
+    id="person">
+    <meta itemprop="name" content="{{ site.author }}">
+    <meta itemprop="url" content="{{ site.url }}">
+    {% if site.facebook.url %}<meta itemprop="sameAs" content="{{ site.facebook.url }}">{% endif %}
+    {% if site.twitter.url %}<meta itemprop="sameAs" content="{{ site.twitter.url }}">{% endif %}
+  </div>
+  <meta
+    itemscope
+    itemtype="http://schema.org/Person"
+    itemref="person">
+  <!-- Organization -->
+  <div
+    itemtype="http://schema.org/Organization"
+    id="org">
+    <meta itemprop="url" content="{{ site.url }}">
+    <meta itemprop="mainEntityOfPage" content="{{ site.url }}">
+    <meta itemprop="name" content="{{ site.title }}">
+    <meta itemprop="description" content="{{ site.description }}">
+    <div
+      itemprop="logo"
+      itemscope
+      itemtype="http://schema.org/ImageObject">
+      <meta itemprop="url" content="http://via.placeholder.com/200x200">
+    </div>
+    <meta
+      itemprop="member"
+      itemscope
+      itemtype="http://schema.org/Person"
+      itemref="person">
+  </div>
+  <meta
+    itemscope
+    itemtype="http://schema.org/Organization"
+    itemref="org">
+
+  {% if page.layout == 'post' %}
+  {% assign url = page.url | replace:'index.html','' | absolute_url %}
+  {% assign author = page.author | default: site.author %}
+  <!-- Article -->
+  <div
+    itemtype="http://schema.org/Article"
+    id="article">
+    <meta itemprop="name" content="{{ page.title }}">
+    <meta itemprop="url" content="{{ url }}">
+    <meta itemprop="mainEntityOfPage" content="{{ url }}">
+    <meta
+      itemprop="author"
+      itemscope
+      itemtype="http://schema.org/Person"
+      itemref="person">
+    <meta itemprop="headline" content="{{ page.excerpt }}">
+    <meta itemprop="datePublished" content="{{ page.date | date_to_xmlschema }}">
+    <meta itemprop="dateModified" content="{{ page.date | date_to_xmlschema }}">
+    <div itemprop="image" itemscope itemtype="http://schema.org/ImageObject">
+      <meta itemprop="url" content="http://via.placeholder.com/200x200">
+    </div>
+    <meta
+      itemprop="publisher"
+      itemscope
+      itemtype="http://schema.org/Organization"
+      itemref="org">
+  </div>
+  <meta
+    itemscope
+    itemtype="http://schema.org/Article"
+    itemref="article">
+  {% endif %}
+</div>
+

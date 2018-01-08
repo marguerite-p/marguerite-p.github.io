@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html lang="{{ page.lang | default: site.lang | default: 'fr_FR' }}" prefix="og: http://ogp.me/ns# fb: http://ogp.me/ns/fb# article: http://ogp.me/ns/article#" class="has-navbar-fixed-top">
+
+  {% include head.html %}
+
+  <body>
+    {% include schema.html %}
+
+    {% include header.html %}
+
+    <section class="section container" aria-label="Content">
+      {{ content }}
+    </section>
+
+    {% include footer.html %}
+
+  </body>
+
+</html>

@@ -1,0 +1,108 @@
+/**
+ * Set up a decent box model on the root element
+ */
+html {
+  box-sizing: border-box;
+}
+
+/**
+ * Make all elements from the DOM inherit from the parent box-sizing
+ * Since `*` has a specificity of 0, it does not override the `html` value
+ * making all elements inheriting from the root box-sizing value
+ * See: https://css-tricks.com/inheriting-box-sizing-probably-slightly-better-best-practice/
+ */
+*, ::before, ::after {
+  box-sizing: inherit;
+}
+
+.navbar {
+  border-bottom: 1px solid $white-ter;
+}
+
+.is-overlay-container {
+  position: relative;
+}
+
+.is-column {
+  flex-direction: column;
+}
+
+.is-reversed-tablet {
+  @include tablet {
+    flex-direction: row-reverse;
+  }
+}
+
+.index {
+  &-title {
+    align-items: center;
+    margin-bottom: 1em;
+  }
+
+  &-page {
+    &__text {
+      justify-content: center;
+      p {
+        text-align: justify;
+      }
+      .button {
+        align-self: center;
+        margin-bottom: 1em;
+        &:last-child {
+          @extend .is-marginless;
+        }
+      }
+    }
+  }
+}
+
+.about {
+  &-portrait {
+    margin-bottom: 1.5rem;
+  }
+
+  &-image {
+    &__overlay {
+      display: flex;
+      justify-content: flex-end;
+      align-items: flex-end;
+
+      &:hover { // weird css thingy (pseudo-element after pseudo-class)
+        &:before {
+          opacity: 0.8;
+        }
+      }
+      &:before {
+        @extend .is-overlay;
+        content: '';
+        background-color: $white;
+        opacity: 0.3;
+        transition: opacity 0.2s;
+
+      }
+    }
+
+    &__text {
+      color: $black;
+      padding: 1.5rem;
+      z-index: 1;
+    }
+  }
+}
+
+.article {
+  &-head {
+    padding-bottom: 1em;
+  }
+  &-title,
+  &-author {
+    display: inline-block
+  }
+  &-title {
+    margin-bottom: 0;
+  }
+  &-author {
+    font-size: 1rem;
+    font-weight: 300;
+  }
+}
