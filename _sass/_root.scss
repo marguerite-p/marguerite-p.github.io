@@ -83,32 +83,58 @@ html {
     margin-bottom: 1.5rem;
   }
 
+  &-main {
+    padding: 1.5rem;
+  }
+
   &-image {
     &__overlay {
-      display: flex;
-      justify-content: flex-end;
-      align-items: flex-end;
+      opacity: 0.5;
+      transition: opacity 0.2s;
 
-      &:hover { // weird css thingy (pseudo-element after pseudo-class)
-        &:before {
-          opacity: 0.8;
-        }
+      &:hover {
+        opacity: 0.6;
       }
-      &:before {
-        @extend .is-overlay;
-        content: '';
-        background-color: $white;
-        opacity: 0.3;
-        transition: opacity 0.2s;
 
+      .is-black-on-white > & {
+        background-color: $white;
+      }
+
+      .is-white-on-black > & {
+        background-color: $black;
       }
     }
 
     &__text {
-      color: $black;
       padding: 1.5rem;
-      z-index: 1;
+      pointer-events: none;
+
+      @include tablet {
+        justify-content: flex-end;
+        align-items: flex-end;
+      }
+
+      @include mobile {
+        justify-content: center;
+      }
+
+      * {
+        pointer-events: auto;
+      }
+
+      .is-black-on-white > & {
+        color: $black;
+      }
+
+      .is-white-on-black > & {
+        color: $white;
+      }
     }
+  }
+
+  &-text {
+    padding: 1.5rem;
+    align-items: center;
   }
 }
 
