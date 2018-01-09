@@ -65,6 +65,7 @@ exclude:
 plugins:
   - jekyll-feed
   - jekyll-sitemap
+  - jemoji
 
 defaults:
   -
