@@ -19,6 +19,14 @@ html {
   border-bottom: 1px solid $white-ter;
 }
 
+.is-signika {
+  font-family: $signika-font;
+}
+
+.is-varela {
+  font-family: $varela-font;
+}
+
 .is-overlay-container {
   position: relative;
 }
@@ -30,6 +38,14 @@ html {
 .is-reversed-tablet {
   @include tablet {
     flex-direction: row-reverse;
+  }
+}
+
+.content {
+  h1,
+  h2,
+  h3 {
+    @extend .is-signika;
   }
 }
 
@@ -45,7 +61,7 @@ html {
         max-width: 300px;
       }
     }
-    
+
     &__text {
       justify-content: center;
       p {
