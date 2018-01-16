@@ -27,8 +27,10 @@ html {
   font-family: $varela-font;
 }
 
+$emoji-size: 20px;
 .emoji {
   vertical-align: top;
+  vertical-align: calc((1rem / 2) - ($emoji-size / 2));
 }
 
 .is-overlay-container {
@@ -51,6 +53,10 @@ html {
   h3 {
     @extend .is-signika;
   }
+
+  p {
+    text-align: justify;
+  }
 }
 
 .index {
@@ -68,9 +74,11 @@ html {
 
     &__text {
       justify-content: center;
-      p {
-        text-align: justify;
-      }
+
+      // p {
+      //   text-align: justify;
+      // }
+
       .button {
         align-self: center;
         margin-bottom: 1em;
@@ -87,8 +95,16 @@ html {
     margin-bottom: 1.5rem;
   }
 
+  &-headline,
   &-main {
     padding: 1rem;
+  }
+
+  &-headline {
+    h1 {
+      color: $black;
+      text-align: center;
+    }
   }
 
   &-image {
@@ -114,13 +130,17 @@ html {
       pointer-events: none;
 
       @include tablet {
-        justify-content: flex-end;
+        justify-content: center;
         align-items: flex-end;
+
+        .is-reversed-tablet & {
+          align-items: flex-start;
+        }
       }
 
-      @include mobile {
-        justify-content: center;
-      }
+      // @include mobile {
+      //   justify-content: center;
+      // }
 
       * {
         pointer-events: auto;
