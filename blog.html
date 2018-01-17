@@ -5,16 +5,46 @@ nav: blog
 order: 1
 ---
 
+{{ site.data.categories | inspect }}
+{{ site.categories | inspect }}
+
 <div class="blog-categories">
-{% for category_tuple in site.categories_conf %}
-  {% assign category = category_tuple[0] %}
-  {% assign category_title = category_tuple[1].title %}
-  {% assign category_image = '/assets/images/' | append: category_tuple[1].image | relative_url %}
+{% for category in site.data.categories %}
   <div class="columns">
-    <h1>{{ category_title }}</h1>
-    <figure class="image">
-      <img src="{{ category_image }}" alt="{{ category_title }}">
-    </figure>
+    <div class="column is-one-third">
+      <figure class="image">
+        <img src="{{ category.image }}" alt="{{ category.title }}">
+      </figure>
+      <h1>{{ category.title }}</h1>
+    </div>
+    <div class="column is-two-third">
+      <div class="columns">
+      {% assign posts = site.categories[category.name] %}
+      {% if posts %}
+      {% for post in posts limit:3 %}
+        <div class="column is-one-third">
+          <a href="{{ post.url }}">{{ post.title }}</a>
+        </div>
+      {% endfor %}
+      {% else %}
+        <div class="column is-full has-text-centered">
+            no posts for now !
+        </div>
+      {% endif %}
+      </div>
+    </div>
   </div>
 {% endfor %}
+</div>
+{{ 'http://example.com/my-baseurl/assets/style.css' | relative_url }}
+{{ 'http://example.com/my-baseurl/assets/style.css' | absolute_url }}
+<div class="blog-latest">
+  <h1>Derniers articles, toutes catégories</h1>
+  <div class="columns is-multiline">
+  {% for post in site.posts %}
+    <div class="column is-one-quarter">
+      <a href="{{ post.url }}">{{ post.title }}</a>
+    </div>
+  {% endfor %}
+  </div>
 </div>

@@ -19,26 +19,8 @@ author: Marguerite Pometko
 email: marguerite.pometko@gmail.com
 description: Rédactrice web et community manager freelance, je vous prête ma plume créative et vous accompagne dans vos premiers pas sur les réseaux sociaux. Venez découvrir mon blog et mes prestations !
 
-categories_conf:
-  test:
-    title: Test category
-    image: techniques-sciences-numerique.jpg
-  science:
-    title: Techniques, Sciences et Numérique
-    image: techniques-sciences-numerique.jpg
-  redaction:
-    title: Web, Rédaction et Réseaux sociaux
-    image: web-redaction-reseaux.jpg
-  environnement:
-    title: Environnement, Climat et Écologie
-    image: environnement-climat-ecologie.jpg
-  mode:
-    title: Mode, Art et Culture alternative
-    image: mode-art-culture.jpg
-
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://marguerite-p.github.io" # the base hostname & protocol for your site, e.g. http://example.com
-
+url: https://marguerite-p.github.io # the base hostname & protocol for your site, e.g. http://example.com
 
 twitter:
   username: marguerite_pom

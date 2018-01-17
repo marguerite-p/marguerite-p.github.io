@@ -1,0 +1,20 @@
+-
+  name: test
+  title: Test category
+  image: /assets/images/techniques-sciences-numerique.jpg
+-
+  name: science
+  title: Techniques, Sciences et Numérique
+  image: /assets/images/techniques-sciences-numerique.jpg
+-
+  name: redaction
+  title: Web, Rédaction et Réseaux sociaux
+  image: /assets/images/web-redaction-reseaux.jpg
+-
+  name: environnement
+  title: Environnement, Climat et Écologie
+  image: /assets/images/environnement-climat-ecologie.jpg
+-
+  name: mode
+  title: Mode, Art et Culture alternative
+  image: /assets/images/mode-art-culture.jpg
