@@ -59,7 +59,31 @@ plugins:
   - jekyll-sitemap
   - jemoji
 
+permalink: /blog/:year/:month/:title.html
+collections:
+  # posts:
+  #   output: true
+  #   permalink: /:name
+  custom_pages:
+    output: true
+    permalink: /:name.html
+  custom_categories:
+    output: true
+    permalink: /blog/:name.html
+
 defaults:
+  -
+    scope:
+      path: _custom_pages
+      type: custom_pages
+    values:
+      layout: page
+  -
+    scope:
+      path: custom_categories
+      type: custom_categories
+    values:
+      layout: category
   -
     scope:
       path: _posts # an empty string here means all files in the project

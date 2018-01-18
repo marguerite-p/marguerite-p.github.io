@@ -1,20 +1,19 @@
 ---
-layout: page
 title: Le Blog
 nav: blog
 order: 1
 ---
 
-{{ site.data.categories | inspect }}
-{{ site.categories | inspect }}
-
 <div class="blog-categories">
 {% for category in site.data.categories %}
   <div class="columns">
     <div class="column is-one-third">
-      <figure class="image">
-        <img src="{{ category.image }}" alt="{{ category.title }}">
-      </figure>
+      {% assign category_page = site.custom_categories | where: "category", category.name | first %}
+      <a href="{{ category_page.url }}">
+        <figure class="image">
+          <img src="{{ category.image }}" alt="{{ category.title }}">
+        </figure>
+      </a>
       <h1>{{ category.title }}</h1>
     </div>
     <div class="column is-two-third">
@@ -36,8 +35,7 @@ order: 1
   </div>
 {% endfor %}
 </div>
-{{ 'http://example.com/my-baseurl/assets/style.css' | relative_url }}
-{{ 'http://example.com/my-baseurl/assets/style.css' | absolute_url }}
+
 <div class="blog-latest">
   <h1>Derniers articles, toutes catégories</h1>
   <div class="columns is-multiline">
