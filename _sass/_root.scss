@@ -162,6 +162,14 @@ $emoji-size: 20px;
   }
 }
 
+.blog {
+  &-categories {
+    &__preview {
+      background-color: aqua;
+    }
+  }
+}
+
 .article {
   &-head {
     padding-bottom: 1em;
