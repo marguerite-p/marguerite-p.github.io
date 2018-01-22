@@ -2,10 +2,8 @@
 layout: default
 ---
 
-{% assign category = site.data.categories | where: "name", page.category | first %}
-
-<h1>{{ category.title }}</h1>
-{% assign posts = site.categories[category.name] %}
+<h1>Billets sans categorie</h1>
+{% assign posts = site.posts | where_exp: 'post', 'post.category == nil' %}
 <div class="columns is-multiline is-mobile">
 {% for post in posts %}
   <div class="column is-one-quarter-tablet is-half-mobile">
