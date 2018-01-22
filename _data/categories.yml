@@ -1,8 +1,4 @@
 -
-  name: test
-  title: Test category
-  image: /assets/images/techniques-sciences-numerique.jpg
--
   name: science
   title: Techniques, Sciences et Numérique
   image: /assets/images/techniques-sciences-numerique.jpg

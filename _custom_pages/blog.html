@@ -4,11 +4,20 @@ nav: blog
 order: 1
 ---
 
+<div class="about-headline content">
+  <h1>Bonjour, moi c’est {{ site.author }}, rédactrice web freelance à Grenoble !</h1>
+
+  <p><strong><em>On dit de moi que je suis curieuse, créative et polyvalente. Une chose est sûre : j’adore les
+  nouveaux défis. Aujourd’hui je décide de lancer mon entreprise de rédaction web et réseaux
+  sociaux freelance pour vivre de ma passion et faire de belles rencontres.</em></strong></p>
+</div>
+
 <div class="blog-categories">
-{% for category in site.data.categories %}
-  <div class="columns">
+  <h1>Derniers articles, par catégorie</h1>
+  {% for category in site.data.categories %}
+  <div class="columns is-vcentered">
     <div class="column is-one-third">
-      {% assign category_page = site.custom_categories | where: "category", category.name | first %}
+      {% assign category_page = site.custom_categories | where: 'category', category.name | first %}
       <a href="{{ category_page.url }}">
         <figure class="image">
           <img src="{{ category.image }}" alt="{{ category.title }}">
@@ -17,28 +26,23 @@ order: 1
       </a>
     </div>
     <div class="column is-two-third">
-      <div class="columns">
+      <div class="columns is-mobile">
       {% assign posts = site.categories[category.name] %}
       {% if posts %}
       {% for post in posts limit:3 %}
         <div class="blog-categories__preview column is-one-third">
-          <a href="{{ post.url }}">
-            <figure class="image">
-              <img src="http://via.placeholder.com/600x400" alt="{{ post.title }}">
-            </figure>
-            <h2>{{ post.title }}</h2>
-          </a>
+          {% include post_preview.html show_excerpt=true %}
         </div>
       {% endfor %}
       {% else %}
         <div class="column is-full has-text-centered">
-            no posts for now !
+            Pas encore d'articles :hushed:
         </div>
       {% endif %}
       </div>
     </div>
   </div>
-{% endfor %}
+  {% endfor %}
 </div>
 
 <div class="blog-latest">
@@ -46,7 +50,7 @@ order: 1
   <div class="columns is-multiline">
   {% for post in site.posts %}
     <div class="column is-one-quarter">
-      <a href="{{ post.url }}">{{ post.title }}</a>
+      {% include post_preview.html %}
     </div>
   {% endfor %}
   </div>

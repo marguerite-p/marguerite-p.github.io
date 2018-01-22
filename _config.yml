@@ -90,4 +90,3 @@ defaults:
     values:
       layout: post
       nav: blog
-      category: test

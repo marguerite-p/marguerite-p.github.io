@@ -1,5 +1,6 @@
 ---
 title: Always stuff
+category: science
 ---
 
 A test article.

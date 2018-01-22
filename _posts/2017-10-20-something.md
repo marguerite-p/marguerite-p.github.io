@@ -1,5 +1,6 @@
 ---
 title: Something
+category: redaction
 ---
 
 A test article.

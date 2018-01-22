@@ -1,5 +1,6 @@
 ---
 title: Yet another thing
+category: science
 ---
 
 A test article.

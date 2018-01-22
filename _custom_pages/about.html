@@ -9,6 +9,7 @@ order: 0
     <img src="{{ '/assets/images/marguerite-pometko-portrait.jpg' | relative_url }}" alt="{{ site.author }}, rédacteur web">
   </figure>
 </div>
+
 <div class="about-headline content">
   <h1>Bonjour, moi c’est {{ site.author }}, rédactrice web freelance à Grenoble !</h1>
 
@@ -16,8 +17,8 @@ order: 0
   nouveaux défis. Aujourd’hui je décide de lancer mon entreprise de rédaction web et réseaux
   sociaux freelance pour vivre de ma passion et faire de belles rencontres.</em></strong></p>
 </div>
-<div class="about-main content">
 
+<div class="about-main content">
     <h2>Mais comment en suis-je arrivé là ?</h2>
 
     <p>J’ai toujours été très touche-à-tout. Résultat : à la sortie du lycée, je n’arrivais pas à choisir une voie
@@ -66,20 +67,16 @@ order: 0
     > télécharger mon CV <
     Ce qui me passionne – mes thématiques de prédilection : -->
 </div>
+
 <div class="about-interests columns is-gapless is-multiline">
   <div class="about-interest column is-full columns">
-    <div class="about-image column is-half is-paddingless is-overlay-container">
-      <figure class="image">
-        <img src="{{ '/assets/images/techniques-sciences-numerique.jpg' | relative_url }}" alt="TODO">
-      </figure>
-      <div class="is-overlay is-white-on-black">
-        <div class="about-image__overlay is-overlay"></div>
-        <div class="about-image__text is-overlay is-flex is-column">
-          <h1 class="is-size-3 has-text-right">Techniques, Sciences, et Numérique</h1>
-        </div>
-      </div>
+    {% assign category = site.data.categories | where: 'name', 'science' | first %}
+    <div class="about-image column is-half is-paddingless">
+      {% include image_with_overlay_title.html
+        url=category.image
+        title=category.title %}
     </div>
-    <div class="about-text column is-half is-flex content">
+    <div class="about-text column is-half is-flex is-column content">
       <p>
         C’est un peu fou, mais c’est justement parce que je n’ai pas de vrai background scientifique et
         technique que ces questions m’intéressent tant. Désespérée de ne pas comprendre comment
@@ -90,21 +87,21 @@ order: 0
         participative. Aujourd’hui, avec mon profil en sciences humaines, je porte un regard sociologique
         sur les innovations, et me penche sur leurs implications éthiques, politiques et sociales.
       </p>
+      {% if site.categories[category.name] %}
+      {% assign category_page = site.custom_categories | where: 'category', category.name | first %}
+      <a href="{{ category_page.url }}">Voir ce que j'ai écrit sur ce sujet</a>
+      {% endif %}
     </div>
   </div>
   <div class="about-interest column is-full columns is-reversed-tablet">
-    <div class="about-image column is-half is-paddingless is-overlay-container">
-      <figure class="image">
-        <img src="{{ '/assets/images/environnement-climat-ecologie.jpg' | relative_url }}" alt="TODO">
-      </figure>
-      <div class="is-overlay is-white-on-black">
-        <div class="about-image__overlay is-overlay"></div>
-        <div class="about-image__text is-overlay is-flex is-column">
-          <h1 class="is-size-3 has-text-left">Environnement, Climat et Écologie</h1>
-        </div>
-      </div>
+    {% assign category = site.data.categories | where: 'name', 'environnement' | first %}
+    <div class="about-image column is-half is-paddingless">
+      {% include image_with_overlay_title.html
+        url=category.image
+        title=category.title
+        text_align='left' %}
     </div>
-    <div class="about-text column is-half is-flex content">
+    <div class="about-text column is-half is-flex is-column content">
       <p>
         Voilà un bien large sujet qui me tient à cœur ! Écolo dans l’âme, je m’intéresse tout aussi bien aux
         traités internationaux, aux plans climat-air-énergie territoriaux, qu’aux initiatives individuelles. Je
@@ -114,21 +111,20 @@ order: 0
         énergétique, lutte contre la pollution, recyclage, biodiversité, agriculture raisonnée, circuits-courts,
         alimentation bio et végétale…
       </p>
+      {% if site.categories[category.name] %}
+      {% assign category_page = site.custom_categories | where: 'category', category.name | first %}
+      <a href="{{ category_page.url }}">Voir ce que j'ai écrit sur ce sujet</a>
+      {% endif %}
     </div>
   </div>
   <div class="about-interest column is-full columns">
-    <div class="about-image column is-half is-paddingless is-overlay-container">
-      <figure class="image">
-        <img src="{{ '/assets/images/mode-art-culture.jpg' | relative_url }}" alt="TODO">
-      </figure>
-      <div class="is-overlay is-white-on-black">
-        <div class="about-image__overlay is-overlay"></div>
-        <div class="about-image__text is-overlay is-flex is-column">
-          <h1 class="is-size-3 has-text-right">Mode, Art et Culture</h1>
-        </div>
-      </div>
+    {% assign category = site.data.categories | where: 'name', 'mode' | first %}
+    <div class="about-image column is-half is-paddingless">
+      {% include image_with_overlay_title.html
+        url=category.image
+        title=category.title %}
     </div>
-    <div class="about-text column is-half is-flex content">
+    <div class="about-text column is-half is-flex is-column content">
       <p>
         Mon penchant pour les tech et l’écologie ne m’a pas empêchée de nourrir une passion pour les arts,
         la mode et la culture. Je souhaite mettre fin à cette idée reçue selon laquelle la mode ne serait que le
@@ -139,6 +135,10 @@ order: 0
         croisements entre la mode et la technologie. Cette rubrique traitera donc essentiellement de mode,
         d’art et de culture, mais toujours avec un penchant underground.
       </p>
+      {% if site.categories[category.name] %}
+      {% assign category_page = site.custom_categories | where: 'category', category.name | first %}
+      <a href="{{ category_page.url }}">Voir ce que j'ai écrit sur ce sujet</a>
+      {% endif %}
     </div>
   </div>
 </div>
