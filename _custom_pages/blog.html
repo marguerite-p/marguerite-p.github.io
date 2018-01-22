@@ -25,9 +25,9 @@ order: 1
         <h1>{{ category.title }}</h1>
       </a>
     </div>
-    <div class="column is-two-third">
+    {% assign posts = site.categories[category.name] %}
+    <div class="column">
       <div class="columns is-mobile">
-      {% assign posts = site.categories[category.name] %}
       {% if posts %}
       {% for post in posts limit:3 %}
         <div class="blog-categories__preview column is-one-third">
@@ -41,6 +41,11 @@ order: 1
       {% endif %}
       </div>
     </div>
+    {% if posts %}
+    <div>
+      <a href="{{ category_page.url }}">more</a>
+    </div>
+    {% endif %}
   </div>
   {% endfor %}
 </div>

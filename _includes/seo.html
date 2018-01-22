@@ -5,7 +5,7 @@
 {% assign image = '/assets/images/socio-jam.png' | absolute_url %}
 
 {% assign title = page.title | default: site.title | escape %}
-{% assign description = page.meta-decription | default: page.excerpt | default: site.description | strip_html | normalize_whitespace | truncate: 160 | escape %}
+{% assign description = page.meta-description | default: page.excerpt | default: site.description | strip_html | normalize_whitespace | truncate: 160 | escape %}
 {% assign author = page.author | default: site.author %}
 {% assign keywords = page.meta-keywords | default: site.keywords %}
 {% if page.layout == 'post' %}
