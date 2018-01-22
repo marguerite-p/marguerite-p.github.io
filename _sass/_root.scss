@@ -27,6 +27,10 @@ html {
   font-family: $varela-font;
 }
 
+.is-smallcaps {
+  font-variant: small-caps
+}
+
 $emoji-size: 20px;
 .emoji {
   vertical-align: top;
@@ -44,6 +48,14 @@ $emoji-size: 20px;
 .is-reversed-tablet {
   @include tablet {
     flex-direction: row-reverse;
+  }
+}
+
+$icon-dimensions-xlarge: 4rem;
+.icon {
+  &.is-xlarge {
+    height: $icon-dimensions-xlarge;
+    width: $icon-dimensions-xlarge;
   }
 }
 
@@ -90,23 +102,7 @@ $emoji-size: 20px;
   }
 }
 
-.about {
-  &-portrait {
-    margin-bottom: 1.5rem;
-  }
-
-  &-headline,
-  &-main {
-    padding: 1rem;
-  }
-
-  &-headline {
-    h1 {
-      color: $black;
-      text-align: center;
-    }
-  }
-
+.overlay {
   &-image {
     &__overlay {
       opacity: 0.5;
@@ -155,12 +151,39 @@ $emoji-size: 20px;
       }
     }
   }
+}
+
+.about {
+  &-portrait {
+    margin-bottom: 1.5rem;
+  }
+
+  &-headline,
+  &-main {
+    padding: 1rem;
+  }
+
+  &-headline {
+    h1 {
+      color: $black;
+      text-align: center;
+    }
+  }
 
   &-text {
     padding: 1rem;
+    justify-content: center;
     align-items: center;
   }
 }
+
+// .blog {
+//   &-categories {
+//     &__preview {
+//       background-color: aqua;
+//     }
+//   }
+// }
 
 .article {
   &-head {
@@ -176,5 +199,13 @@ $emoji-size: 20px;
   &-author {
     font-size: 1rem;
     font-weight: 300;
+  }
+}
+
+.social-media a {
+  color: $grey-light;
+
+  &:hover {
+    color: $link-hover;
   }
 }

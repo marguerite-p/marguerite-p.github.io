@@ -1,0 +1,9 @@
+<div class="post-preview">
+    <a href="{{ post.url }}">
+      <figure class="image">
+        <img src="http://via.placeholder.com/600x400" alt="{{ post.title }}">
+      </figure>
+      <h2 class="is-smallcaps is-size-5 has-text-centered">{{ post.title }}</h2>
+      {% if include.show_excerpt %}<p>{{ post.excerpt }}</p>{% endif %}
+    </a>
+  </div>

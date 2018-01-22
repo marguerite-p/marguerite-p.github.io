@@ -1,0 +1,11 @@
+<div class="overlay-image is-overlay-container">
+  <figure class="image">
+    <img src="{{ include.url | relative_url }}" alt="{{ include.title }}">
+  </figure>
+  <div class="is-overlay {{ include.color_class | default: 'is-white-on-black' }}">
+    <div class="overlay-image__overlay is-overlay"></div>
+    <div class="overlay-image__text is-overlay is-flex is-column">
+      <h1 class="is-size-3 has-text-{{ include.text_align | default: 'right' }}">{{ include.title }}</h1>
+    </div>
+  </div>
+</div>

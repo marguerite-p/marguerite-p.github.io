@@ -19,16 +19,8 @@ author: Marguerite Pometko
 email: marguerite.pometko@gmail.com
 description: Rédactrice web et community manager freelance, je vous prête ma plume créative et vous accompagne dans vos premiers pas sur les réseaux sociaux. Venez découvrir mon blog et mes prestations !
 
-keywords:
-  - science
-  - technologie
-  - redaction
-  - community managment
-
-
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://marguerite-p.github.io" # the base hostname & protocol for your site, e.g. http://example.com
-
+url: https://marguerite-p.github.io # the base hostname & protocol for your site, e.g. http://example.com
 
 twitter:
   username: marguerite_pom
@@ -67,7 +59,31 @@ plugins:
   - jekyll-sitemap
   - jemoji
 
+permalink: /blog/:year/:month/:title.html
+collections:
+  # posts:
+  #   output: true
+  #   permalink: /:name
+  custom_pages:
+    output: true
+    permalink: /:name.html
+  custom_categories:
+    output: true
+    permalink: /blog/:name.html
+
 defaults:
+  -
+    scope:
+      path: _custom_pages
+      type: custom_pages
+    values:
+      layout: page
+  -
+    scope:
+      path: custom_categories
+      type: custom_categories
+    values:
+      layout: category
   -
     scope:
       path: _posts # an empty string here means all files in the project

@@ -1,0 +1,21 @@
+{% case include.size %}
+  {% when 'large' %}
+    {% assign icon_size = 'is-large' %}
+    {% assign fa_size = 'fa-2x' %}
+  {% when 'xlarge' %}
+    {% assign icon_size = 'is-xlarge' %}
+    {% assign fa_size = 'fa-3x' %}
+  {% else %}
+    {% assign icon_size = 'is-medium' %}
+    {% assign fa_size = '' %}
+{% endcase %}
+
+<div class="social-media">
+  {% for social in site.data.social %}
+    <span class="icon {{ icon_size }}">
+      <a href="{{ social.url }}">
+        <i class="fa {{ fa_size }} fa-{{ social.class }}"></i>
+      </a>
+    </span>
+  {% endfor %}
+</div>
