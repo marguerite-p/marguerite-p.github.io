@@ -1,4 +1,4 @@
-<nav class="navbar is-fixed-top is-white">
+<nav class="navbar is-fixed-top">
   <div class="container">
     <div class="navbar-brand">
       <a class="navbar-item" href="{% link index.html %}">
@@ -18,6 +18,24 @@
           <span>{{ item.title }}</span>
         </a>
         {% endfor %}
+
+
+        <div class="navbar-item has-dropdown is-hoverable">
+          <a class="navbar-link is-active">
+            Docs
+          </a>
+
+          <div class="navbar-dropdown is-right">
+            <a class="navbar-item is-active">
+              Overview
+            </a>
+            <a class="navbar-item">
+              Elements
+            </a>
+          </div>
+        </div>
+
+
       </div>
     </div>
   </div>

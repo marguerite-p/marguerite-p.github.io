@@ -17,6 +17,10 @@ html {
 
 .navbar {
   border-bottom: 1px solid $white-ter;
+
+  &-menu .is-active {
+    font-weight: 600;
+  }
 }
 
 .is-signika {
@@ -207,5 +211,16 @@ $icon-dimensions-xlarge: 4rem;
 
   &:hover {
     color: $link-hover;
+  }
+}
+
+.redaction,
+.cm {
+  &-portrait {
+    margin-bottom: 1.5rem;
+  }
+
+  &-main {
+    padding: 1rem;
   }
 }

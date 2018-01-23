@@ -1,9 +1,10 @@
 @import 'bulma/utilities/initial-variables';
 
+// fonts
 $signika-font: 'Signika', sans-serif;
 $varela-font: 'Varela Round', sans-serif;
 
-
+// accent color
 $socio-jam-red: hsl(0, 100%, 61%);
 // replace turquoise with red. Ugly but... meh !
 $turquoise: $socio-jam-red;
@@ -15,5 +16,27 @@ $body-size: 14px;
 
 $section-padding: 1.5rem 0;
 
+// navbar customization
 $navbar-height: 4rem;
 $navbar-item-img-max-height: 3.25rem;
+
+$normal-color: $black;
+$normal-background-color: $white;
+$active-color: $black;
+$active-background-color: $white-ter;
+
+$navbar-background-color: $normal-background-color;
+$navbar-item-color: $normal-color;
+
+$navbar-item-hover-color: $active-color;
+$navbar-item-hover-background-color: $active-background-color;
+$navbar-item-active-color: $active-color;
+$navbar-item-active-background-color: $active-background-color;
+
+$navbar-dropdown-background-color: $normal-background-color;
+$navbar-dropdown-arrow: $normal-color;
+
+$navbar-dropdown-item-hover-color: $active-color;
+$navbar-dropdown-item-hover-background-color: $active-background-color;
+$navbar-dropdown-item-active-color: $active-color;
+$navbar-dropdown-item-active-background-color: $active-background-color;
