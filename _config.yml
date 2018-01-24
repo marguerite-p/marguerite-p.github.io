@@ -78,6 +78,7 @@ defaults:
       type: custom_pages
     values:
       layout: page
+      top-nav: true
   -
     scope:
       path: _custom_categories

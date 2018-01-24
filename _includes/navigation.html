@@ -12,30 +12,31 @@
     </div>
     <div class="navbar-menu" id="navMenu">
       <div class="navbar-end">
-        {% assign menu_items = site.custom_pages | sort:'order' %}
+        {% assign menu_items = site.custom_pages | where: 'top-nav', true | sort:'order' %}
         {% for item in menu_items %}
-        <a class="navbar-item {% if item.nav == page.nav %}is-active{% endif %}" href="{{ item.url }}">
-          <span>{{ item.title }}</span>
-        </a>
+          {% assign sub_menu_items = site.custom_pages | where: 'top-nav', false | where: 'nav', item.nav | sort:'order' %}
+          {% assign nb_sub_menu_items = sub_menu_items | size %}
+
+          {% if nb_sub_menu_items > 0 %}
+            <div class="navbar-item has-dropdown is-hoverable">
+              <a class="navbar-link {% if item.nav == page.nav %}is-active{% endif %}" href="{{ item.url }}">
+                <span>{{ item.title }}</span>
+              </a>
+
+              <div class="navbar-dropdown is-right">
+                {% for sub_item in sub_menu_items %}
+                  <a class="navbar-item {% if page.subnav and sub_item.subnav == page.subnav %}is-active{% endif %}" href="{{ sub_item.url }}">
+                    {{ sub_item.title }}
+                  </a>
+                {% endfor %}
+              </div>
+            </div>
+          {% else %}
+            <a class="navbar-item {% if item.nav == page.nav %}is-active{% endif %}" href="{{ item.url }}">
+              <span>{{ item.title }}</span>
+            </a>
+          {% endif %}
         {% endfor %}
-
-
-        <div class="navbar-item has-dropdown is-hoverable">
-          <a class="navbar-link is-active">
-            Docs
-          </a>
-
-          <div class="navbar-dropdown is-right">
-            <a class="navbar-item is-active">
-              Overview
-            </a>
-            <a class="navbar-item">
-              Elements
-            </a>
-          </div>
-        </div>
-
-
       </div>
     </div>
   </div>
