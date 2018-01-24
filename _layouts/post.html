@@ -25,4 +25,12 @@ layout: default
   <div class="article-body content">
     {{ content }}
   </div>
+  <div id="share-it"></div>
+  <script>
+    $("#share-it").jsSocials({
+        shares: ["email", "twitter", "facebook", "googleplus", "linkedin"],
+        showLabel: false,
+        showCount: "inside"
+    });
+  </script>
 </main>
