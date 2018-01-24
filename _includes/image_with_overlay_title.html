@@ -1,6 +1,6 @@
 <div class="overlay-image is-overlay-container">
   <figure class="image">
-    <img src="{{ include.url | relative_url }}" alt="{{ include.title }}">
+    <img data-src="{{ include.url | relative_url }}" alt="{{ include.title }}">
   </figure>
   <div class="is-overlay {{ include.color_class | default: 'is-white-on-black' }}">
     <div class="overlay-image__overlay is-overlay"></div>

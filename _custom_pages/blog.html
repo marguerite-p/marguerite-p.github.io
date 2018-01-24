@@ -20,7 +20,7 @@ order: 1
       {% assign category_page = site.custom_categories | where: 'category', category.name | first %}
       <a href="{{ category_page.url }}">
         <figure class="image">
-          <img src="{{ category.image }}" alt="{{ category.title }}">
+          <img data-src="{{ category.image }}" alt="{{ category.title }}">
         </figure>
         <h1>{{ category.title }}</h1>
       </a>

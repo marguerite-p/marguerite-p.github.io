@@ -1,3 +1,6 @@
+// enable offscreen images lazy loading
+var myLazyLoad = new LazyLoad();
+
 $(function () {
   // Get all "navbar-burger" elements
   var $navbarBurgers = $('.navbar-burger');
