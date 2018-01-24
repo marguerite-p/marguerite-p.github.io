@@ -80,10 +80,11 @@ defaults:
       layout: page
   -
     scope:
-      path: custom_categories
+      path: _custom_categories
       type: custom_categories
     values:
       layout: category
+      nav: blog
   -
     scope:
       path: _posts # an empty string here means all files in the project
