@@ -23,11 +23,10 @@ baseurl: "" # the subpath of your site, e.g. /blog
 url: https://marguerite-p.github.io # the base hostname & protocol for your site, e.g. http://example.com
 
 twitter:
-  username: marguerite_pom
-  url: https://twitter.com/marguerite_pom
+  handle: marguerite_pom
 facebook:
+  app_id: TODO
   profile_id: 100004117324768
-  url: https://www.facebook.com/marguerite.jam.1
 
 webmaster_verifications:
   google: google verif

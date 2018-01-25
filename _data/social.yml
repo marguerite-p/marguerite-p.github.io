@@ -1,9 +1,9 @@
 -
-  url: 'http://example.com'
+  url: 'https://www.facebook.com/marguerite.jam.1'
   class: 'facebook'
   color: '#3b5998'
 -
-  url: 'http://example.com'
+  url: 'https://twitter.com/marguerite_pom'
   class: 'twitter'
   color: '#55acee'
 -
@@ -11,7 +11,7 @@
   class: 'instagram'
   color: '#8a3ab9'
 -
-  url: 'http://example.com'
+  url: 'https://www.linkedin.com/in/marguerite-pometko/'
   class: 'linkedin'
   color: '#007bb5'
 -

@@ -25,12 +25,13 @@ layout: default
   <div class="article-body content">
     {{ content }}
   </div>
-  <div id="share-it"></div>
-  <script>
-    $("#share-it").jsSocials({
-        shares: ["email", "twitter", "facebook", "googleplus", "linkedin"],
-        showLabel: false,
-        showCount: "inside"
-    });
+  <div class="ssk-group ssk-lg ssk-count">
+    <a href="" class="ssk ssk-facebook"></a>
+    <a href="" class="ssk ssk-twitter"></a>
+    <a href="" class="ssk ssk-google-plus"></a>
+    <a href="" class="ssk ssk-linkedin"></a>
+  </div>
+  <script type="text/javascript">
+    SocialShareKit.init();
   </script>
 </main>

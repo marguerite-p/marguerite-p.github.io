@@ -22,8 +22,10 @@
 
 <!-- Twitter -->
 <meta name="twitter:card" content="summary">
-<meta name="twitter:site" content="@twitter_handle">
-<meta name="twitter:creator" content="@twitter_handle">
+{% if site.twitter.handle %}
+<meta name="twitter:site" content="@{{ site.twitter.handle }}">
+<meta name="twitter:creator" content="@{{ site.twitter.handle }}">
+{% endif %}
 
 <!-- Open Graph -->
 <meta property="og:type" content="{{ type }}">
@@ -34,14 +36,20 @@
 <meta property="og:description" content="{{ description }}">
 <meta property="og:image" content="{{ image }}">
 <meta property="og:image:alt" content="{{ title }}">
-<meta property="fb:profile_id" content="100004117324768">
-<meta property="fb:app_id" content="appid">
-<meta property="fb:admins" content="100004117324768">
+{% if site.facebook.app_id %}
+<meta property="fb:app_id" content="{{ site.facebook.app_id }}">
+{% endif %}
+{% if site.facebook.profile_id %}
+<meta property="fb:profile_id" content="{{ site.facebook.profile_id  }}">
+<meta property="fb:admins" content="{{ site.facebook.profile_id  }}">
+{% endif %}
 
 {% if type == 'article' %}
 <!-- Open Graph - Article -->
-<meta property="article:author" content="100004117324768">
-<meta property="article:publisher" content="100004117324768">
+{% if site.facebook.profile_id %}
+<meta property="article:author" content="{{ site.facebook.profile_id  }}">
+<meta property="article:publisher" content="{{ site.facebook.profile_id  }}">
+{% endif %}
 <meta property="article:section" content="{{ page.category }}">
 <meta property="article:published_time" content="{{ page.date | date_to_xmlschema }}">
 {% for keyword in keywords %}
