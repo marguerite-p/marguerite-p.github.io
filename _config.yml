@@ -26,8 +26,12 @@ icons:
   small: /assets/images/square-sj-48x48.png
   medium: /assets/images/square-sj-96x96.png
   large: /assets/images/square-sj-192x192.png
-  full: /assets/images/square-socio-jam-500x500.png
 
+
+# for sharing best prectices, see:
+# https://developers.facebook.com/docs/sharing/best-practices/
+# https://developer.twitter.com/en/docs/tweets/optimize-with-cards/overview/summary
+share_image: /assets/images/banner-socio-jam-300x200.png
 twitter:
   handle: marguerite_pom
 facebook:
@@ -97,3 +101,4 @@ defaults:
     values:
       layout: post
       nav: blog
+      share_image: /assets/images/banner-socio-jam-300x200.png
