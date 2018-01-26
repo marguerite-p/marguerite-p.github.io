@@ -22,6 +22,12 @@ description: Rédactrice web et community manager freelance, je vous prête ma p
 baseurl: "" # the subpath of your site, e.g. /blog
 url: https://marguerite-p.github.io # the base hostname & protocol for your site, e.g. http://example.com
 
+icons:
+  small: /assets/images/square-sj-48x48.png
+  medium: /assets/images/square-sj-96x96.png
+  large: /assets/images/square-sj-192x192.png
+  full: /assets/images/square-socio-jam-500x500.png
+
 twitter:
   handle: marguerite_pom
 facebook:
