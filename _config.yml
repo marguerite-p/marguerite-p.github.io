@@ -31,7 +31,7 @@ icons:
 # for sharing best prectices, see:
 # https://developers.facebook.com/docs/sharing/best-practices/
 # https://developer.twitter.com/en/docs/tweets/optimize-with-cards/overview/summary
-share_image: /assets/images/square-socio-jam-500x500.png
+share_image: /assets/images/square-socio-jam-375x375.png
 twitter:
   handle: marguerite_pom
 facebook:
