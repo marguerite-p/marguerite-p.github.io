@@ -1,16 +1,1 @@
-// enable offscreen images lazy loading
-var myLazyLoad = new LazyLoad();
-
-$(function () {
-  // Get all "navbar-burger" elements
-  var $navbarBurgers = $('.navbar-burger');
-
-  $navbarBurgers.on('click', function (event) {
-    var $el = $(event.delegateTarget);
-    var $target = $('#' + $el.data('target'));
-
-    // Toggle the class on both the "navbar-burger" and the "navbar-menu"
-    $el.toggleClass('is-active');
-    $target.toggleClass('is-active');
-  });
-});
+!function(a){"use strict";new LazyLoad,a(function(){a(".navbar-burger").on("click",function(t){var e=a(t.delegateTarget),i=a("#"+e.data("target"));e.toggleClass("is-active"),i.toggleClass("is-active")})})}(jQuery);

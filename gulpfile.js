@@ -1,8 +1,10 @@
 const gulp = require('gulp');
+
 const imagemin = require('gulp-imagemin');
 const smushit = require('gulp-smushit');
+const uglify = require('gulp-uglify');
 
-gulp.task('compress', () => {
+gulp.task('compress:images', () => {
   return gulp.src('assets/images/raw/*')
     .pipe(imagemin([
       imagemin.jpegtran({ progressive: true }),
@@ -12,4 +14,10 @@ gulp.task('compress', () => {
       verbose: true
     }))
     .pipe(gulp.dest('assets/images'));
+});
+
+gulp.task('compress:js', () => {
+  return gulp.src('assets/js/src/*.js')
+    .pipe(uglify())
+    .pipe(gulp.dest('assets/js'));
 });
