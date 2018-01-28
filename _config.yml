@@ -53,6 +53,7 @@ sass:
 # Build settings
 exclude:
   - package.json
+  - package-lock.json
   - gulpfile.js
   - node_modules
   - README.md
