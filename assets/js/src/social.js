@@ -24,7 +24,7 @@
       'facebook': {
         url: 'https://www.facebook.com/sharer/sharer.php?u={url}',
         count: {
-          url: 'https://graph.facebook.com/?id={url}&callback=?',
+          url: 'https://graph.facebook.com/?id={url}',
           countGetter: function (data) { return data.share.share_count; }
         }
       },
@@ -34,7 +34,7 @@
       'linkedin': {
         url: 'https://www.linkedin.com/shareArticle?mini=true&url={url}',
         count: {
-          url: 'https://www.linkedin.com/countserv/count/share?url={url}&callback=?',
+          url: 'https://www.linkedin.com/countserv/count/share?url={url}',
           countGetter: function (data) { return data.count; }
         }
       },
@@ -114,9 +114,10 @@
     if (!countConf) { return; }
 
     var countUrl = countConf.url.replace('{url}', url);
-    $.getJSON(countUrl, function (data) {
-      appendCountDiv(safeguard(function () { return countConf.countGetter(data); }), $component);
-    });
+    fetchJSONP(countUrl)
+      .then(function (data) {
+        appendCountDiv(safeguard(function () { return countConf.countGetter(data); }), $component);
+      });
   }
 
   function safeguard(fn) {
@@ -132,6 +133,30 @@
   function appendCountDiv(count, $component) {
     $component.append($('<div>', { class: 'ssk-num' }).html(shorten(count)));
   }
+
+  var fetchJSONP = (function (unique) {
+    return function (url) {
+      return new Promise(function (rs) {
+        var script = document.createElement('script');
+        var name = '_jsonp_' + unique++;
+
+        if (url.match(/\?/)) {
+          url += '&callback=' + name;
+        } else {
+          url += '?callback=' + name;
+        }
+
+        script.src = url;
+        window[name] = function (json) {
+          rs(json);
+          script.remove();
+          delete window[name];
+        };
+
+        document.body.appendChild(script);
+      });
+    };
+  })(0);
 
   $.fn[pluginName] = function (options) {
     return this.each(function () {
