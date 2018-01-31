@@ -4,7 +4,7 @@ nav: blog
 order: 1
 ---
 
-<div class="about-headline content">
+<div class="blog-headline content">
   <h1>Bonjour, moi c’est {{ site.author }}, rédactrice web freelance à Grenoble !</h1>
 
   <p><strong><em>On dit de moi que je suis curieuse, créative et polyvalente. Une chose est sûre : j’adore les
@@ -15,7 +15,7 @@ order: 1
 <div class="blog-categories">
   <h1>Derniers articles, par catégorie</h1>
   {% for category in site.data.categories %}
-  <div class="columns is-vcentered">
+  <div class="columns is-vcentered is-gapless">
     <div class="column is-one-third">
       {% assign category_page = site.custom_categories | where: 'category', category.name | first %}
       <a href="{{ category_page.url }}">
@@ -26,11 +26,11 @@ order: 1
       </a>
     </div>
     {% assign posts = site.categories[category.name] %}
-    <div class="column">
-      <div class="columns is-mobile">
+    <div class="column blog-categories__latest">
+      <div class="columns is-mobile is-multiline">
       {% if posts %}
       {% for post in posts limit:3 %}
-        <div class="blog-categories__preview column is-one-third">
+        <div class="blog-categories__preview column is-half-mobile is-one-third-tablet">
           {% include post_preview.html show_excerpt=true %}
         </div>
       {% endfor %}
@@ -42,7 +42,7 @@ order: 1
       </div>
     </div>
     {% if posts %}
-    <div>
+    <div class="column is-narrow">
       <a href="{{ category_page.url }}">more</a>
     </div>
     {% endif %}

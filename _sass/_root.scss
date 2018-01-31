@@ -181,13 +181,24 @@ $icon-dimensions-xlarge: 4rem;
   }
 }
 
-// .blog {
-//   &-categories {
-//     &__preview {
-//       background-color: aqua;
-//     }
-//   }
-// }
+.blog {
+  &-headline {
+    padding: 1rem;
+  }
+
+  &-categories__latest,
+  &-latest {
+    .columns{
+      margin: 0;
+    }
+  }
+}
+
+.post {
+  &-wrapper {
+    margin: 0;
+  }
+}
 
 .article {
   &-head {

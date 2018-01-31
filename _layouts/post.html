@@ -2,38 +2,61 @@
 layout: default
 ---
 
-<main aria-label="Article">
-  <div class="article-head">
-    <div class="title article-title">
-      {{ page.title }}
-    </div>
-    {% assign author = page.author | default: site.author %}
-    <div class="article-author">
-      <em>by {{ author }}</em>
-    </div>
-    <div class="article-date">
-      <em>{{ page.date | date: "%d/%m/%Y" }}</em>
-    </div>
-    <div class="article-tags">
-      <div class="tags">
-        <span class="tag">Tag label</span>
-        <span class="tag">Tag label</span>
-        <span class="tag">Tag label</span>
+<div class="post-wrapper columns">
+  <main class="post-article column is-three-quarter" aria-label="Article">
+    <div class="article-head">
+      <div class="title article-title">
+        {{ page.title }}
+      </div>
+      {% assign author = page.author | default: site.author %}
+      <div class="article-author">
+        <em>by {{ author }}</em>
+      </div>
+      <div class="article-date">
+        <em>{{ page.date | date: "%d/%m/%Y" }}</em>
+      </div>
+      <div class="article-tags">
+        <div class="tags">
+          <span class="tag">Tag label</span>
+          <span class="tag">Tag label</span>
+          <span class="tag">Tag label</span>
+        </div>
       </div>
     </div>
+    <div class="article-body content">
+      {{ content }}
+    </div>
+    <div class="ssk-group ssk-lg ssk-count">
+      <a href="" data-network="facebook" class="ssk ssk-facebook"></a>
+      <a href="" data-network="twitter" class="ssk ssk-twitter"></a>
+      <a href="" data-network="google-plus" class="ssk ssk-google-plus"></a>
+      <a href="" data-network="linkedin" class="ssk ssk-linkedin"></a>
+    </div>
+    <script type="text/javascript">
+      $(function () {
+        $('.ssk-group').socialLinks();
+      });
+    </script>
+  </main>
+  <div class="post-sidebar column is-one-quarter">
+    <aside class="menu">
+      <p class="menu-label">
+        Categories
+      </p>
+      <ul class="menu-list">
+        <li><a href="">Dashboard</a></li>
+        <li><a href="">Customers with a really long name</a></li>
+        <li><a href="">Customers</a></li>
+        <li><a href="">Customers yeah dude</a></li>
+      </ul>
+      <p class="menu-label">
+        Related articles
+      </p>
+      <ul class="menu-list">
+        {% for post in site.posts limit:3 %}
+        <li>{% include post_preview.html show_excerpt=false %}</li>
+        {% endfor %}
+      </ul>
+    </aside>
   </div>
-  <div class="article-body content">
-    {{ content }}
-  </div>
-  <div class="ssk-group ssk-lg ssk-count">
-    <a href="" data-network="facebook" class="ssk ssk-facebook"></a>
-    <a href="" data-network="twitter" class="ssk ssk-twitter"></a>
-    <a href="" data-network="google-plus" class="ssk ssk-google-plus"></a>
-    <a href="" data-network="linkedin" class="ssk ssk-linkedin"></a>
-  </div>
-  <script type="text/javascript">
-    $(function () {
-      $('.ssk-group').socialLinks();
-    });
-  </script>
-</main>
+</div>
