@@ -2,7 +2,13 @@
 layout: default
 ---
 
-<div class="post-wrapper columns">
+<div class="cm-portrait">
+  <figure class="image">
+    <img src="{{ '/assets/images/carnet.jpg' | relative_url }}" alt="{{ page.title }}">
+  </figure>
+</div>
+
+<div class="post-main columns">
   <main class="post-article column is-three-quarter" aria-label="Article">
     <div class="article-head">
       <div class="title article-title">
@@ -44,7 +50,7 @@ layout: default
         Categories
       </p>
       <ul class="menu-list">
-        <li><a href="">Dashboard</a></li>
+        <li><a href="" class="is-active">Dashboard</a></li>
         <li><a href="">Customers with a really long name</a></li>
         <li><a href="">Customers</a></li>
         <li><a href="">Customers yeah dude</a></li>
