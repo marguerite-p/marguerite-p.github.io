@@ -13,7 +13,6 @@ Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculu
 
 # hello, This is Markdown Live Preview
 
-----
 ## what is Markdown?
 see [Wikipedia](http://en.wikipedia.org/wiki/Markdown)
 
@@ -39,10 +38,36 @@ see [Wikipedia](http://en.wikipedia.org/wiki/Markdown)
     code (4 spaces indent)
 [links](http://wikipedia.org)
 
+http://wikipedia.org
+
 ----
 ## changelog
 * 17-Feb-2013 re-design
 
+dsfgjieugh zelkfgld lkezfhglhz lzhekjghzleug lkuhzlekuhlzehgluh z
+lhhzeghlezkhr liuhelkrhlkzehrlhtlzehritlzehrltihez lzerhlzehrhi 
+lieurhlizehrlthzelrithiuh lzieurhtlhzelrhtzleruth lziul uzerhl ulzehr luuher
+
+ohzeliezhrluihiulh lzieuurhliuuzh eliuhlzeurhluierhlh lzueir
+
+ergezrgzegergegegzgreyhre g th zet  
+zze
+
 ----
 ## thanks
 * [markdown-js](https://github.com/evilstreak/markdown-js)
+
+**test**
+
+<div class="columns">
+    <div class="column is-one-quarter">
+        <figure class="image">
+            <img src="{{ '/assets/images/bureau.jpg' | relative_url }}" alt="{{ page.title }}">
+        </figure>
+    </div>
+    <div class="column">
+        qfsfesrferf
+    </div>
+</div>
+
+loilollo
