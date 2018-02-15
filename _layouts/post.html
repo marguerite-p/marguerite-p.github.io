@@ -43,6 +43,11 @@ layout: default
         $('.ssk-group').socialLinks();
       });
     </script>
+    {% if page.comments %}
+    <div class="article-comments">
+      {% include disqus.html %}
+    </div>
+    {% endif %}
   </main>
   <div class="post-sidebar column is-one-quarter">
     <aside class="menu">
@@ -50,10 +55,10 @@ layout: default
         Categories
       </p>
       <ul class="menu-list">
-        <li><a href="" class="is-active">Dashboard</a></li>
-        <li><a href="">Customers with a really long name</a></li>
-        <li><a href="">Customers</a></li>
-        <li><a href="">Customers yeah dude</a></li>
+        {% for category in site.data.categories %}
+        {% assign category_page = site.custom_categories | where: 'category', category.name | first %}
+        <li><a href="{{ category_page.url }}" class="{% if category.name == page.category %}is-active{% endif %}">{{ category.title }}</a></li>
+        {% endfor %}
       </ul>
       <p class="menu-label">
         Related articles
