@@ -29,12 +29,31 @@
         }
       },
       'google-plus': {
-        url: 'https://plus.google.com/share?url={url}'
+        url: 'https://plus.google.com/share?url={url}',
+        count: {
+          url: 'https://clients6.google.com/rpc?key=AIzaSyCKSbrvQasunBoV16zDH9R33D88CeLr9gQ',
+          config: {
+            method: 'POST',
+            body: [{
+              method: 'pos.plusones.get',
+              id: 'p',
+              params: { id: '{url}', userId: '@viewer', groupId: '@self', nolog: true },
+              jsonrpc: '2.0',
+              key: 'p',
+              apiVersion: 'v1'
+            }],
+            headers: {
+              'Content-Type': 'application/json'
+            }
+          },
+
+          countGetter: function (data) { return data.count; }
+        }
       },
       'linkedin': {
         url: 'https://www.linkedin.com/shareArticle?mini=true&url={url}',
         count: {
-          url: 'https://www.linkedin.com/countserv/count/share?url={url}',
+          url: 'https://www.linkedin.com/countserv/count/share?url={url}&format=json',
           countGetter: function (data) { return data.count; }
         }
       },
@@ -69,7 +88,7 @@
           .reduce(function (accu, value) {
             return accu.replace('{' + value + '}', encodeURIComponent(base.settings.share_data[value]))
           },
-          networkConf.url
+            networkConf.url
           );
         $component.attr('href', href)
 
@@ -114,7 +133,8 @@
     if (!countConf) { return; }
 
     var countUrl = countConf.url.replace('{url}', url);
-    fetchJSONP(countUrl)
+    var promise = countConf.jsonp === true ? fetchJSONP(countUrl) : fetch(countUrl, countConf.config);
+    promise
       .then(function (data) {
         appendCountDiv(safeguard(function () { return countConf.countGetter(data); }), $component);
       });
@@ -135,20 +155,21 @@
   }
 
   var fetchJSONP = (function (unique) {
-    return function (url) {
-      return new Promise(function (rs) {
+    var defaults = {
+      parameter: 'callback'
+    };
+    return function (url, options) {
+      var config = $.extend({}, defaults, options);
+      return new Promise(function (resolve) {
         var script = document.createElement('script');
         var name = '_jsonp_' + unique++;
 
-        if (url.match(/\?/)) {
-          url += '&callback=' + name;
-        } else {
-          url += '?callback=' + name;
-        }
+        url += url.match(/\?/) ? '&' : '?';
+        url += config.parameter + '=' + name
 
         script.src = url;
         window[name] = function (json) {
-          rs(json);
+          resolve(json);
           script.remove();
           delete window[name];
         };
@@ -157,6 +178,46 @@
       });
     };
   })(0);
+
+  var fetch = (function () {
+    var defaults = {
+      method: 'GET',
+      responseType: 'json'
+    };
+    return function (url, options) {
+      var config = $.extend({}, defaults, options);
+      return new Promise(function (resolve, reject) {
+        var request = new XMLHttpRequest();
+        request.open(config.method, url, true)
+        request.responseType = config.responseType;
+        // set headers
+        config.headers && Object
+          .keys(config.headers)
+          .forEach(function (header) {
+            request.setRequestHeader(header, config.headers[header]);
+          });
+
+        request.onload = function () {
+          if (this.status >= 200 && this.status < 300) {
+            resolve(request.response);
+          } else {
+            reject({
+              status: this.status,
+              statusText: request.statusText
+            });
+          }
+        };
+
+        request.onerror = function () {
+          reject({
+            status: this.status,
+            statusText: request.statusText
+          });
+        };
+        request.send(JSON.stringify(config.body));
+      });
+    };
+  })();
 
   $.fn[pluginName] = function (options) {
     return this.each(function () {
