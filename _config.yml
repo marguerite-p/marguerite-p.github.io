@@ -37,6 +37,7 @@ twitter:
 facebook:
   app_id: TODO
   profile_id: 100004117324768
+disqus_name: known-as-bmf
 
 webmaster_verifications:
   google: google verif
@@ -102,3 +103,4 @@ defaults:
     values:
       layout: post
       nav: blog
+      comments: true

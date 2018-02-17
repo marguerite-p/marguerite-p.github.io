@@ -7,7 +7,7 @@
 {% assign title = page.title | default: site.title | escape %}
 {% assign description = page.meta-description | default: page.excerpt | default: site.description | strip_html | normalize_whitespace | truncate: 160 | escape %}
 {% assign author = page.author | default: site.author %}
-{% assign keywords = page.meta-keywords | default: site.keywords %}
+{% assign tags = page.tags %}
 {% if page.layout == 'post' %}
 {% assign type = 'article' %}
 {% else %}
@@ -16,8 +16,10 @@
 
 <title>{{ title }}</title>
 <meta name="description" content="{{ description }}">
-<meta name="author" content="{{ author }}" />
-<meta name="keywords" content="{{ keywords | join: ', ' }}" />
+<meta name="author" content="{{ author }}">
+{% if tags %}
+<meta name="keywords" content="{{ tags | join: ', ' }}">
+{% endif %}
 <meta name="image" content="{{ image }}">
 
 <!-- Twitter -->
@@ -52,8 +54,8 @@
 {% endif %}
 <meta property="article:section" content="{{ page.category }}">
 <meta property="article:published_time" content="{{ page.date | date_to_xmlschema }}">
-{% for keyword in keywords %}
-<meta property="article:tag" content="{{ keyword }}">
+{% for tag in tags %}
+<meta property="article:tag" content="{{ tag }}">
 {% endfor %}
 {% endif %}
 

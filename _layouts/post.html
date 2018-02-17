@@ -11,27 +11,25 @@ layout: default
 <div class="post-main columns">
   <main class="post-article column is-three-quarter" aria-label="Article">
     <div class="article-head">
-      <div class="title article-title">
-        {{ page.title }}
-      </div>
-      {% assign author = page.author | default: site.author %}
-      <div class="article-author">
-        <em>by {{ author }}</em>
+      <div class="article-title">
+        <h1 class="title">{{ page.title }}</h1>
       </div>
       <div class="article-date">
         <em>{{ page.date | date: "%d/%m/%Y" }}</em>
-      </div>
-      <div class="article-tags">
-        <div class="tags">
-          <span class="tag">Tag label</span>
-          <span class="tag">Tag label</span>
-          <span class="tag">Tag label</span>
-        </div>
       </div>
     </div>
     <div class="article-body content">
       {{ content }}
     </div>
+    {% if page.tags %}
+    <div class="article-tags">
+      <div class="tags">
+        {% for tag in page.tags %}
+        <span class="tag">{{ tag }}</span>
+        {% endfor %}
+      </div>
+    </div>
+    {% endif %}
     <div class="ssk-group ssk-lg ssk-count">
       <a href="" data-network="facebook" class="ssk ssk-facebook"></a>
       <a href="" data-network="twitter" class="ssk ssk-twitter"></a>
@@ -43,6 +41,11 @@ layout: default
         $('.ssk-group').socialLinks();
       });
     </script>
+    {% if page.comments %}
+    <div class="article-comments">
+      {% include disqus.html %}
+    </div>
+    {% endif %}
   </main>
   <div class="post-sidebar column is-one-quarter">
     <aside class="menu">
@@ -50,10 +53,10 @@ layout: default
         Categories
       </p>
       <ul class="menu-list">
-        <li><a href="" class="is-active">Dashboard</a></li>
-        <li><a href="">Customers with a really long name</a></li>
-        <li><a href="">Customers</a></li>
-        <li><a href="">Customers yeah dude</a></li>
+        {% for category in site.data.categories %}
+        {% assign category_page = site.custom_categories | where: 'category', category.name | first %}
+        <li><a href="{{ category_page.url }}" class="{% if category.name == page.category %}is-active{% endif %}">{{ category.title }}</a></li>
+        {% endfor %}
       </ul>
       <p class="menu-label">
         Related articles
