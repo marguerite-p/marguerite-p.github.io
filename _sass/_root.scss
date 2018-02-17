@@ -67,6 +67,16 @@ $icon-dimensions-xlarge: 4rem;
   }
 }
 
+img:not([src]) {
+  visibility: hidden;
+}
+/* Fixes Firefox anomaly during image load */
+@-moz-document url-prefix() {
+  img:-moz-loading {
+    visibility: hidden;
+  }
+}
+
 .content {
   h1,
   h2,

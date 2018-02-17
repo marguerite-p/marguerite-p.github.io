@@ -1,9 +1,6 @@
 ; (function ($) {
   'use strict';
 
-  // enable offscreen images lazy loading
-  new LazyLoad();
-
   $(function () {
     // Get all "navbar-burger" elements
     var $navbarBurgers = $('.navbar-burger');
