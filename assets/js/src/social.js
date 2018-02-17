@@ -29,7 +29,7 @@
         }
       },
       'google-plus': {
-        url: 'https://plus.google.com/share?url={url}',
+        url: 'https://plus.google.com/share?url={url}'/*,
         count: {
           url: 'https://clients6.google.com/rpc?key=AIzaSyCKSbrvQasunBoV16zDH9R33D88CeLr9gQ',
           config: {
@@ -48,7 +48,7 @@
           },
 
           countGetter: function (data) { return data.count; }
-        }
+        }*/
       },
       'linkedin': {
         url: 'https://www.linkedin.com/shareArticle?mini=true&url={url}',
