@@ -27,6 +27,10 @@ html {
   font-family: $signika-font;
 }
 
+.is-varela-round {
+  font-family: $varela-round-font;
+}
+
 .is-varela {
   font-family: $varela-font;
 }
@@ -45,7 +49,7 @@ $emoji-size: 20px;
   position: relative;
 }
 
-.is-column {
+.is-direction-column {
   flex-direction: column;
 }
 
@@ -76,9 +80,31 @@ $icon-dimensions-xlarge: 4rem;
 }
 
 .index {
+  &-header {
+    align-items: center;
+    justify-content: center;
+    margin-bottom: 1em;
+    padding: 1rem;
+
+    &__quote {
+      color: $socio-jam-red;
+      font-size: 5em;
+      line-height: 1;
+      &:first-child {
+        padding-right: 1rem;
+      }
+      &:last-child {
+        padding-left: 1rem;
+      }
+    }
+
+    h1 {
+      letter-spacing: 1px;
+    }
+  }
+
   &-title {
     align-items: center;
-    margin-bottom: 1em;
   }
 
   &-page {
@@ -186,10 +212,20 @@ $icon-dimensions-xlarge: 4rem;
     padding: 1rem;
   }
 
-  &-categories__latest,
+  &-category__latest,
   &-latest {
     .columns{
       margin: 0;
+    }
+  }
+
+  &-category {
+    &__title {
+      padding: 1rem;
+      text-align: center;
+    }
+    &__more {
+      text-align: center;
     }
   }
 }
@@ -200,16 +236,18 @@ $icon-dimensions-xlarge: 4rem;
   }
 }
 
+.title {
+  @extend .is-smallcaps;
+  @extend .is-varela;
+  letter-spacing: 1px;
+}
+
 .article {
   &-head {
     padding-bottom: 1em;
   }
-  &-title,
-  &-author {
-    display: inline-block
-  }
   &-title {
-    margin-bottom: 0;
+    margin-bottom: 0.5rem;
   }
   &-author {
     font-size: 1rem;

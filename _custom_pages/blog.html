@@ -4,48 +4,47 @@ nav: blog
 order: 1
 ---
 
-<div class="blog-headline content">
-  <h1>Bonjour, moi c’est {{ site.author }}, rédactrice web freelance à Grenoble !</h1>
-
-  <p><strong><em>On dit de moi que je suis curieuse, créative et polyvalente. Une chose est sûre : j’adore les
-  nouveaux défis. Aujourd’hui je décide de lancer mon entreprise de rédaction web et réseaux
-  sociaux freelance pour vivre de ma passion et faire de belles rencontres.</em></strong></p>
+<div class="blog-headline">
+  <h1 class="title is-size-2">Bienvenue dans mon boudoir numérique</h1>
 </div>
 
 <div class="blog-categories">
-  <h1>Derniers articles, par catégorie</h1>
   {% for category in site.data.categories %}
-  <div class="columns is-vcentered is-gapless">
-    <div class="column is-one-third">
-      {% assign category_page = site.custom_categories | where: 'category', category.name | first %}
-      <a href="{{ category_page.url }}">
-        <figure class="image">
-          <img data-src="{{ category.image }}" alt="{{ category.title }}">
-        </figure>
-        <h1>{{ category.title }}</h1>
-      </a>
+  <div class="blog-category">
+    <div class="blog-category__title">
+      <hi class="title is-size-3">{{ category.title }}</hi>
     </div>
-    {% assign posts = site.categories[category.name] %}
-    <div class="column blog-categories__latest">
-      <div class="columns is-mobile is-multiline">
-      {% if posts %}
-      {% for post in posts limit:3 %}
-        <div class="blog-categories__preview column is-half-mobile is-one-third-tablet">
-          {% include post_preview.html show_excerpt=true %}
-        </div>
-      {% endfor %}
-      {% else %}
-        <div class="column is-full has-text-centered">
-            Pas encore d'articles :hushed:
-        </div>
-      {% endif %}
+    <div class="columns is-vcentered is-gapless">
+      <div class="column is-one-third">
+        {% assign category_page = site.custom_categories | where: 'category', category.name | first %}
+        <a href="{{ category_page.url }}">
+          <figure class="image">
+            <img data-src="{{ category.image }}" alt="{{ category.title }}">
+          </figure>
+        </a>
       </div>
+      {% assign posts = site.categories[category.name] %}
+      <div class="column blog-category__latest">
+        <div class="columns is-mobile is-multiline">
+        {% if posts %}
+        {% for post in posts limit:3 %}
+          <div class="blog-category__preview column is-half-mobile is-one-third-tablet">
+            {% include post_preview.html %}
+          </div>
+        {% endfor %}
+        {% else %}
+          <div class="column is-full has-text-centered">
+              Pas encore d'articles :hushed:
+          </div>
+        {% endif %}
+        </div>
+      </div>
+      {% if posts %}
+      <div class="blog-category__more column is-narrow">
+        <a class="button is-primary" href="{{ category_page.url }}">Voir plus</a>
+      </div>
+      {% endif %}
     </div>
-    {% if posts %}
-    <div class="column is-narrow">
-      <a href="{{ category_page.url }}">more</a>
-    </div>
-    {% endif %}
   </div>
   {% endfor %}
 </div>

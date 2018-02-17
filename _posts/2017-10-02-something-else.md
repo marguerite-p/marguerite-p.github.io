@@ -4,6 +4,10 @@ category: redaction
 meta-description: Une description succinte de cet article wesh.
 excerpt: Un exerpt blah blah blah
 date: 2016-12-16 16:52:00 +0100
+tags:
+  - prout
+  - caca
+  - boudin
 ---
 
 A test article.
@@ -20,6 +24,14 @@ see [Wikipedia](http://en.wikipedia.org/wiki/Markdown)
 ## usage
 1. Write markdown text in this textarea.
 2. Click 'HTML Preview' button.
+
+
+<div class="is-centered">
+<blockquote class="twitter-tweet" data-lang="fr"><p lang="en" dir="ltr"><a href="https://twitter.com/WilliamShatner?ref_src=twsrc%5Etfw">@WilliamShatner</a> Good day, Captain. <a href="https://twitter.com/hashtag/ISS?src=hash&amp;ref_src=twsrc%5Etfw">#ISS</a> is in standard orbit and Commander Swanson has the conn. Hope you’re having a great weekend!</p>&mdash; NASA (@NASA) <a href="https://twitter.com/NASA/status/495719809695621121?ref_src=twsrc%5Etfw">2 août 2014</a></blockquote>
+<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+</div>
+
 
 ----
 ## markdown quick reference

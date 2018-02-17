@@ -11,27 +11,25 @@ layout: default
 <div class="post-main columns">
   <main class="post-article column is-three-quarter" aria-label="Article">
     <div class="article-head">
-      <div class="title article-title">
-        {{ page.title }}
-      </div>
-      {% assign author = page.author | default: site.author %}
-      <div class="article-author">
-        <em>by {{ author }}</em>
+      <div class="article-title">
+        <h1 class="title">{{ page.title }}</h1>
       </div>
       <div class="article-date">
         <em>{{ page.date | date: "%d/%m/%Y" }}</em>
-      </div>
-      <div class="article-tags">
-        <div class="tags">
-          <span class="tag">Tag label</span>
-          <span class="tag">Tag label</span>
-          <span class="tag">Tag label</span>
-        </div>
       </div>
     </div>
     <div class="article-body content">
       {{ content }}
     </div>
+    {% if page.tags %}
+    <div class="article-tags">
+      <div class="tags">
+        {% for tag in page.tags %}
+        <span class="tag">{{ tag }}</span>
+        {% endfor %}
+      </div>
+    </div>
+    {% endif %}
     <div class="ssk-group ssk-lg ssk-count">
       <a href="" data-network="facebook" class="ssk ssk-facebook"></a>
       <a href="" data-network="twitter" class="ssk ssk-twitter"></a>
