@@ -133,8 +133,8 @@
     if (!countConf) { return; }
 
     var countUrl = countConf.url.replace('{url}', url);
-    var promise = countConf.jsonp === true ? fetchJSONP(countUrl) : fetch(countUrl, countConf.config);
-    promise
+    /*var promise = countConf.jsonp === true ? fetchJSONP(countUrl) : fetch(countUrl, countConf.config); */
+    fetch(countUrl, countConf.config)
       .then(function (data) {
         appendCountDiv(safeguard(function () { return countConf.countGetter(data); }), $component);
       });
@@ -154,7 +154,7 @@
     $component.append($('<div>', { class: 'ssk-num' }).html(shorten(count)));
   }
 
-  var fetchJSONP = (function (unique) {
+  /*var fetchJSONP = (function (unique) {
     var defaults = {
       parameter: 'callback'
     };
@@ -177,7 +177,7 @@
         document.body.appendChild(script);
       });
     };
-  })(0);
+  })(0);*/
 
   var fetch = (function () {
     var defaults = {
