@@ -12,7 +12,7 @@ order: 1
   {% for category in site.data.categories %}
   <div class="blog-category">
     <div class="blog-category__title">
-      <hi class="title is-size-3">{{ category.title }}</hi>
+      <h1 class="title is-size-3">{{ category.title }}</h1>
     </div>
     <div class="columns is-vcentered is-gapless">
       <div class="column is-one-third">
@@ -50,7 +50,9 @@ order: 1
 </div>
 
 <div class="blog-latest">
-  <h1>Derniers articles, toutes catégories</h1>
+  <div class="blog-latest__title">
+    <h1 class="title is-size-3">Derniers articles, toutes catégories</h1>
+  </div>
   <div class="columns is-multiline">
   {% for post in site.posts %}
     <div class="column is-one-quarter">

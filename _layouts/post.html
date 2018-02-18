@@ -2,17 +2,19 @@
 layout: default
 ---
 
-<div class="cm-portrait">
+{% assign image = page.hero_image %}
+{% if image %}
+<div class="post-portrait">
   <figure class="image">
-    <img src="{{ '/assets/images/carnet.jpg' | relative_url }}" alt="{{ page.title }}">
+    <img src="{{ image | relative_url }}" alt="{{ page.title }}">
   </figure>
 </div>
-
+{% endif %}
 <div class="post-main columns">
   <main class="post-article column is-three-quarter" aria-label="Article">
     <div class="article-head">
       <div class="article-title">
-        <h1 class="title">{{ page.title }}</h1>
+        <h1 class="title is-size-2">{{ page.title }}</h1>
       </div>
       <div class="article-date">
         <em>{{ page.date | date: "%d/%m/%Y" }}</em>

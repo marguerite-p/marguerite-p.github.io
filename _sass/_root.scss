@@ -222,6 +222,10 @@ img:not([src]) {
     padding: 1rem;
   }
 
+  &-categories {
+    margin-bottom: 2rem;
+  }
+
   &-category__latest,
   &-latest {
     .columns{
@@ -229,7 +233,8 @@ img:not([src]) {
     }
   }
 
-  &-category {
+  &-category,
+  &-latest {
     &__title {
       padding: 1rem;
       text-align: center;

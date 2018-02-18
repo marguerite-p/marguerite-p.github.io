@@ -2,7 +2,7 @@
 <!-- Generic -->
 {% assign url = page.url | replace:'index.html','' | absolute_url %}
 {% assign lang = page.lang | default: site.lang | default: 'fr_FR' %}
-{% assign image = page.share_image | default: site.share_image | absolute_url %}
+{% assign image = page.share_image | default: page.preview_image | default: site.share_image | absolute_url %}
 
 {% assign title = page.title | default: site.title | escape %}
 {% assign description = page.meta-description | default: page.excerpt | default: site.description | strip_html | normalize_whitespace | truncate: 160 | escape %}
