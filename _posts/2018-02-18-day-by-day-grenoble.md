@@ -60,9 +60,6 @@ C’est très varié ! J’ai beaucoup de nouveaux clients qui viennent voir un
 
 Ce qui est intéressant dans l’ouverture d’une boutique comme celle-là, c’est qu’on va avoir un peu de tout. Il y a des gens qui sont déjà convaincus et qui viennent déjà tout équipés la première fois. Il y a ceux qui sont curieux, qui entrent, mais qui hésitent à acheter. Puis il y a ceux qui viennent une première fois et que je revois très vite derrière. Il y a un peu des gens de tout âge aussi.
 
-![Canelle à la boutique day by day de Grenoble](/assets/images/environnement/day-b-day/biscuits-canelle.jpgpng)
-
-
 ## Fréquentes-tu la communauté zéro waste à Grenoble ? Que penses-tu de cette dynamique ?
 
 Oui, la première fois que j’y suis allé, c’était pour présenter mon concept. Depuis, j’ai participé à quelques réunions, j’aimerais y aller plus souvent à l’avenir. L’association est une branche locale de [Zero Waste France](https://www.zerowastefrance.org/fr). Ca a beau avoir commencé il y a seulement deux ans ici, je sens que ça va très vite se développer. L’association propose des actions très concrètes pour montrer **comment réduire ses déchets** et s’orienter vers un autre mode de consommation.
