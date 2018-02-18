@@ -19,7 +19,8 @@
 
           {% if nb_sub_menu_items > 0 %}
             <div class="navbar-item has-dropdown is-hoverable">
-              <a class="navbar-link {% if item.nav == page.nav %}is-active{% endif %}" href="{{ item.url }}">
+              <!-- <a class="navbar-link {% if item.nav == page.nav %}is-active{% endif %}" href="{{ item.url }}"> -->
+              <a class="navbar-link {% if item.nav == page.nav %}is-active{% endif %}">
                 <span>{{ item.title }}</span>
               </a>
 
