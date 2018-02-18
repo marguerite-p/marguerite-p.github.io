@@ -1,7 +1,7 @@
 ---
 title: Something else
 category: redaction
-meta-description: Une description succinte de cet article wesh.
+meta_description: Une description succinte de cet article wesh.
 excerpt: Un exerpt blah blah blah
 date: 2016-12-16 16:52:00 +0100
 tags:

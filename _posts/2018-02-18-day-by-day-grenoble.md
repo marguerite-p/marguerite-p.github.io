@@ -1,17 +1,18 @@
 ---
-title: Day by day, une épicerie 100% vrac et zéro déchet à Grenoble
+title: Day by day, épicerie 100% vrac et zéro déchet à Grenoble
 category: environnement
-meta-description: A Grenoble, un jeune ingénieur ouvre Day by day, une épicerie 100% vrac et zéro déchet pour réduire les déchets.
+meta_description: A Grenoble, un jeune ingénieur ouvre Day by day, une épicerie 100% vrac et zéro déchet pour réduire les déchets.
 
 preview_image: /assets/images/environnement/day-by-day/day-by-day-grenoble-brice-preview.jpg
+preview_description: Un ingénieur ouvre un boutique 100% vrac à Grenoble.
 hero_image: /assets/images/environnement/day-by-day/day-by-day-grenoble-brice.jpg
 
 tags:
-- zéro déchet
-- 100 % vrac
-- épicerie vrac
-- épicerie sans emballage
-- grenoble
+  - zéro déchet
+  - 100 % vrac
+  - épicerie vrac
+  - épicerie sans emballage
+  - grenoble
 ---
 
 <h2 class="is-chapo">A Grenoble, le zéro déchet a le vent en poupe ! Pourtant, pas toujours facile de savoir par où commencer pour réduire ses déchets. Mais ça tombe bien, Brice vient d’ouvrir Day by day, une nouvelle boutique 100 % vrac et sans emballages à Grenoble.</h2>

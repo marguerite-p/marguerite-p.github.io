@@ -8,13 +8,15 @@
 ```yaml
 title: Mon titre # le titre de l'article
 category: category # la categorie de l'article (voir les categories dispo dans _data/categories.yml)
-meta-description: Une description # le texte utilisé pour la balise seo description et post preview
+meta_description: Une description # le texte utilisé pour la balise seo description et post preview
 excerpt: excerpt # le texte utilisé comme fallback pour la balise seo description et le post preview
 
 preview_image: /assets/images/draft/erfklzlkef.jpg # l'image d'un post preview (~600x400)
-hero_image: /assets/images/zefsef.jpg # l'image en haut d'un article (grande taille)
-share_image: /assets/image/sdfkjlsifsddf.jpg # l'image utilisée pour le partage (~1024x512)
+preview_description: Une description # le texte a afficher dans la preview
 
+hero_image: /assets/images/zefsef.jpg # l'image en haut d'un article (grande taille)
+
+share_image: /assets/image/sdfkjlsifsddf.jpg # l'image utilisée pour le partage (~1024x512)
 # la share image est gérée comme ceci:
 # share_image, si pas trouvé => preview_image, si pas trouvé => le carré social jam redaction
 

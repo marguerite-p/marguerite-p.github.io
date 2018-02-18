@@ -6,7 +6,7 @@
       </figure>
       <h2 class="title is-size-5 has-text-centered">{{ post.title }}</h2>
       {% if include.show_excerpt %}
-      {% assign description = post.meta-description | default: post.excerpt | strip_html | normalize_whitespace | truncate: 100 | escape %}
+      {% assign description = post.preview_description | default: post.meta_description | default: post.excerpt | strip_html | normalize_whitespace | truncate: 100 | escape %}
       <p class="post-preview__excerpt has-text-justified">{{ description }}</p>
       {% endif %}
     </a>

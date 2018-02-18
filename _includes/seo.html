@@ -5,7 +5,7 @@
 {% assign image = page.share_image | default: page.preview_image | default: site.share_image | absolute_url %}
 
 {% assign title = page.title | default: site.title | escape %}
-{% assign description = page.meta-description | default: page.excerpt | default: site.description | strip_html | normalize_whitespace | truncate: 160 | escape %}
+{% assign description = page.meta_description | default: page.excerpt | default: site.description | strip_html | normalize_whitespace | truncate: 160 | escape %}
 {% assign author = page.author | default: site.author %}
 {% assign tags = page.tags %}
 {% if page.layout == 'post' %}
