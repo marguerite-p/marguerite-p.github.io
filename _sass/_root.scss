@@ -21,6 +21,13 @@ html {
   &-menu .is-active {
     font-weight: 600;
   }
+
+  &-brand &-item {
+    &:hover,
+    &:active {
+      background-color: transparent;
+    }
+  }
 }
 
 .is-signika {
