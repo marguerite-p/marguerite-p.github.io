@@ -5,10 +5,15 @@ layout: default
 {% assign category = site.data.categories | where: "name", page.category | first %}
 <div class="category">
   <div class="blog-category__title">
-    <h1 class="title is-size-3">{{ category.title }}</h1>
+    <h1 class="title is-size-3 has-text-weight-bold">{{ category.title }}</h1>
   </div>
+
+  <figure class="image">
+    <img src="{{ category.image | relative_url }}" alt="{{ category.title }}">
+  </figure>
+
   {% assign posts = site.categories[category.name] %}
-  <div class="columns is-multiline is-mobile">
+  <div class="columns is-multiline is-mobile is-marginless">
   {% for post in posts %}
     <div class="column is-one-quarter-tablet is-half-mobile">
       {% include post_preview.html show_excerpt=true %}

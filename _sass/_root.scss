@@ -213,13 +213,6 @@ img:not([src]) {
     padding: 1rem;
   }
 
-  &-headline {
-    h1 {
-      color: $black;
-      text-align: center;
-    }
-  }
-
   &-text {
     padding: 1rem;
     justify-content: center;
@@ -307,5 +300,11 @@ img:not([src]) {
 
   &-main {
     padding: 1rem;
+  }
+}
+
+.footer {
+  &-heart {
+    color: $turquoise;
   }
 }
