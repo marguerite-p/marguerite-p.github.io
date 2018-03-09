@@ -3,8 +3,9 @@ title: Coffin Rock, créations écolos pour sorcières des temps modernes
 category: mode
 meta-description: Rencontre avec Coffin, une sorcière des temps modernes. Je vous plonge dans son univers et vous fais découvrir ses créations faites mains, gothiques, écologiques et magiques.
 
+preview_image: /assets/images/mode/coffin-rock-preview.png
 hero_image: /assets/images/mode/coffin-rock-hero.png
-share_image: /assets/image/coffin-rock-share.png
+share_image: /assets/images/mode/coffin-rock-share.png
 
 tags:
 - écologie
