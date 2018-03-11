@@ -46,6 +46,22 @@ html {
   font-variant: small-caps
 }
 
+.content {
+  figure.image {
+    margin: 0 0 1em 0;
+    img {
+      display: block;
+    }
+  }
+}
+
+figure.image {
+  .is-credits {
+    color: $grey-light;
+    font-size: 1rem;
+  }
+}
+
 $emoji-size: 20px;
 .emoji {
   vertical-align: top;

@@ -3,9 +3,9 @@ title: Coffin Rock, créations écolos pour sorcières des temps modernes
 category: mode
 meta-description: Rencontre avec Coffin, une sorcière des temps modernes. Je vous plonge dans son univers et vous fais découvrir ses créations faites mains, gothiques, écologiques et magiques.
 
-preview_image: /assets/images/mode/coffin-rock/coffin-rock-preview.png
-hero_image: /assets/images/mode/coffin-rock/coffin-rock-hero.png
-share_image: /assets/images/mode/coffin-rock/coffin-rock-share.png
+preview_image: /assets/images/mode/coffin-rock/coffin-rock-preview.jpg
+hero_image: /assets/images/mode/coffin-rock/coffin-rock-hero.jpg
+share_image: /assets/images/mode/coffin-rock/coffin-rock-share.jpg
 
 tags:
 - écologie
@@ -57,7 +57,7 @@ Au départ, je souhaitais vraiment m'adresser aux gothiques, aux métalleux-euse
 
 J'ai une anecdote à ce sujet : une dame souhaitait m'acheter un porte-chéquier qui avait de jolies roses, mais aussi des crânes. Elle avait la cinquantaine, très chic, très bourgeoise. Elle me dit que ces roses sont très belles. J'ai tout de même tenu à la prévenir qu'il y avait des crânes aussi sur le motif. Elle m'a regardée, a rigolé et m'a dit que c'était parfait, que ça "taquinerait" ses enfants et ses client-e-s... Entre elle et quelques personnes âgées de plus de 80 ans qui m'ont acheté des créations sur les marchés, j'ai compris qu'en fait **mes créations sont destinées à tout le monde, quels que soient leurs goûts ou leurs styles**. Et franchement, c'est très vivifiant et souvent surprenant !
 
-![collection papillons coffin rock](/assets/images/mode/coffin-rock/coffin-rock-4.png)
+![collection papillons coffin rock](/assets/images/mode/coffin-rock/coffin-rock-4.jpg)
 
 ## ... c'est génial ! Tu es très branchée écologie, comment appliques-tu cette conviction dans tes créations ?
 
@@ -65,7 +65,7 @@ J'ai grandi en Suisse, l'écologie fait partie des gestes quotidiens d'une mani�
 
 Je suis d'ailleurs très contente que l'entreprise qui imprime mes motifs à la demande ait désormais un atelier en Allemagne, car avant je les importais des Etats-Unis (Je fais imprimer des micro-collections à partir de photos que je prends lors de mes voyages et je mets aussi en avant des films que j'aime beaucoup). J'essaie aussi d'utiliser le maximum de tissus en réfléchissant à la découpe, les chutes et petits fils se retrouvent mélangés à mon rembourrage de coussins. Ainsi, je n'ai que très peu de déchets.
 
-![coussin buche coffin rock](/assets/images/mode/coffin-rock/coffin-rock-5.png)
+![coussin buche coffin rock](/assets/images/mode/coffin-rock/coffin-rock-5.jpg)
 
 ## Comment incites-tu tes abonnés à adopter un comportement éco-responsable ?
 
@@ -77,13 +77,13 @@ J'ai commencé à faire des vidéos postées sur [youtube](https://www.youtube.c
 
 Oh, c'est une étrange question. Je dirais que **depuis l'année dernière et le scandale de la taxe tampon, mes serviettes lavables ont la cote** ! Il faut dire que je me démène pour trouver **des tissus imperméables rigolos, ténébreux et mignons** et que c'est une création qui me tient vraiment à cœur ! Mais, l'avantage de créer un panel très large est que d'une commande à l'autre, les gens vont choisir des articles totalement différents..
 
-![serviette hygiéniques lavables coffin rock](/assets/images/mode/coffin-rock/coffin-rock-6.png)
+![serviette hygiéniques lavables coffin rock](/assets/images/mode/coffin-rock/coffin-rock-6.jpg)
 
 ## J’adore la pointe d’humour dans tes créations et toutes les références pop culture. Quelles sont tes œuvres fétiches ?
 
 J'aime beaucoup les **films des années 20-50**, en noir et blanc, ces personnages très différent de ce que l'on propose aujourd'hui. Un de mes chouchou absolu est *La fiancée de Frankenstein* de James Whale : les cadrages, les lumières, le rythme, l'histoire... ce film me donne des frissons à chaque fois que je le regarde !
 
-![lingettes démaquillantes frankenstein coffin rock](/assets/images/mode/coffin-rock/coffin-rock-7.png)
+![lingettes démaquillantes frankenstein coffin rock](/assets/images/mode/coffin-rock/coffin-rock-7.jpg)
 
 Sinon, définitivement le **cinéma des années 80-90**, justement très **pop culture** ! Je pourrais citer des séries comme *Buffy contre les vampires,X-Files ou Le petit vampire*. En films : *The Craft, Le Labyrinthe (avec David Bowie), Entretien avec un vampire ou Dracula (bon, ça fait beaucoup de vampires tout ça)*...
 
@@ -97,7 +97,7 @@ Et puis si je dois faire un classement, j'ai deux films très différents qui on
 
 Oui, j'aime beaucoup le cinéma et j'écoute beaucoup de musique. **J'essaie clairement aussi d'apporter une petite touche légère et humoristique car j'aime sourire, à la vie, aux gens**.. J'aime mixer le gore à l'humour, avec des visuels parfois un peu percutants pour présenter mes créations.. surtout pour les créations écologiques qui ont dans les boutiques bio des visuels très épurés, très beige, blanc, pastels très éloigné de **mon univers "dark'n'roll"** !
 
-![bloody coffin rock](/assets/images/mode/coffin-rock/coffin-rock-9.PNG)
+![bloody coffin rock](/assets/images/mode/coffin-rock/coffin-rock-9.jpg)
 
 ## C’est quoi le G.I.Y. ?
 
@@ -114,7 +114,7 @@ Les créations sont dévoilées chaque samedi, il y a donc un rythme et du suspe
 
 ## C’est quoi une sorcière des temps moderne ?
 
-![we are all witches](/assets/images/mode/coffin-rock/coffin-rock-11.png)
+![we are all witches](/assets/images/mode/coffin-rock/coffin-rock-11.jpg)
 
 Une sorcière des temps modernes... pour moi, **sorcière est un terme qui peut dire "personne libre, joyeuse et active dans sa vie, avec un attrait pour la nature et la magie"** alors toutes 
 les sorcières sont modernes de ce point de vue là.
