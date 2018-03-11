@@ -1,12 +1,10 @@
 ---
 title: Science sans confiance ? Rétablir la confiance
 category: science
-meta-description: 
+meta-description: Alors que les controverses scientifiques et les fake news prolifèrent, la confiance envers les scientifiques baisse dangereusement... Comment rétablir la confiance ?
 
 preview_image: 
-
 hero_image: 
-
 share_image : 
 
 
@@ -17,7 +15,8 @@ tags:
 - cafés sciences
 - esprit critique
 ---
-<h2 class="is-chapo">Ce 16 janvier, l’association des Cafés Sciences inaugurait son cycle de conférences mensuelles avec une table-ronde sur la « Science sans confiance. » Trois intervenants et une quarantaine de participants ont discuté de la défiance grandissante envers les sciences et les scientifiques. Un paradoxe, alors que notre société consomme toujours davantage de biens technologiques. </h2> 
+
+<h2 class="is-chapo">Ce 16 janvier, l’association des Cafés Sciences inaugurait son cycle de conférences mensuelles avec une table-ronde sur la « Science sans confiance. » Trois intervenants et une quarantaine de participants ont discuté de la défiance grandissante envers les sciences et les scientifiques. Un paradoxe, alors que notre société consomme toujours davantage de biens technologiques.</h2> 
 
  L’actualité de l’année 2017 fut ponctuée de **fake news et de « faits alternatifs »**, mais aussi de controverses scientifiques, comme celles sur les vaccins ou les perturbateurs endocriniens. Outre-manche, puis en Europe, des scientifiques sont aussi descendus dans les rues « pour signifier l’immense danger que représente la mise au pas des sciences ».
 

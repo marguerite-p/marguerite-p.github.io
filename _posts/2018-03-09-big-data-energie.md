@@ -13,7 +13,9 @@ tags:
 - électricité
 - data center
 - numérique
+- cafés sciences
 ---
+
 <h2 class="is-chapo">Micro-ordinateurs, smartphones, objets connectés… pas un jour sans que nous touchions à nos compagnons numériques. Rien qu’entre 2011 et 2016, cet usage systématique du numérique a multiplié par 4,5 le trafic mondial des données (datas) [1]. Derrière ces données virtuelles, se cachent des infrastructures physiques de stockage bien réelles, qui selon les estimations, consommeraient autour de 2 % de la consommation électrique mondiale (7 % selon Greepeace).</h2> 
 
 **Quel impact de nos données numériques sur la consommation énergétique ? Le numérique a-t-il réduit la facture énergétique en remplaçant d’autres ressources ? Quelle est la responsabilité des consommateurs dans la balance ?** …autant de questions qui ont été discutées lors de la dernière édition des [cafés sciences et citoyens de Grenoble](https://www.echosciences-grenoble.fr/communautes/cafe-sciences-et-citoyens-de-l-agglomeration-grenobloise){:target="_blank"} le mardi 6 mars. Deux experts étaient présents pour nous éclairer : 
@@ -27,6 +29,8 @@ Bien qu’il y ait quelques experts dans la salle, la grande majorité exige un 
 Le **Big Data** (« **mégadonnées** »), désigne l’explosion quantitative de nos données numériques, qui exige un stockage massif. À la base du numérique, il y a le codage informatique en langage binaire (0 ; 1). Aujourd’hui, tout type de document, que ce soit un texte, une image ou une vidéo est codé dans ce format. 
 
 Pour traiter cette information, il faut effectuer une **opération de calcul numérique**. Le calcul numérique se fait via des circuits intégrés ou des processeurs. Ces composantes électroniques sont alimentées par l’électricité. Pas de secret, tout traitement numérique exige donc une alimentation énergétique. 
+
+<a style="background-color:black;color:white;text-decoration:none;padding:4px 6px;font-family:-apple-system, BlinkMacSystemFont, &quot;San Francisco&quot;, &quot;Helvetica Neue&quot;, Helvetica, Ubuntu, Roboto, Noto, &quot;Segoe UI&quot;, Arial, sans-serif;font-size:12px;font-weight:bold;line-height:1.2;display:inline-block;border-radius:3px;" href="https://unsplash.com/@freeche?utm_medium=referral&amp;utm_campaign=photographer-credit&amp;utm_content=creditBadge" target="_blank" rel="noopener noreferrer" title="Download free do whatever you want high-resolution photos from Thomas Kvistholt"><span style="display:inline-block;padding:2px 3px;"><svg xmlns="http://www.w3.org/2000/svg" style="height:12px;width:auto;position:relative;vertical-align:middle;top:-1px;fill:white;" viewBox="0 0 32 32"><title>unsplash-logo</title><path d="M20.8 18.1c0 2.7-2.2 4.8-4.8 4.8s-4.8-2.1-4.8-4.8c0-2.7 2.2-4.8 4.8-4.8 2.7.1 4.8 2.2 4.8 4.8zm11.2-7.4v14.9c0 2.3-1.9 4.3-4.3 4.3h-23.4c-2.4 0-4.3-1.9-4.3-4.3v-15c0-2.3 1.9-4.3 4.3-4.3h3.7l.8-2.3c.4-1.1 1.7-2 2.9-2h8.6c1.2 0 2.5.9 2.9 2l.8 2.4h3.7c2.4 0 4.3 1.9 4.3 4.3zm-8.6 7.5c0-4.1-3.3-7.5-7.5-7.5-4.1 0-7.5 3.4-7.5 7.5s3.3 7.5 7.5 7.5c4.2-.1 7.5-3.4 7.5-7.5z"></path></svg></span><span style="display:inline-block;padding:2px 3px;">Thomas Kvistholt</span></a>
 
 Aujourd’hui, **l’ensemble du calcul numérique est centralisé dans le cloud** (« nuage »). Le cloud trouve sa forme matérielle dans les **data centers**, les fameux centres qui stockent notre quantité astronomique de données. Des centres très énergivores... 
 
@@ -83,7 +87,3 @@ Vient le temps des questions du public dans la salle, et avec elle son lot d’i
 
 
 En espérant que la sobriété numérique et l’efficacité énergétique nous permettront d’absorber la croissance du numérique et son lot pharaonique de données… !
-
-Source des images :
-photo principale : Robert Scoble
-photo 1 : 

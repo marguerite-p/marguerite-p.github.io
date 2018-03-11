@@ -3,9 +3,9 @@ title: Coffin Rock, créations écolos pour sorcières des temps modernes
 category: mode
 meta-description: Rencontre avec Coffin, une sorcière des temps modernes. Je vous plonge dans son univers et vous fais découvrir ses créations faites mains, gothiques, écologiques et magiques.
 
-preview_image: /assets/images/mode/coffin-rock-preview.png
-hero_image: /assets/images/mode/coffin-rock-hero.png
-share_image: /assets/images/mode/coffin-rock-share.png
+preview_image: /assets/images/mode/coffin-rock/coffin-rock-preview.png
+hero_image: /assets/images/mode/coffin-rock/coffin-rock-hero.png
+share_image: /assets/images/mode/coffin-rock/coffin-rock-share.png
 
 tags:
 - écologie
@@ -16,7 +16,7 @@ tags:
 - sorcière
 ---
 
-<h2 class="is-chapo">Dans ma présentation, je vous ai annoncé la couleur de cette rubrique mode : présenter une "autre" mode, plus écologique et en décalage avec la mode mainstream. Pour mon premier article, j'ai tout de suite pensé à Coffin Rock, une créatrice bordelaise aux créations écologiques et décalées, le tout avec une touche d'humour ! </h2>
+<h2 class="is-chapo">Dans ma présentation, je vous ai annoncé la couleur de cette rubrique mode : présenter une "autre" mode, plus écologique et en décalage avec la mode mainstream. Pour mon premier article, j'ai tout de suite pensé à Coffin Rock, une créatrice bordelaise aux créations écologiques et décalées, le tout avec une touche d'humour !</h2>
 
 **Coffin Rock** vit de sa passion du DIY et crée **des objets écolos et zéro déchet pour les besoins du quotidien** : lingettes démaquillantes, serviettes hygiéniques, sacs en vrac... Coffin est une personnalité inspirante et colorée (bien que goth :smirk:). Je l'ai interviewée pour vous faire découvrir son univers de **sorcière des temps modernes**. 
 
