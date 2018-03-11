@@ -15,7 +15,7 @@ tags:
 - empathie artificielle
 - intelligence artificielle
 
-date: 2018-03-11
+date: 2018-01-01
 ---
 
 <h2 class="is-chapo">Toute relation interpersonnelle est fondée sur l’empathie. Avec les progrès en intelligence artificielle, la question de nos relations avec des robots qui arrivent de mieux en mieux à imiter le comportement humain est fréquemment posée dans les films de science-fiction: Her, Ex-Machina, Real Humans... Mais qu’en est-il dans la vraie vie ?</h2> 

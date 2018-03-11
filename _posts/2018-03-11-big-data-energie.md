@@ -14,6 +14,8 @@ tags:
 - data center
 - numérique
 - cafés sciences
+
+date: 2018-09-03
 ---
 
 <h2 class="is-chapo">Micro-ordinateurs, smartphones, objets connectés… pas un jour sans que nous touchions à nos compagnons numériques. Rien qu’entre 2011 et 2016, cet usage systématique du numérique a multiplié par 4,5 le trafic mondial des données (datas) [1]. Derrière ces données virtuelles, se cachent des infrastructures physiques de stockage bien réelles, qui selon les estimations, consommeraient autour de 2 % de la consommation électrique mondiale (7 % selon Greepeace).</h2> 

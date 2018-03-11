@@ -1,5 +1,5 @@
 ---
-title: Rites, technologies et néotribalisme au salon Experimenta
+title: Rites et technologies au salon Experimenta
 category: science
 meta-description: Quels liens entre le corps et les nouvelles technologies ? Comment se réinventent les rites ancestraux à l’aune des technologies digitales ? Comment les technologies participent à la création de nouveaux rituels et de nouvelles mythologies ?
 
@@ -15,6 +15,7 @@ tags:
 - experimenta
 - arts-sciences
 - art numérique
+
 ---
 <h2 class="is-chapo">Le vendredi 9 février, un joli panel d’artistes et de chercheurs se sont rassemblés au salon Experimenta pour échanger autour de la thématique « Corps, Rites et Technologies ».</h2> 
 
