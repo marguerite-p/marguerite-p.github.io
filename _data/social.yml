@@ -2,10 +2,12 @@
   url: 'https://www.facebook.com/Socio-Jam-R%C3%A9daction-1989502654411529/'
   class: 'facebook'
   color: '#3b5998'
+  name: page facebook
 -
   url: 'https://twitter.com/SocioJam'
   class: 'twitter'
   color: '#55acee'
+  name: compte twitter
 # -
 #   url: 'http://example.com'
 #   class: 'instagram'
@@ -14,10 +16,12 @@
   url: 'http://example.com'
   class: 'linkedin'
   color: '#007bb5'
+  name: profil linkedin
 -
   url: 'http://example.com'
   class: 'google-plus'
   color: '#dd4b39'
+  name: page google plus
 # -
 #   url: 'http://example.com'
 #   class: 'snapchat'
