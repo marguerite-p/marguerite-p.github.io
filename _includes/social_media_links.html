@@ -13,7 +13,7 @@
 <div class="social-media">
   {% for social in site.data.social %}
     <span class="icon {{ icon_size }}">
-      <a href="{{ social.url }}" alt="{{ social.name }}">
+      <a href="{{ social.url }}" aria-label="{{ social.name }}">
         <i class="fa {{ fa_size }} fa-{{ social.class }}"></i>
       </a>
     </span>
