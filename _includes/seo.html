@@ -1,7 +1,7 @@
 <!-- SEO stuff -->
 <!-- Generic -->
 {% assign url = page.url | replace:'index.html','' | absolute_url %}
-{% assign lang = page.lang | default: site.lang | default: 'fr_FR' %}
+{% assign lang = page.seo_lang | default: site.seo_lang | default: 'fr_FR' %}
 {% assign image = page.share_image | default: page.preview_image | default: site.share_image | absolute_url %}
 
 {% assign title = page.meta_title | default: page.title | default: site.title | escape %}
