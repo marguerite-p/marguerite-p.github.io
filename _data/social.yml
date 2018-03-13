@@ -1,17 +1,17 @@
 -
-  url: 'https://www.facebook.com/marguerite.jam.1'
+  url: 'https://www.facebook.com/Socio-Jam-R%C3%A9daction-1989502654411529/'
   class: 'facebook'
   color: '#3b5998'
 -
-  url: 'https://twitter.com/marguerite_pom'
+  url: 'https://twitter.com/SocioJam'
   class: 'twitter'
   color: '#55acee'
+# -
+#   url: 'http://example.com'
+#   class: 'instagram'
+#   color: '#8a3ab9'
 -
   url: 'http://example.com'
-  class: 'instagram'
-  color: '#8a3ab9'
--
-  url: 'https://www.linkedin.com/in/marguerite-pometko/'
   class: 'linkedin'
   color: '#007bb5'
 -
