@@ -59,12 +59,19 @@ layout: default
         {% endfor %}
       </ul>
       <p class="menu-label">
-        Related articles
+        Sur le même sujet
       </p>
       <ul class="menu-list">
-        {% for post in site.posts limit:3 %}
+      {% assign nb_related_posts = page.related_posts | size %}
+
+      {% if nb_related_posts > 0 %}
+        {% for related_post in page.related_posts limit:3 %}
+        {% assign post = site.posts | where_exp: 'post', 'post.path contains related_post' | first %}
         <li>{% include post_preview.html show_excerpt=false %}</li>
         {% endfor %}
+      {% else %}
+        <li>Rien à voir pour l'instant</li>
+      {% endif %}
       </ul>
     </aside>
   </div>
