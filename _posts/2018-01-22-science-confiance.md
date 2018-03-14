@@ -14,6 +14,8 @@ tags:
 - marche pour la science
 - cafés sciences
 - esprit critique
+
+date: 2018-01-22
 ---
 
 <h2 class="is-chapo">Ce 16 janvier, l’association des Cafés Sciences inaugurait son cycle de conférences mensuelles avec une table-ronde sur la « Science sans confiance. » Trois intervenants et une quarantaine de participants ont discuté de la défiance grandissante envers les sciences et les scientifiques. Un paradoxe, alors que notre société consomme toujours davantage de biens technologiques.</h2> 

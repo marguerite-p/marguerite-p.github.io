@@ -14,6 +14,8 @@ tags:
 - gothique
 - zéro déchet
 - sorcière
+
+date: 2018-02-16
 ---
 
 <h2 class="is-chapo">Dans ma présentation, je vous ai annoncé la couleur de cette rubrique mode : présenter une "autre" mode, plus écologique et en décalage avec la mode mainstream. Pour mon premier article, j'ai tout de suite pensé à Coffin Rock, une créatrice bordelaise aux créations écologiques et décalées, le tout avec une touche d'humour !</h2>

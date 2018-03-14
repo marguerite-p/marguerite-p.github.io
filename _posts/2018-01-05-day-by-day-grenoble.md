@@ -13,6 +13,8 @@ tags:
   - épicerie vrac
   - épicerie sans emballage
   - grenoble
+
+date: 2018-01-05
 ---
 
 <h2 class="is-chapo">A Grenoble, le zéro déchet a le vent en poupe ! Pourtant, pas toujours facile de savoir par où commencer pour réduire ses déchets. Mais ça tombe bien, Brice vient d’ouvrir Day by day, une nouvelle boutique 100 % vrac et sans emballages à Grenoble.</h2>
