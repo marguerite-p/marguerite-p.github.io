@@ -46,6 +46,21 @@ html {
   font-variant: small-caps
 }
 
+.is-responsive-video {
+  height: 0;
+  overflow: hidden;
+  padding-bottom: 56.25%;
+  position: relative;
+
+  iframe{
+    height: 100%;
+    left: 0;
+    position: absolute;
+    top: 0;
+    width: 100%;
+  }
+}
+
 .content {
   figure.image {
     margin: 0 0 1em 0;

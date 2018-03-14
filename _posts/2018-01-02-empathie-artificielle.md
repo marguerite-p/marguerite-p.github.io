@@ -28,7 +28,9 @@ date: 2018-01-01
 
 Deux études récentes prouvent que nous serions capables de **ressentir de l’empathie envers les robots**, une empathie semblable à celle que l'on éprouve envers nos semblables. La première étude de l’Université de Duisbourg-Essen en Allemagne[1] a observé des sujets humains face à une vidéo où un petit robot dinosaure nommé Pléo était traité successivement de façon brutale ou affectueuse. Dans la première partie de l’expérience, les chercheurs ont mesuré la conductance de la peau (comment la peau conduit l’électricité) des 40 participants. Lorsqu’ils ont visionné des vidéos violentes, les mesures ont révélé que la conductance de leur peau augmentait (nous transpirons plus quand nous ressentons des émotions fortes), même s'ils affirmaient ne pas avoir été choqués.
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/wAVtkh0mL20" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+<div class="is-responsive-video">
+    <iframe width="560" height="315" src="https://www.youtube.com/embed/wAVtkh0mL20" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+</div>
 
 La seconde partie de l’expérience mesurait par technique IRM l’activité cérébrale face à des images de violence à l’égard d’humains, de robots, puis d’objets quelconques. Il s’avère que l’activité neuronale dans les régions du système limbique est identique lorsque les participants sont confrontés à des vidéos de **violence à l’égard d’humains et de robots**. Une autre étude japonaise [2] révèle que les mêmes zones du cerveau s’activent lorsque l’on voit **un humain ou un robot dans une situation de souffrance** (étude de l’activité cérébrale par électroencéphalographie).
 
