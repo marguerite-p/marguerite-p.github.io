@@ -35,14 +35,14 @@ icons:
 share_image: /assets/images/square-socio-jam-375x375.png
 preview_image: /assets/images/banner-socio-jam-300x200.png
 twitter:
-  handle: marguerite_pom
+  handle: SocioJam
 facebook:
-  app_id: TODO
+  app_id: 2035787453363407
   profile_id: 100004117324768
-disqus_name: known-as-bmf
+disqus_name: socio-jam
 
 webmaster_verifications:
-  google: google verif
+  google: fRM8uqs3IkUcjrYN47zIezEKi7JQCzXgxirTV4t6G6Y
 
 timezone: Europe/Paris
 
