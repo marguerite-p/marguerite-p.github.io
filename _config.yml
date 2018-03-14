@@ -39,6 +39,8 @@ twitter:
 facebook:
   app_id: 2035787453363407
   profile_id: 100004117324768
+google:
+  analytics: UA-115755576-1
 disqus_name: socio-jam
 
 webmaster_verifications:
