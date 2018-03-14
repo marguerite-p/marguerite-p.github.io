@@ -21,7 +21,7 @@ email: marguerite.pometko@gmail.com
 description: Rédactrice web et community manager freelance, je vous prête ma plume créative et vous accompagne dans vos premiers pas sur les réseaux sociaux. Venez découvrir mon blog et mes prestations !
 
 baseurl: "" # the subpath of your site, e.g. /blog
-url: https://marguerite-p.github.io # the base hostname & protocol for your site, e.g. http://example.com
+# url: https://marguerite-p.github.io # the base hostname & protocol for your site, e.g. http://example.com
 
 icons:
   small: /assets/images/square-sj-48x48.png
