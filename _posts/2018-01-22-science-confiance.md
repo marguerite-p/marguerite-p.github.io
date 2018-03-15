@@ -24,13 +24,20 @@ date: 2018-01-22
 
 Si l’aptitude au doute témoigne d’un **esprit critique** encore bien présent, la **méfiance généralisée à l’encontre des scientifiques** n’en demeure pas moins inquiétante. Les enjeux ne sont pas des moindres : aux États-Unis, l’administration Trump a coupé les financements de recherche à l’Agence de Protection de l’Environnement... Si la science sans conscience est une ruine de l’âme, la **science sans confiance** n’en est pas moins dangereuse. **Comment expliquer la perte de confiance dans les faits scientifiques et quelles solutions apporter à ce problème ?**
 
-![laboratoire d'analyse](/assets/images/science/science-confiance/science-confiance-1.jpg)
+<figure class="image">
+    <img src="/assets/images/science/science-confiance/science-confiance-1.jpg" alt="laboratoire d'analyse">
+    <span class="is-credits">Drew Hays on Unsplash</span>
+</figure>
 
 ## Les causes de la défiance dans les faits scientifique
 
 **Anne Perrin** est biologiste et présidente de l’[AFIS](http://www.pseudo-sciences.org/){:target="_blank"} (Association Française pour l’Information Scientifique). Elle mène des recherches à visée normative sur les ondes électromagnétiques, afin d’en étudier les risques, et vérifier si les normes actuelles sont bien adaptées. Pour elle, le constat est clair, **la grande majorité des controverses scientifiques portent sur des sujets de santé qui nous concernent** : vache folle, médicaments, ondes électromagnétiques… Mais sur ces thèmes, il y a parfois **un gouffre entre le risque, sa perception et le danger réel**. C’est donc au scientifique de faire entendre sa voix pour informer au mieux le citoyen, en faisant la part entre les rumeurs et les faits vérifiés. Pas toujours facile… 
 
-![pilules médicament](/assets/images/science/science-confiance/science-confiance-2.jpg)
+<figure class="image">
+    <img src="/assets/images/science/science-confiance/science-confiance-2.jpg" alt="pilules médicament">
+    <span class="is-credits">Freestocks.org</span>
+</figure>
+
 
 ## La voix du scientifique, une parole parmi d’autres ?
 
@@ -48,7 +55,11 @@ Les **pseudo-études scientifiques** financées par des laboratoires pharmaceuti
 
 ## Méfiance envers les scientifiques : Comment rétablir la confiance ?
 
-![scientifique au microscope](/assets/images/science/science-confiance/science-confiance-3.jpg)
+<figure class="image">
+    <img src="/assets/images/science/science-confiance/science-confiance-3.jpg" alt="scientifique au microscope">
+    <span class="is-credits">Lucas Vasques on Unsplash</span>
+</figure>
+
 ### De l’importance de vulgariser les recherches scientifiques
 
 Pour Antoine Depaulis, la communication des scientifiques autour de leurs recherches est un devoir moral, car elles sont financées par le contribuable. En tant que chercheur neurologue, **la vulgarisation est un « devoir citoyen »** qui lui tient très à cœur. Il participe à de nombreux évènements, et contribue régulièrement à la communauté Atout cerveau sur Echosciences. Le secret d’Antoine pour tester sa communication : 
@@ -63,7 +74,7 @@ Comme le souligne Antoine Depaulis, informer ne suffit pas. L’essentiel est de
 
 <figure class="image">
     <img src="/assets/images/science/science-confiance/science-confiance-4.jpg" alt="laboratoire éprouvettes">
-    <span class="is-credits">bla bla blaaaaaa <a href="#">un lien dedze</a></span>
+    <span class="is-credits">Chuttersnap on unsplash</span>
 </figure>
 
 En attenant, des passeurs de science luttent contre la désinformation. Dans sa revue trimestrielle, l’association de l’AFIS propose un état des connaissances sur diverses controverses au croisement de la science, des techniques et de la société. Ces articles sont rédigés par des experts qui font une synthèse de toutes les publications scientifiques parues sur un sujet.
@@ -88,7 +99,3 @@ La discussion de la table-ronde s’est surtout orientée sur le vécu des scien
 #### Crédits Photos :
 
 Couverture : Vlad Tchompalov on unsplash
-1. Drew Hays on Unsplash
-2. Freestocks.org
-3. Lucas Vasques on Unsplash
-4. chuttersnap on Unsplash

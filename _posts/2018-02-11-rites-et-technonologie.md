@@ -33,8 +33,10 @@ L’Homme a toujours créé des rites pour marquer les étapes importantes de sa
 
 **Les rites se définissent communément comme des coutumes ou cérémonies répétées invariablement dans le temps, portées par la tradition**. Ce qui est anecdotique, c’est que nous tentons de maintenir ces **rites dans nos usages numériques**.
 
-![Mariage WOW](/assets/images/science/rites-technologie/rites-technologie-1.jpg)
-Mariage entre un deux trolls dans le jeu vidéo World of Warcraft, source : [Mamytwink](https://www.mamytwink.com/actualite/ils-fetent-leur-union-dans-world-of-warcraft){:target="_blank"}
+<figure class="image">
+    <img src="/assets/images/science/rites-technologie/rites-technologie-1.jpg" alt="mariage Wow">
+    <span class="is-credits">Mariage entre un deux trolls dans le jeu vidéo World of Warcraft, source : <a href="https://www.mamytwink.com/actualite/ils-fetent-leur-union-dans-world-of-warcraft" target="_blank">'Mamytwink</a></span>
+</figure>
 
 ## Digital Vaudou : des rites millénaires rencontrent la technologie
 
