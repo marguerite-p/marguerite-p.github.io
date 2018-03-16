@@ -80,10 +80,10 @@ Si certains psychologues craignent que le robot devienne un substitut aux relati
 
 #### Sources :
 
-Couverture : enfants jouant avec le robot Pleo, Bart van overbeeke
-[1] ROSENTHAL VON DER PÜTTEN A.., HOFFMAN A., SOBIERAJ S., EIMLER S., ”An experimental study on emotional reactions towards a robot”, International Journal of Social Robotics, January 2013  
+Couverture : enfants jouant avec le robot Pleo, Bart van overbeeke  
+[1] ROSENTHAL VON DER PÜTTEN A., HOFFMAN A., SOBIERAJ S., EIMLER S., ”An experimental study on emotional reactions towards a robot”, International Journal of Social Robotics, January 2013  
 [2] SUZUJI Y., GALLI L., IKEDA A., ITAKURA S., KITAZAKI M., ”Measuring empathy for human and robot hand pain using electroencephalography”, Scientific Reports, November 2015  
-[3] . SINGER P.W., Wired For War: The Robotics Revolution and Conflict in the 21st Century, Penguin, 2009)  
+[3] SINGER P.W., Wired For War: The Robotics Revolution and Conflict in the 21st Century, Penguin, 2009  
 [4] TISSERON S., Le jour où mon robot m’aimera, vers l’empathie artificielle, Albin Michel, septembre 2015  
 [5] HENNO J., « [Les robots face au défi de l’empathie](http://www.lesechos.fr/idees-debats/sciences-prospective/021304845082-les-robots-face-au-defi-de-lempathie-1153265.php) », Lesechos.fr, 08/09   
 [6] Ibid. HENNO J., « Les robots face au défi de l’empathie »
