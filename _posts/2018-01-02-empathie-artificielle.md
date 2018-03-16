@@ -60,8 +60,10 @@ Il s’oppose à l’idée de Kate Darling de **protéger les robots de la maltr
 
 ## Aimer son robot ?
 
-![Bender Futurama aimer son robot](/assets/images/science/empathie-artificielle/empathie-artificielle-1.jpg)
-Le robot Bender dans la série Futurama
+<figure class="image">
+    <img src="/assets/images/science/empathie-artificielle/empathie-artificielle-2.jpg" alt="Bender futurama amour robot">
+    <span class="is-credits">Le robot Bender dans la série Futurama</span>
+</figure>
 
 Dans la série suédoise **Real Humans**, les **relations sexuelles avec son robot** ou un robot de prostitution sont socialement acceptées, ce qui a interpellé de nombreux téléspectateurs. Pourtant, certains voient en les robots l’avenir des sex toys et des poupées gonflables. Dans son livre *Love and Sex with Robots* (2007), le chercheur britannique **David Levy** craint que dans cinquante ans **la robophilie** devienne la norme. Pour la maître de conférences en psychologie **Helen Driscoll**, la **sex tech** (technologie du sexe) est vouée à se développer rapidement :
 
@@ -74,16 +76,16 @@ Si certains psychologues craignent que le robot devienne un substitut aux relati
 
 ## Alors, prêts à vivre avec les robots?
 
-<div class="has-text-right">Article initalement publié sur <a href="https://www.echosciences-grenoble.fr/communautes/monstrueux/articles/les-dangers-de-l-empathie-artificielle#_ftn1" target="_blank">Echosciences</a> le 16/05/16</div>
+<p class="has-text-right">Article initalement publié sur <a href="https://www.echosciences-grenoble.fr/communautes/monstrueux/articles/les-dangers-de-l-empathie-artificielle#_ftn1" target="_blank">Echosciences</a> le 16/05/16</p>
 
 #### Sources :
 
-[1] ROSENTHAL VON DER PÜTTEN A.., HOFFMAN A., SOBIERAJ S., EIMLER S., ”An experimental study on emotional reactions towards a robot”, International Journal of Social Robotics, January 2013
-[2] SUZUJI Y., GALLI L., IKEDA A., ITAKURA S., KITAZAKI M., ”Measuring empathy for human and robot hand pain using electroencephalography”, Scientific Reports, November 2015
-[3] . SINGER P.W., Wired For War: The Robotics Revolution and Conflict in the 21st Century, Penguin, 2009)
-[4] TISSERON S., Le jour où mon robot m’aimera, vers l’empathie artificielle, Albin Michel, septembre 2015
-[5] HENNO J., « Les robots face au défi de l’empathie », Lesechos.fr, 08/09
-http://www.lesechos.fr/idees-debats/sciences-prospective/021304845082-les-robots-face-au-defi-de-lempathie-1153265.php
+Couverture : enfants jouant avec le robot Pleo, Bart van overbeeke
+[1] ROSENTHAL VON DER PÜTTEN A.., HOFFMAN A., SOBIERAJ S., EIMLER S., ”An experimental study on emotional reactions towards a robot”, International Journal of Social Robotics, January 2013  
+[2] SUZUJI Y., GALLI L., IKEDA A., ITAKURA S., KITAZAKI M., ”Measuring empathy for human and robot hand pain using electroencephalography”, Scientific Reports, November 2015  
+[3] . SINGER P.W., Wired For War: The Robotics Revolution and Conflict in the 21st Century, Penguin, 2009)  
+[4] TISSERON S., Le jour où mon robot m’aimera, vers l’empathie artificielle, Albin Michel, septembre 2015  
+[5] HENNO J., « [Les robots face au défi de l’empathie](http://www.lesechos.fr/idees-debats/sciences-prospective/021304845082-les-robots-face-au-defi-de-lempathie-1153265.php) », Lesechos.fr, 08/09   
 [6] Ibid. HENNO J., « Les robots face au défi de l’empathie »
 
 

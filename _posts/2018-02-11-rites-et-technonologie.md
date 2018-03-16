@@ -35,7 +35,7 @@ L’Homme a toujours créé des rites pour marquer les étapes importantes de sa
 
 <figure class="image">
     <img src="/assets/images/science/rites-technologie/rites-technologie-1.jpg" alt="mariage Wow">
-    <span class="is-credits">Mariage entre un deux trolls dans le jeu vidéo World of Warcraft, source : <a href="https://www.mamytwink.com/actualite/ils-fetent-leur-union-dans-world-of-warcraft" target="_blank">'Mamytwink</a></span>
+    <span class="is-credits">Mariage entre un deux trolls dans le jeu vidéo World of Warcraft, source : <a href="https://www.mamytwink.com/actualite/ils-fetent-leur-union-dans-world-of-warcraft" target="_blank">Mamytwink</a></span>
 </figure>
 
 ## Digital Vaudou : des rites millénaires rencontrent la technologie
@@ -86,4 +86,4 @@ La quête du corps parfait dans la « ville intelligente » se poursuit. Reste �
     <span class="is-credits">Live-sketch réalisé durant la conférence par <a href="https://twitter.com/JuPolge" target="_blank">Julie Polge</a></span>
 </figure>
 
-<div class="has-text-right">Article initalement publié sur <a href="https://www.echosciences-grenoble.fr/articles/rites-et-technologies-au-salon-experimenta-2018" target="_blank">Echosciences</a></div>
+<p class="has-text-right">Article initalement publié sur <a href="https://www.echosciences-grenoble.fr/articles/rites-et-technologies-au-salon-experimenta-2018" target="_blank">Echosciences</a></p>

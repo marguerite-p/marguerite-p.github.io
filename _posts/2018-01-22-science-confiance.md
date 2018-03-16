@@ -88,7 +88,7 @@ Pour l’association Sciences Citoyennes, la **déontologie de la recherche** es
 
 La discussion de la table-ronde s’est surtout orientée sur le vécu des scientifiques et les moyens d’action à leur disposition. Mais face à la désinformation, il est bon de rappeler le rôle des vulgarisateurs, médiateurs et autres "passeurs de science" pour rappeler la démarche scientifique. Cette méthode est au fondement même de l'esprit critique, essentiel pour participer aux décisions scientifiques et technologique qui nous concernent. En attenant, Anne Perrin nous recommande de nous informer sur des sites comme l'AFIS, Le Pharmachien, e-penser, La Tronche en biais, ou bien encore Controversciences. 
 
-<div class="has-text-right">Article initalement publié sur <a href="https://www.echosciences-grenoble.fr/communautes/cafe-sciences-et-citoyens-de-l-agglomeration-grenobloise/articles/cafe-sciences-comment-retablir-la-confiance-en-la-scienc" target="_blank">Echosciences</a></div>
+<p class="has-text-right">Article initalement publié sur <a href="https://www.echosciences-grenoble.fr/communautes/cafe-sciences-et-citoyens-de-l-agglomeration-grenobloise/articles/cafe-sciences-comment-retablir-la-confiance-en-la-scienc" target="_blank">Echosciences</a></p>
 
 #### Pour aller plus loin / Sources :
 

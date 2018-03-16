@@ -113,7 +113,7 @@ Cette revendication à priori éloignée du débat ne l’est pas tellement. Num
 
 
 ...En espérant que la sobriété numérique et l’efficacité énergétique nous permettront d’absorber la croissance du numérique et son lot pharaonique de données !
-</br>
+
 #### Crédit Photo :
 
 Couverture : Robert Scoble on Flickr
