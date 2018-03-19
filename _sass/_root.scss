@@ -30,6 +30,15 @@ html {
   }
 }
 
+.menu {
+  &-label {
+    text-align: center;
+  }
+  &-list a.is-active {
+    @extend .has-text-weight-bold;
+  }
+}
+
 .is-signika {
   font-family: $signika-font;
 }

@@ -58,21 +58,36 @@ layout: default
         <li><a href="{{ category_page.url }}" class="{% if category.name == page.category %}is-active{% endif %}">{{ category.title }}</a></li>
         {% endfor %}
       </ul>
+      <!-- Related articles -->
+      {% assign nb_related_posts = page.related_posts | size %}
+      {% if nb_related_posts > 0 %}
       <p class="menu-label">
         Sur le même sujet
       </p>
       <ul class="menu-list">
-      {% assign nb_related_posts = page.related_posts | size %}
-
-      {% if nb_related_posts > 0 %}
         {% for related_post in page.related_posts limit:3 %}
         {% assign post = site.posts | where_exp: 'post', 'post.path contains related_post' | first %}
         <li>{% include post_preview.html show_excerpt=false %}</li>
         {% endfor %}
+      </ul>
       {% else %}
-        <li>Rien à voir pour l'instant</li>
+      <!-- Category fallback -->
+      <p class="menu-label">
+        Dans la même catégorie
+      </p>
+      <ul class="menu-list">
+      {% assign posts = site.categories[page.category] | where_exp: 'post', 'post.path != page.path' %}
+
+      {% assign nb_posts = posts | size %}
+      {% if nb_posts > 0 %}
+        {% for post in posts limit:3 %}
+        <li>{% include post_preview.html show_excerpt=false %}</li>
+        {% endfor %}
+      {% else %}
+        <li>Rien à voir pour l'instant :hushed:</li>
       {% endif %}
       </ul>
+      {% endif %}
     </aside>
   </div>
 </div>
