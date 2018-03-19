@@ -14,10 +14,16 @@ layout: default
 
   {% assign posts = site.categories[category.name] %}
   <div class="columns is-multiline is-mobile is-marginless">
+  {% if posts %}
   {% for post in posts %}
     <div class="column is-one-quarter-tablet is-half-mobile">
       {% include post_preview.html show_excerpt=true %}
     </div>
   {% endfor %}
+  {% else %}
+    <div class="column is-full has-text-centered">
+        Pas encore d'articles :hushed:
+    </div>
+  {% endif %}
   </div>
 </div>
