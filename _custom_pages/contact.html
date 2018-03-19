@@ -3,11 +3,35 @@ title: Contact
 nav: contact
 order: 3
 
+meta_title: Marguerite Pometko – Contact
 meta_description: Vous souhaitez un renseignement ou un devis gratuit personnalisé pour mes prestations en rédaction web ou community management ? Présentez-moi votre projet !
 ---
 
-<div class="contact-headline">
+<!-- <div class="contact-headline">
   <h1 class="title is-size-2 has-text-weight-bold">Comment me contacter ?</h1>
+</div> -->
+
+<div class="contact-info columns is-marginless">
+  <div class="contact-info__image column is-paddingless">
+    <figure class="image">
+      <img src="{{ '/assets/images/marguerite-pometko-contact.jpg' | relative_url }}" alt="{{ site.author }}">
+    </figure>
+  </div>
+  <div class="contact-info__text column is-flex is-direction-column">
+    <div class="has-text-centered">Vous souhaitez un devis gratuit ? Un renseignement ? (ou me faire un coucou)</div>
+    <div>C’est par là !!</div>
+    <div class="contact-mail has-text-weight-bold">
+      <span>Y29udGFjdC5zb2Npb2phbQ==</span><span>QA==</span><span>Z21haWwuY29t</span>
+    </div>
+    <div class="contact-social has-text-centered">
+      <span>Je suis aussi sur</span>
+      {% include social_media_links.html size='xlarge' %}
+    </div>
+  </div>
 </div>
 
-{% include social_media_links.html size='xlarge' %}
+<script type="text/javascript">
+  $(function () {
+    $('.contact-mail').cryptoMail();
+  });
+</script>

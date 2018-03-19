@@ -322,6 +322,23 @@ img:not([src]) {
   }
 }
 
+.contact {
+  &-info {
+    &__image {
+      @include tablet {
+        max-width: 400px;
+      }
+    }
+    &__text {
+      justify-content: center;
+      align-items: center;
+    }
+  }
+  &-social {
+    padding: 1rem;
+  }
+}
+
 .social-media a {
   color: $grey-light;
 
