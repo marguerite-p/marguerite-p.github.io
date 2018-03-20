@@ -91,9 +91,10 @@ J’ai été ravie de cet échange avec Brice, et j’ai moi-même pu faire mes 
 
 <div class="has-text-centered"><h3>Et vous, tentez-vous de réduire vos déchets ? Vous arrive-t-il de consommer en vrac ?</h3></div>
 
-**Pour rendre visite à Brice :**
+### Pour rendre visite à Brice :
 
-![Plan accès boutique day by day de Grenoble](/assets/images/environnement/day-by-day/plan-acces-day-by-day.png)
-5 Place Condorcet, 38000 Grenoble
+![Plan accès boutique day by day de Grenoble](/assets/images/environnement/day-by-day/plan-acces-day-dy-day.png)
+
+5 Place Condorcet, 38000 Grenoble  
 Ouverture de 9h30 à 12h puis de 15h à 19h30 du mardi jusqu'au samedi et de 10h à 14h le dimanche  
 04 56 24 34 47
