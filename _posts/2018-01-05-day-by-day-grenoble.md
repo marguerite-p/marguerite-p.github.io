@@ -17,9 +17,9 @@ tags:
 date: 2018-01-05
 ---
 
-<h2 class="is-chapo">A Grenoble, le zéro déchet a le vent en poupe ! Pourtant, pas toujours facile de savoir par où commencer pour réduire ses déchets. Mais ça tombe bien, Brice vient d’ouvrir Day by day, une nouvelle boutique 100 % vrac et sans emballages à Grenoble.</h2>
+<h2 class="is-chapo">A Grenoble, le zéro déchet a le vent en poupe ! Pourtant, pas toujours facile de savoir par où commencer pour réduire ses déchets. Mais ça tombe bien, Brice vient d’ouvrir [Day by day](https://www.facebook.com/bricededaybydaygrenoble/){:target="_blank"}, une nouvelle boutique 100 % vrac et sans emballages à Grenoble.</h2>
 
-Il y a deux ans, [un collectif Zero Waste](https://www.facebook.com/ZeroWasteGrenoble/) s’organisait dans la ville et une première [boutique de vente en vrac](https://www.facebook.com/labonnepiochegrenoble/?hc_ref=ARQIcgpydv4fNaJk3LB-7DM01J5NKFIGpj2d8jWNRAHBnFEocKdJK_OLvVHBWtz9nO0) ouvrait ses portes. Depuis, comme en témoigne le succès des mensuels apéros zéro déchet, toujours plus de citoyens souhaitent s’impliquer en faveur de la réduction des déchets.
+Il y a deux ans, [un collectif Zero Waste](https://www.facebook.com/ZeroWasteGrenoble/){:target="_blank"} s’organisait dans la ville et une première [boutique de vente en vrac](https://www.facebook.com/labonnepiochegrenoble/?hc_ref=ARQIcgpydv4fNaJk3LB-7DM01J5NKFIGpj2d8jWNRAHBnFEocKdJK_OLvVHBWtz9nO0){:target="_blank"} ouvrait ses portes. Depuis, comme en témoigne le succès des mensuels apéros zéro déchet, toujours plus de citoyens souhaitent s’impliquer en faveur de la réduction des déchets.
 
 **Day by day**, c’est un réseau de 34 épiceries françaises lancées en 2013. Dans leur **démarche éco-responsable**, plutôt que de jouer la carte du bio (même si on en trouve en magasin), les enseignes misent sur la proximité et les **produits du quotidien**. Et on parle bien là de l’essentiel : des pâtes, du riz, des légumes et des fruits secs, des épices, du thé, des produits d’entretien et d’hygiène... L’objectif étant d’avoir des clients qui reviennent régulièrement, mais qui achètent **la juste quantité pour éviter tout gaspillage**. Une façon de responsabiliser le consommateur, tout en lui redonnant la pleine maîtrise de ses achats et en se débarrassant des emballages superflus !
 
@@ -93,6 +93,7 @@ J’ai été ravie de cet échange avec Brice, et j’ai moi-même pu faire mes 
 
 **Pour rendre visite à Brice :**
 
-5 Place Condorcet, 38000 Grenoble  
+![Plan accès boutique day by day de Grenoble](/assets/images/environnement/day-by-day/plan-acces-day-by-day.png)
+5 Place Condorcet, 38000 Grenoble
 Ouverture de 9h30 à 12h puis de 15h à 19h30 du mardi jusqu'au samedi et de 10h à 14h le dimanche  
 04 56 24 34 47
