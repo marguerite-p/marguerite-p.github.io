@@ -93,6 +93,8 @@ J’ai été ravie de cet échange avec Brice, et j’ai moi-même pu faire mes 
 
 ### Pour rendre visite à Brice :
 
+![adresse boutique day by day de Grenoble](/assets/images/environnement/day-by-day/plan-acces-day-dy-day.PNG)
+
 5 Place Condorcet, 38000 Grenoble  
 Ouverture de 9h30 à 12h puis de 15h à 19h30 du mardi jusqu'au samedi et de 10h à 14h le dimanche  
 04 56 24 34 47
