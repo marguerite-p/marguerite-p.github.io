@@ -19,7 +19,7 @@ date: 2018-01-05
 
 <h2 class="is-chapo">A Grenoble, le zéro déchet a le vent en poupe ! Pourtant, pas toujours facile de savoir par où commencer pour réduire ses déchets. Mais ça tombe bien, Brice vient d’ouvrir Day by day, une nouvelle boutique 100 % vrac et sans emballages à Grenoble.</h2>
 
-Il y a deux ans, [un collectif Zero Waste](https://www.facebook.com/ZeroWasteGrenoble/) s’organisait dans la ville et une première [boutique de vente en vrac](https://www.facebook.com/labonnepiochegrenoble/?hc_ref=ARQIcgpydv4fNaJk3LB-7DM01J5NKFIGpj2d8jWNRAHBnFEocKdJK_OLvVHBWtz9nO0) ouvrait ses portes. Depuis, comme en témoigne le succès des mensuels apéros zéro déchet, toujours plus de citoyens souhaitent s’impliquent en faveur de la réduction des déchets.
+Il y a deux ans, [un collectif Zero Waste](https://www.facebook.com/ZeroWasteGrenoble/) s’organisait dans la ville et une première [boutique de vente en vrac](https://www.facebook.com/labonnepiochegrenoble/?hc_ref=ARQIcgpydv4fNaJk3LB-7DM01J5NKFIGpj2d8jWNRAHBnFEocKdJK_OLvVHBWtz9nO0) ouvrait ses portes. Depuis, comme en témoigne le succès des mensuels apéros zéro déchet, toujours plus de citoyens souhaitent s’impliquer en faveur de la réduction des déchets.
 
 **Day by day**, c’est un réseau de 34 épiceries françaises lancées en 2013. Dans leur **démarche éco-responsable**, plutôt que de jouer la carte du bio (même si on en trouve en magasin), les enseignes misent sur la proximité et les **produits du quotidien**. Et on parle bien là de l’essentiel : des pâtes, du riz, des légumes et des fruits secs, des épices, du thé, des produits d’entretien et d’hygiène... L’objectif étant d’avoir des clients qui reviennent régulièrement, mais qui achètent **la juste quantité pour éviter tout gaspillage**. Une façon de responsabiliser le consommateur, tout en lui redonnant la pleine maîtrise de ses achats et en se débarrassant des emballages superflus !
 
@@ -37,7 +37,7 @@ L’idée m’est venue au cours d’un voyage en Amérique du Sud. J’ai été
 
 ## J’avoue que je suis aussi sidérée par la vitesse à laquelle ma poubelle se remplit… Il me semble que tu travaillais dans l’informatique avant, qu’est-ce qui t’a poussé à devenir commerçant ?
 
-J’avais envie de faire quelque chose qui correspondait davantage à mes idéaux. J’ai enfin l’occasion d’avoir un impact direct dans cause pour la **réduction des déchets**. Ça me tenait à cœur.
+J’avais envie de faire quelque chose qui correspondait davantage à mes idéaux. J’ai enfin l’occasion d’avoir un impact direct dans la cause pour la **réduction des déchets**. Ça me tenait à cœur.
 
 ![pâtes dans la boutique en vrac day by day](/assets/images/environnement/day-by-day/pates-day-by-day.jpg)
 
@@ -62,7 +62,7 @@ C’est très varié ! J’ai beaucoup de nouveaux clients qui viennent voir un
 
 Ce qui est intéressant dans l’ouverture d’une boutique comme celle-là, c’est qu’on va avoir un peu de tout. Il y a des gens qui sont déjà convaincus et qui viennent déjà tout équipés la première fois. Il y a ceux qui sont curieux, qui entrent, mais qui hésitent à acheter. Puis il y a ceux qui viennent une première fois et que je revois très vite derrière. Il y a un peu des gens de tout âge aussi.
 
-## Fréquentes-tu la communauté zéro waste à Grenoble ? Que penses-tu de cette dynamique ?
+## Fréquentes-tu la communauté zero waste à Grenoble ? Que penses-tu de cette dynamique ?
 
 Oui, la première fois que j’y suis allé, c’était pour présenter mon concept. Depuis, j’ai participé à quelques réunions, j’aimerais y aller plus souvent à l’avenir. L’association est une branche locale de [Zero Waste France](https://www.zerowastefrance.org/fr). Ca a beau avoir commencé il y a seulement deux ans ici, je sens que ça va très vite se développer. L’association propose des actions très concrètes pour montrer **comment réduire ses déchets** et s’orienter vers un autre mode de consommation.
 
@@ -75,7 +75,7 @@ Certains en proposent déjà. Mais personnellement, je ne considère pas ça vra
 
 ## Dans les années à venir, penses-tu que les petits commerces pourraient gagner en importance face aux grandes surfaces ?
 
-Normalement oui, il y a eu un changement récemment. Les gens sont en train de revenir au centre-ville pour faire leurs courses. Fini les paniers complets pour le mois dans des grandes-surfaces bondées de personnes. La preuve c’est que **Day by Day** existe aujourd’hui. Il y a quelques années ça n’aurait pas été possible, bien que l’idée existe depuis 15 ans. **Les gens ont changé d’optique,ils sont prêts à payer plus pour un produit de meilleur qualité qu’ils trouveront à proximité de leur domicile**.
+Normalement oui, il y a eu un changement récemment. Les gens sont en train de revenir au centre-ville pour faire leurs courses. Fini les paniers complets pour le mois dans des grandes-surfaces bondées de personnes. La preuve c’est que **Day by Day** existe aujourd’hui. Il y a quelques années ça n’aurait pas été possible, bien que l’idée existe depuis 15 ans. **Les gens ont changé d’optique, ils sont prêts à payer plus pour un produit de meilleure qualité qu’ils trouveront à proximité de leur domicile**.
 
 ![Lessive à la boutique day by day de Grenoble](/assets/images/environnement/day-by-day/lessive-day-by-day.jpg)
 
@@ -90,3 +90,8 @@ Merci Marguerite !
 J’ai été ravie de cet échange avec Brice, et j’ai moi-même pu faire mes propres emplettes, je suis convertie ! Donc, d’après leur slogan, **Day by Day** c’est : **La juste quantité et la juste qualité au juste prix pour le consommateur et pour l’environnement**. Car rappelons-le : chaque gaspillage de nourriture, c’est aussi une perte d’argent, d’énergie et de matières premières, qui ont été nécessaires à sa production. Certaines enseignes comme Lidl devraient en prendre compte : dans la course aux prix bas, on perd forcément en qualité, et les revenus des salariés en pâtissent.
 
 <div class="has-text-centered"><h3>Et vous, tentez-vous de réduire vos déchets ? Vous arrive-t-il de consommer en vrac ?</h3></div>
+
+**Pour rendre visite à Brice :**
+5 Place Condorcet, 38000 Grenoble
+Ouverture de 9h30 à 12h puis de 15h à 19h30 du mardi jusqu'au samedi et de 10h à 14h le dimanche
+04 56 24 34 47
