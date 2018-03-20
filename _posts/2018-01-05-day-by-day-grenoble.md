@@ -17,7 +17,7 @@ tags:
 date: 2018-01-05
 ---
 
-<h2 class="is-chapo">A Grenoble, le zéro déchet a le vent en poupe ! Pourtant, pas toujours facile de savoir par où commencer pour réduire ses déchets. Mais ça tombe bien, Brice vient d’ouvrir [Day by day](https://www.facebook.com/bricededaybydaygrenoble/){:target="_blank"}, une nouvelle boutique 100 % vrac et sans emballages à Grenoble.</h2>
+<h2 class="is-chapo">A Grenoble, le zéro déchet a le vent en poupe ! Pourtant, pas toujours facile de savoir par où commencer pour réduire ses déchets. Mais ça tombe bien, Brice vient d’ouvrir Day by Day, une nouvelle boutique 100 % vrac et sans emballages à Grenoble.</h2>
 
 Il y a deux ans, [un collectif Zero Waste](https://www.facebook.com/ZeroWasteGrenoble/){:target="_blank"} s’organisait dans la ville et une première [boutique de vente en vrac](https://www.facebook.com/labonnepiochegrenoble/?hc_ref=ARQIcgpydv4fNaJk3LB-7DM01J5NKFIGpj2d8jWNRAHBnFEocKdJK_OLvVHBWtz9nO0){:target="_blank"} ouvrait ses portes. Depuis, comme en témoigne le succès des mensuels apéros zéro déchet, toujours plus de citoyens souhaitent s’impliquer en faveur de la réduction des déchets.
 
