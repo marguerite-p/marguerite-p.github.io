@@ -18,10 +18,10 @@ tags:
 date: 2018-03-09
 ---
 
-<h2 class="is-chapo">Micro-ordinateurs, smartphones, objets connectés… pas un jour sans que nous touchions à nos compagnons numériques. Rien qu’entre 2011 et 2016, cet usage systématique du numérique a multiplié par 4,5 le trafic mondial des données (source : ARCEP). Derrière ces données virtuelles, se cachent des infrastructures physiques de stockage bien réelles, qui selon les estimations, consommeraient autour de 2 % de la consommation électrique mondiale (7 % selon Greepeace).</h2>
+<h2 class="is-chapo">Micro-ordinateurs, smartphones, objets connectés… pas un jour sans que nous ne touchions à nos compagnons numériques. Rien qu’entre 2011 et 2016, cet usage systématique du numérique a multiplié par 4,5 le trafic mondial des données (source : ARCEP). Derrière ces données virtuelles, se cachent des infrastructures physiques de stockage bien réelles, qui selon les estimations, consommeraient autour de 2 % de la consommation électrique mondiale (7 % selon Greepeace).</h2>
 
 **Quel est l'impact de nos données numériques sur la consommation énergétique ? Le numérique a-t-il réduit la facture énergétique en remplaçant d’autres ressources ? Quelle est la responsabilité du consommateur dans la balance ?** …autant de questions qui ont été discutées lors de la dernière édition des [cafés sciences et citoyens de Grenoble](https://www.echosciences-grenoble.fr/communautes/cafe-sciences-et-citoyens-de-l-agglomeration-grenobloise){:target="_blank"} le mardi 6 mars. Deux experts étaient présents pour nous éclairer :
-- **Françoise Berthoud**, ingénieur de recherche au groupe de travail [Ecoinfo du CNRS](https://ecoinfo.cnrs.fr/){:target="_blank"}, organisme de recherche public sur l’écologie du numérique
+- **Françoise Berthoud**, ingénieure de recherche au groupe de travail [Ecoinfo du CNRS](https://ecoinfo.cnrs.fr/){:target="_blank"}, organisme de recherche public sur l’écologie du numérique
 - **Denis Dutoit**, ingénieur-chercheur pour l’efficacité énergétique en électronique
 
 ## Big Data, késako ?
