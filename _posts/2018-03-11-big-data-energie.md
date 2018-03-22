@@ -18,7 +18,7 @@ tags:
 date: 2018-03-09
 ---
 
-<h2 class="is-chapo">Micro-ordinateurs, smartphones, objets connectés… pas un jour sans que nous touchions à nos compagnons numériques. Rien qu’entre 2011 et 2016, cet usage systématique du numérique a multiplié par 4,5 le trafic mondial des données (ARCEP). Derrière ces données virtuelles, se cachent des infrastructures physiques de stockage bien réelles, qui selon les estimations, consommeraient autour de 2 % de la consommation électrique mondiale (7 % selon Greepeace).</h2>
+<h2 class="is-chapo">Micro-ordinateurs, smartphones, objets connectés… pas un jour sans que nous touchions à nos compagnons numériques. Rien qu’entre 2011 et 2016, cet usage systématique du numérique a multiplié par 4,5 le trafic mondial des données (source : ARCEP). Derrière ces données virtuelles, se cachent des infrastructures physiques de stockage bien réelles, qui selon les estimations, consommeraient autour de 2 % de la consommation électrique mondiale (7 % selon Greepeace).</h2>
 
 **Quel est l'impact de nos données numériques sur la consommation énergétique ? Le numérique a-t-il réduit la facture énergétique en remplaçant d’autres ressources ? Quelle est la responsabilité du consommateur dans la balance ?** …autant de questions qui ont été discutées lors de la dernière édition des [cafés sciences et citoyens de Grenoble](https://www.echosciences-grenoble.fr/communautes/cafe-sciences-et-citoyens-de-l-agglomeration-grenobloise){:target="_blank"} le mardi 6 mars. Deux experts étaient présents pour nous éclairer :
 - **Françoise Berthoud**, ingénieur de recherche au groupe de travail [Ecoinfo du CNRS](https://ecoinfo.cnrs.fr/){:target="_blank"}, organisme de recherche public sur l’écologie du numérique
@@ -32,7 +32,7 @@ Bien qu’il y ait quelques experts dans la salle, la grande majorité exige un 
 
 Le **Big Data** (« **mégadonnées** »), désigne l’explosion quantitative de nos données numériques (*data*), qui exige un stockage massif. À la base du numérique, il y a le codage informatique en langage binaire (0 ; 1). Tout type de document, que ce soit un texte, une image ou une vidéo est codé dans ce format.
 
-Pour traiter ces données, il faut effectuer des **opérations de calcul numérique**. Ces opérations sont faites via des composantes électroniques tels que des circuits intégrés ou des processeurs. Pour alimenter ces composantes, il faut de l'électricité. Pas de secret, **tout traitement numérique exige donc une alimentation énergétique**.
+Pour traiter ces données, il faut effectuer des **opérations de calcul numérique**. Ces opérations sont faites via des composantes électroniques comme les circuits intégrés ou les processeurs. Pour alimenter ces composantes, il faut de l'électricité. Pas de secret, **tout traitement numérique exige donc une alimentation énergétique**.
 
 <figure class="image">
     <img src="/assets/images/environnement/big-data-energie/big-data-2.jpg" alt="circuit intégré ordinateur">
@@ -50,9 +50,9 @@ Pour vous donner une idée : Lorsque vous envoyez un mail avec une image en pi�
     <span class="is-credits">Imgx on Unsplash</span>
 </figure>
 
-Il y aurait autour de **180 data centers en France**, dont un tiers en Ile-de-France (UFE). Ils ont une consommation électrique moyennne de 40 gigawatts, soit une quarantaine de tranches de centrales nucléaires (Ecoinfo, 2013).
+Il y aurait autour de **180 data centers en France**, dont un tiers en Ile-de-France (UFE). Ils ont une consommation électrique moyennne de 40 gigawatts, soit une quarantaine de [tranches de centrales nucléaires](http://dictionnaire.sensagent.leparisien.fr/tranche%20nucl%C3%A9aire/fr-fr/){:target="_blank"}  (Ecoinfo, 2013).
 
-**L’électricité sert à alimenter leur fonctionnement, mais aussi le refroidissement des machines**. Vos genoux chauffent quand vous avez votre ordinateur sur les genoux ? Je vous laisse imaginer la chaleur produite par ces forteresses ! Le tout a un impact sur le climat, mais aussi sur les émissions de gaz à effet de serre. L’impact varie en fonction du mix énergétique national. En France, les émissions sont autour de 34 grammes de CO2 par kwh au mois de février.
+**L’électricité sert à alimenter leur fonctionnement, mais aussi le refroidissement des machines**. Vos genoux chauffent quand vous avez votre ordinateur sur les jambes ? Je vous laisse imaginer la chaleur produite par ces forteresses ! Le tout a un impact sur le climat, mais aussi sur les émissions de gaz à effet de serre. L’impact varie en fonction du [mix énergétique](https://fr.wikipedia.org/wiki/Mix_%C3%A9nerg%C3%A9tique){:target="_blank"} national. 
 
 La consommation énergétique est d’autant plus élevée si les exigences de sécurité sont fortes. Pour palier à tout risque d’effacement des données, celles-ci sont recopiées en plusieurs exemplaires (c’est ce que l’on appelle la redondance). Résultat : deux fois plus de données, stockées pour une durée quasi-illimitée !
 
@@ -90,18 +90,18 @@ Une autre piste est de **réduire les coûts du transfert énergétique**, car l
 
 Vient le temps des questions du public dans la salle, et avec elle son lot d’inquiétudes. Les conversations délient sur la sécurité des données et des risques d’attaques terroristes. Une dame à ma table, un peu de la vieille école, s’indigne :
 
-> *"on veut tout passer au numérique, on ne me laisse pas le choix ! Quand je vais voir ma collègue de bureau, elle me dit que j’aurais pu lui envoyer un mail !"*
+> *"On veut tout passer au numérique, on ne me laisse pas le choix ! Quand je vais voir ma collègue de bureau, elle me dit que j’aurais pu lui envoyer un mail !"*
 
-Cette revendication à priori éloignée du débat ne l’est pas tellement. Numériser pour numériser, sans réelle utilité pour se donner une image moderne, a un coût environnemental conséquent. Et c’est sans compter toutes les applications très énergivores aux usages parfois discutables ( Oui, on te voit, toi qui regardes la météo les volets fermés au réveil! :wink:).
+Cette revendication à priori éloignée du débat ne l’est pas tellement. Numériser pour numériser, sans réelle utilité pour se donner une image moderne, a un coût environnemental conséquent. Et c’est sans compter toutes les applications très énergivores aux usages parfois discutables ( **Oui, on te voit, toi qui regardes la météo les volets fermés au réveil !** :wink:).
 
-**Dominique Berthoud** est quant à elle peu optimiste face à l’amélioration de l’efficacité énergétique. Elle serait vite compensée par **l’effet rebond**, qui est un phénomène d’augmentation de la consommation face à un gain d’efficience. La chercheuse penche pour une **sobriété numérique**, mais n’en demeure pas moins réaliste : « renoncer au confort numérique, c’est pas gagné. » Une femme du public demande : « mais alors, qu’est-ce qu’on peut faire nous ?! ». Les deux chercheurs nous ont donné quelques pistes. Il existe aussi des guides à destination des usagers du web conçus par l’ADEME, comme [le guide de l’éco-responsabilité au bureau](http://www.ademe.fr/guide-lecoresponsabilite){:target="_blank"}.
+**Dominique Berthoud** est quant à elle peu optimiste face à l’amélioration de l’[efficacité énergétique](https://www.actu-environnement.com/ae/dictionnaire_environnement/definition/efficacite_energetique.php4){:target="_blank"}. Elle serait vite compensée par [l’effet rebond](http://dictionnaire.sensagent.leparisien.fr/effet%20rebond%20(%C3%A9conomie)/fr-fr/#D.C3.A9finition_pour_l.E2.80.99.C3.A9nergie){:target="_blank"}, qui est un phénomène d’augmentation de la consommation face à un gain d’efficience. La chercheuse penche pour une **sobriété numérique**, mais n’en demeure pas moins réaliste : « renoncer au confort numérique, c’est pas gagné. » Une femme du public demande : « mais alors, qu’est-ce qu’on peut faire nous ?! ». Les deux chercheurs nous ont donné quelques pistes. Il existe aussi des guides à destination des usagers du web conçus par l’ADEME, comme [le guide de l’éco-responsabilité au bureau](http://www.ademe.fr/guide-lecoresponsabilite){:target="_blank"}.
 
 <figure class="image">
     <img src="/assets/images/environnement/big-data-energie/big-data-5.jpg" alt="stockage des données numériques portable">
     <span class="is-credits">Erik Lucatero on Unsplash</span>
 </figure>
 
-### Comment avoir une consommation numérique raisonnée en tant que consommateur ?
+### Comment avoir une consommation numérique raisonnée ?
 
 - acheter votre équipement d’occasion et le conserver le plus longtemps possiblee
 - si vous achetez neuf, vous orienter vers les labels *Energystar* ou *TCO* pour les écrans
@@ -109,7 +109,7 @@ Cette revendication à priori éloignée du débat ne l’est pas tellement. Num
 - ramener vos équipements en fin de vie à la déchetterie dans la benne des déchets électroniques (seulement 50 % des équipements se retrouvent dans la bonne filière!)
 - être sobre dans vos usages : *Avez-vous pensé à trier tous vos e-mails ? Avez-vous vraiment besoin de toutes ces photos du nouvel an 2001 ?*
 - réduire votre téléchargement de films en streaming
-- essayez de vous orienter vers des serveurs nationaux ou européens
+- vous orienter vers des serveurs nationaux ou européens
 
 
 ...En espérant que la sobriété numérique et l’efficacité énergétique nous permettront d’absorber la croissance du numérique et son lot pharaonique de données !
