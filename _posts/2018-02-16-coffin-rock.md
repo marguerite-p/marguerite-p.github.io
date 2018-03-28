@@ -77,13 +77,13 @@ J'ai commencé à faire des vidéos postées sur [youtube](https://www.youtube.c
 
 ## Quels sont les articles que tu vends le plus ?
 
-Oh, c'est une étrange question. Je dirais que **depuis l'année dernière et le scandale de la taxe tampon, mes serviettes lavables ont la cote** ! Il faut dire que je me démène pour trouver **des tissus imperméables rigolos, ténébreux et mignons** et que c'est une création qui me tient vraiment à cœur ! L'avanatage avec mon très large panel de créations, c'est que les gens vont choisir des articles totalement différents d'une commande à l'autre. 
+Oh, c'est une étrange question. Je dirais que **depuis l'année dernière et le scandale de la taxe tampon, mes serviettes lavables ont la cote** ! Il faut dire que je me démène pour trouver **des tissus imperméables rigolos, ténébreux et mignons** et que c'est une création qui me tient vraiment à cœur ! L'avantage avec mon très large panel de créations, c'est que les gens vont choisir des articles totalement différents d'une commande à l'autre. 
 
 ![serviette hygiéniques lavables coffin rock](/assets/images/mode/coffin-rock/coffin-rock-6.jpg)
 
 ## J’adore la pointe d’humour dans tes créations et toutes les références pop culture. Quelles sont tes œuvres fétiches ?
 
-J'aime beaucoup les **films des années 20-50**, en noir et blanc, ces personnages très différents de ce que l'on propose aujourd'hui. Un de mes chouchous absolus est *La fiancée de Frankenstein* de James Whale : les cadrages, les lumières, le rythme, l'histoire... ce film me donne des frissons à chaque fois que je le regarde !
+J'aime beaucoup les **films des années 20-50**, en noir et blanc, ces personnages très différents de ce que l'on propose aujourd'hui. Un de mes chouchous absolu est *La fiancée de Frankenstein* de James Whale : les cadrages, les lumières, le rythme, l'histoire... ce film me donne des frissons à chaque fois que je le regarde !
 
 ![lingettes démaquillantes frankenstein coffin rock](/assets/images/mode/coffin-rock/coffin-rock-7.jpg)
 
