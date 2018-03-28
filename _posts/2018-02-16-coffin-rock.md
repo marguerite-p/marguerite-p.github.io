@@ -139,7 +139,7 @@ Merci Marguerite !
 
 
 **Pour retrouver Coffin Rock sur le web :**
-- [Le site Coffin Rock](www.coffinrock.com){:target="_blank"}
+- [Le site Coffin Rock](https://coffinrock.com/){:target="_blank"}
 - [Son Facebook](https://www.facebook.com/Coffin.Rock.666){:target="_blank"}
 - [Son Instagram](https://www.instagram.com/coffin_rock_creations/){:target="_blank"}
 - [Son Twitter](https://twitter.com/CoffinRock666){:target="_blank"}
