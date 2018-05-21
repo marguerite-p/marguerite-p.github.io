@@ -18,7 +18,7 @@ seo_lang: fr_FR
 title: Socio Jam
 author: Marguerite Pometko
 email: marguerite.pometko@gmail.com
-description: Rédactrice web et community manager freelance, je vous prête ma plume créative et vous accompagne dans vos premiers pas sur les réseaux sociaux. Venez découvrir mon blog et mes prestations !
+description: Rédactrice web freelance, je vous prête ma plume créative pour réaliser vos projets. Venez découvrir mon blog et mes prestations !
 
 baseurl: "" # the subpath of your site, e.g. /blog
 # url: https://marguerite-p.github.io # the base hostname & protocol for your site, e.g. http://example.com
@@ -93,6 +93,7 @@ defaults:
       type: custom_pages
     values:
       layout: page
+      enabled: true
       top-nav: true
   -
     scope:
