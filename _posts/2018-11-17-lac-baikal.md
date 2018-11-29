@@ -93,7 +93,7 @@ Le lendemain, nous nous aventurons pour une **excursion dans le Sud de l’île 
 
 ![marschrutka baikal](/assets/images/autres/baikal2/baikal27.JPG)
 
-Au programme : **7 arrêts sur la côte de l’île de Khoujir**, au bord des impressionnantes falaises, toutes porteuses d’histoires chamanes mystiques. 
+Au programme : **7 arrêts sur la côte de l’île d'Olkhon**, au bord des impressionnantes falaises, toutes porteuses d’histoires chamanes mystiques. 
 
 Notre premier arrêt se fait dans un village de pêcheurs, où **la pêche est progressivement remplacée par les boutiques de souvenirs pour touristes**. Notre guide-conducteur nous confie amèrement : « *Depuis que l’on nous a interdit de pêcher l’Omoul, on s’est tous reconvertis dans la marschrutka pour servir de taxi aux touristes.* »
 
