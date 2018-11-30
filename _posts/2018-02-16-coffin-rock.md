@@ -1,7 +1,7 @@
 ---
 title: Coffin Rock, créations écolos pour sorcières des temps modernes
 category: mode
-meta-description: Rencontre avec Coffin, une sorcière des temps modernes. Je vous plonge dans son univers et vous fais découvrir ses créations faites mains, gothiques, écologiques et magiques.
+meta_description: Rencontre avec Coffin, une sorcière des temps modernes. Je vous plonge dans son univers et vous fais découvrir ses créations faites mains, gothiques, écologiques et magiques.
 
 preview_image: /assets/images/mode/coffin-rock/coffin-rock-preview.jpg
 hero_image: /assets/images/mode/coffin-rock/coffin-rock-hero.jpg
@@ -20,7 +20,7 @@ date: 2018-02-16
 
 <h2 class="is-chapo">Dans ma présentation, je vous ai annoncé la couleur de cette rubrique mode : présenter une "autre" mode, plus écologique et en décalage avec la mode mainstream. Pour mon premier article, j'ai tout de suite pensé à Coffin Rock, une créatrice bordelaise aux créations écologiques et décalées, le tout avec une touche d'humour !</h2>
 
-**Coffin Rock** vit de sa passion du DIY et crée **des objets écolos et zéro déchet pour les besoins du quotidien** : lingettes démaquillantes, serviettes hygiéniques, sacs en vrac... Coffin est une personnalité inspirante et colorée (bien que goth :smirk:). Je l'ai interviewée pour vous faire découvrir son univers de **sorcière des temps modernes**. 
+**Coffin Rock** vit de sa passion du DIY et crée **des objets écolos et zéro déchet pour les besoins du quotidien** : lingettes démaquillantes, serviettes hygiéniques, sacs en vrac... Coffin est une personnalité inspirante et colorée (bien que goth :smirk:). Je l'ai interviewée pour vous faire découvrir son univers de **sorcière des temps modernes**.
 
 
 ## Allons droit au but : Qui es-tu Coffin ?
@@ -33,9 +33,9 @@ Je suis une créatrice établie à Bordeaux depuis plusieurs années. Je crée *
 
 Je propose des collections au gré des saisons :
 - au printemps : le mois des sorcières avec *We all are Witches* et le marché des sorcières que j'organise depuis plusieurs années sur Bordeaux ;
-- en septembre : le mois des vampires et son marché attitré ; 
+- en septembre : le mois des vampires et son marché attitré ;
 - en octobre : Halloween (évidemment) ;
-- en décembre : un calendrier de l'avent(ure) très forestier. 
+- en décembre : un calendrier de l'avent(ure) très forestier.
 
 J'aime trouver un rythme qui emmène les personnes qui suivent mon travail d'un sabbah à l'autre, en respectant le rythme de la nature.
 
@@ -63,7 +63,7 @@ J'ai une anecdote à ce sujet : une dame souhaitait m'acheter un porte-chéquier
 
 ## ... c'est génial ! Tu es très branchée écologie, comment appliques-tu cette conviction dans tes créations ?
 
-J'ai grandi en Suisse, l'écologie fait partie des gestes quotidiens d'une manière simple et logique. **Il n'était donc pas question pour moi de fabriquer sans penser à l'impact que je peux avoir sur la planète**. Outre mes **créations zéro déchet**, j'essaie de faire attention à la provenance de mes tissus. 
+J'ai grandi en Suisse, l'écologie fait partie des gestes quotidiens d'une manière simple et logique. **Il n'était donc pas question pour moi de fabriquer sans penser à l'impact que je peux avoir sur la planète**. Outre mes **créations zéro déchet**, j'essaie de faire attention à la provenance de mes tissus.
 
 Je suis d'ailleurs très contente que l'entreprise qui imprime mes motifs à la demande ait désormais un atelier en Allemagne, car avant je les importais des Etats-Unis (Je fais imprimer des micro-collections à partir de photos que je prends lors de mes voyages et je mets aussi en avant des films que j'aime beaucoup). J'essaie aussi d'utiliser le maximum de tissus en réfléchissant à la découpe, les chutes et petits fils se retrouvent mélangés à mon rembourrage de coussins. Ainsi, je n'ai que très peu de déchets.
 
@@ -77,7 +77,7 @@ J'ai commencé à faire des vidéos postées sur [youtube](https://www.youtube.c
 
 ## Quels sont les articles que tu vends le plus ?
 
-Oh, c'est une étrange question. Je dirais que **depuis l'année dernière et le scandale de la taxe tampon, mes serviettes lavables ont la cote** ! Il faut dire que je me démène pour trouver **des tissus imperméables rigolos, ténébreux et mignons** et que c'est une création qui me tient vraiment à cœur ! L'avantage avec mon très large panel de créations, c'est que les gens vont choisir des articles totalement différents d'une commande à l'autre. 
+Oh, c'est une étrange question. Je dirais que **depuis l'année dernière et le scandale de la taxe tampon, mes serviettes lavables ont la cote** ! Il faut dire que je me démène pour trouver **des tissus imperméables rigolos, ténébreux et mignons** et que c'est une création qui me tient vraiment à cœur ! L'avantage avec mon très large panel de créations, c'est que les gens vont choisir des articles totalement différents d'une commande à l'autre.
 
 ![serviette hygiéniques lavables coffin rock](/assets/images/mode/coffin-rock/coffin-rock-6.jpg)
 
@@ -106,7 +106,7 @@ Oui, j'aime beaucoup le cinéma et j'écoute beaucoup de musique. **J'essaie cla
 Le **Goth It Yourself** est ma version goth' du **DIY** (Do It Yourself). J'ai quelques projets secrets à ce sujet qui pourraient se concrétiser cette année... je n'en dévoilerai guère plus pour l'instant... mais...
 
 
-## Tu gères aussi la page « We are all witches ». Peux-tu me parler de ce projet ? 
+## Tu gères aussi la page « We are all witches ». Peux-tu me parler de ce projet ?
 
 ![coffin rock we are all witches](/assets/images/mode/coffin-rock/coffin-rock-10.jpg)
 

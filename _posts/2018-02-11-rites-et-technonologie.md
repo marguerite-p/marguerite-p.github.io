@@ -1,7 +1,7 @@
 ---
 title: Rites et technologies au salon Experimenta
 category: science
-meta-description: Quels liens entre le corps et les nouvelles technologies ? Comment se réinventent les rites ancestraux à l’aune des technologies digitales ? Comment les technologies participent à la création de nouveaux rituels et de nouvelles mythologies ?
+meta_description: Quels liens entre le corps et les nouvelles technologies ? Comment se réinventent les rites ancestraux à l’aune des technologies digitales ? Comment les technologies participent à la création de nouveaux rituels et de nouvelles mythologies ?
 
 preview_image: /assets/images/science/rites-technologie/rites-technologie-preview.jpg
 hero_image: /assets/images/science/rites-technologie/rites-technologie-hero.jpg
@@ -17,7 +17,7 @@ tags:
 - art numérique
 
 ---
-<h2 class="is-chapo">Le vendredi 9 février, un joli panel d’artistes et de chercheurs se sont rassemblés au salon Experimenta pour échanger autour de la thématique « Corps, Rites et Technologies ».</h2> 
+<h2 class="is-chapo">Le vendredi 9 février, un joli panel d’artistes et de chercheurs se sont rassemblés au salon Experimenta pour échanger autour de la thématique « Corps, Rites et Technologies ».</h2>
 
 **Quels liens entre le corps et les nouvelles technologies ? Comment se réinventent les rites ancestraux à l’aune des technologies digitales ? Comment les technologies participent à la création de nouveaux rituels et de nouvelles mythologies ?** …Autant de questions qui ont été abordées lors de cette conférence animée par **Maxence Grugier**, journaliste spécialisé en arts numériques. Mais d'abord, les intervenants nous ont accueilli avec un petit rituel de danse avant d'entamer la conférence !
 
@@ -27,9 +27,9 @@ tags:
 
 ## Technologie et néo-tribalisme
 
-L’Homme a toujours créé des rites pour marquer les étapes importantes de sa vie et réenchanter son quotidien. **Les rites ancestraux n’ont pas disparu avec l’avènement de la société industrielle**, bien au contraire. **Nicolas Ticot** est artiste numérique au sein du XLRProject. Pour lui, le meilleur exemple récent du **tribalisme moderne** sont les [rave parties](https://fr.wikipedia.org/wiki/Rave_party){:target="_blank"}. 
+L’Homme a toujours créé des rites pour marquer les étapes importantes de sa vie et réenchanter son quotidien. **Les rites ancestraux n’ont pas disparu avec l’avènement de la société industrielle**, bien au contraire. **Nicolas Ticot** est artiste numérique au sein du XLRProject. Pour lui, le meilleur exemple récent du **tribalisme moderne** sont les [rave parties](https://fr.wikipedia.org/wiki/Rave_party){:target="_blank"}.
 
-> *"Avant les Hommes préhistoriques se rassemblaient dans les grottes pour danser autour d’un feu. Dans les années 90-2000, les jeunes se rassemblent dans des caves ou dans la forêt pour danser. La musique électronique faite par des machines et les substances chimiques créent un nouveau mode de communication entre ces jeunes. Je vois là un retour aux rites ancestraux du passé, une recherche de transcendance collective par la dance"*. 
+> *"Avant les Hommes préhistoriques se rassemblaient dans les grottes pour danser autour d’un feu. Dans les années 90-2000, les jeunes se rassemblent dans des caves ou dans la forêt pour danser. La musique électronique faite par des machines et les substances chimiques créent un nouveau mode de communication entre ces jeunes. Je vois là un retour aux rites ancestraux du passé, une recherche de transcendance collective par la dance"*.
 
 **Les rites se définissent communément comme des coutumes ou cérémonies répétées invariablement dans le temps, portées par la tradition**. Ce qui est anecdotique, c’est que nous tentons de maintenir ces **rites dans nos usages numériques**.
 
@@ -55,11 +55,11 @@ Les outils numériques, de part leur perfection supposée, apportent une part de
 <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 
-D'autant plus que la complexité des objets numériques n’a cessé d’augmenter. Bien qu’ils soient utilisés au quotidien par des milliers de personnes, seule une poignée dispose de la culture technique pour en saisir le fonctionnement. Les stratégies de marchandisation rendent les objets plus fermés et moins réparables. Cette opacité est source de frustration et de croyances magiques. 
+D'autant plus que la complexité des objets numériques n’a cessé d’augmenter. Bien qu’ils soient utilisés au quotidien par des milliers de personnes, seule une poignée dispose de la culture technique pour en saisir le fonctionnement. Les stratégies de marchandisation rendent les objets plus fermés et moins réparables. Cette opacité est source de frustration et de croyances magiques.
 
 ![technologie magique](/assets/images/science/rites-technologie/rites-technologie-3.jpg)
 
-[Philippe Somnolet](http://www.collectifitem.com/philippe/){:target="_blank"} est anthropologue et s’intéresse aux **nouvelles superstitions autour de la technologie**. Selon lui, le fait de ne pas avoir accès aux mécanismes des technologies crée beaucoup d’imaginaire. Lors de la colonisation, cela a donné lieu à des situations surréalistes (de notre point de vue), où les technologies des colons étaient assimilées à de nouvelles divinités par les autochtones. 
+[Philippe Somnolet](http://www.collectifitem.com/philippe/){:target="_blank"} est anthropologue et s’intéresse aux **nouvelles superstitions autour de la technologie**. Selon lui, le fait de ne pas avoir accès aux mécanismes des technologies crée beaucoup d’imaginaire. Lors de la colonisation, cela a donné lieu à des situations surréalistes (de notre point de vue), où les technologies des colons étaient assimilées à de nouvelles divinités par les autochtones.
 
 ![technologie magique](/assets/images/science/rites-technologie/rites-technologie-4.jpg)
 
@@ -80,7 +80,7 @@ La chorégraphe [Rocio Berenguer](https://rocioberenguercom.wordpress.com/){:tar
 > *"Il y a une beauté dans la précision du corps qui essaie d’imiter la machine. Mais c’est le bug qui crée l’espace poétique et humain".*
 
 La quête du corps parfait dans la « ville intelligente » se poursuit. Reste à savoir si la machine va s’adapter à l’Homme ou l’Homme à la machine...
- 
+
  <figure class="image">
     <img src="/assets/images/science/rites-technologie/rites-technologie-6.jpg" alt="sketch corps rites technologie julie polge">
     <span class="is-credits">Live-sketch réalisé durant la conférence par <a href="https://twitter.com/JuPolge" target="_blank">Julie Polge</a></span>

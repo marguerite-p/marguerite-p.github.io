@@ -1,7 +1,7 @@
 ---
 title: Big Data, l'ogre énergétique dans le cloud
 category: environnement
-meta-description: ...Quand les données commencent à chauffer ! Quelle est la part du stockage massif de données (Big Data) dans la consommation énergétique mondiale et le réchauffement climatique ?
+meta_description: ...Quand les données commencent à chauffer ! Quelle est la part du stockage massif de données (Big Data) dans la consommation énergétique mondiale et le réchauffement climatique ?
 
 preview_image: /assets/images/environnement/big-data-energie/big-data-preview.jpg
 hero_image: /assets/images/environnement/big-data-energie/big-data-hero.jpg
@@ -52,7 +52,7 @@ Pour vous donner une idée : Lorsque vous envoyez un mail avec une image en pi�
 
 Il y aurait autour de **180 data centers en France**, dont un tiers en Ile-de-France (UFE). Ils ont une consommation électrique moyennne de 40 gigawatts, soit une quarantaine de [tranches de centrales nucléaires](http://dictionnaire.sensagent.leparisien.fr/tranche%20nucl%C3%A9aire/fr-fr/){:target="_blank"}  (Ecoinfo, 2013).
 
-**L’électricité sert à alimenter leur fonctionnement, mais aussi le refroidissement des machines**. Vos genoux chauffent quand vous avez votre ordinateur sur les jambes ? Je vous laisse imaginer la chaleur produite par ces forteresses ! Le tout a un impact sur le climat, mais aussi sur les émissions de gaz à effet de serre. L’impact varie en fonction du [mix énergétique](https://fr.wikipedia.org/wiki/Mix_%C3%A9nerg%C3%A9tique){:target="_blank"} national. 
+**L’électricité sert à alimenter leur fonctionnement, mais aussi le refroidissement des machines**. Vos genoux chauffent quand vous avez votre ordinateur sur les jambes ? Je vous laisse imaginer la chaleur produite par ces forteresses ! Le tout a un impact sur le climat, mais aussi sur les émissions de gaz à effet de serre. L’impact varie en fonction du [mix énergétique](https://fr.wikipedia.org/wiki/Mix_%C3%A9nerg%C3%A9tique){:target="_blank"} national.
 
 La consommation énergétique est d’autant plus élevée si les exigences de sécurité sont fortes. Pour palier à tout risque d’effacement des données, celles-ci sont recopiées en plusieurs exemplaires (c’est ce que l’on appelle la redondance). Résultat : deux fois plus de données, stockées pour une durée quasi-illimitée !
 

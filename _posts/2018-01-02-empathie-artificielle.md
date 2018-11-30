@@ -1,7 +1,7 @@
 ---
 title: Robotique, les dangers de l'empathie artificielle
 category: science
-meta-description: Peut-on ressentir de l'empathie envers les robots ? Dangers psychologiques autour de l'empathie artificielle...
+meta_description: Peut-on ressentir de l'empathie envers les robots ? Dangers psychologiques autour de l'empathie artificielle...
 
 preview_image: /assets/images/science/empathie-artificielle/empathie-artificielle-preview.jpg
 hero_image: /assets/images/science/empathie-artificielle/empathie-artificielle-hero.jpg
@@ -26,11 +26,11 @@ date: 2018-01-01
 
 ## Empathie envers les robots : deux études concluantes
 
-Deux études prouvent que nous serions capables de **ressentir de l’empathie envers les robots**. Une empathie semblable à celle que l'on éprouve envers nos semblables. 
+Deux études prouvent que nous serions capables de **ressentir de l’empathie envers les robots**. Une empathie semblable à celle que l'on éprouve envers nos semblables.
 
 ### Une étude allemande sur notre réaction face à la maltraitance des robots
 
-La première étude de l'université de Duisbourg-Essen en Allemagne[1] a observé des sujets humains face à la vidéo d'un petit robot dinosaure nommé Pléo. Le robot était successivement traité de façon brutale ou affectueuse. 
+La première étude de l'université de Duisbourg-Essen en Allemagne[1] a observé des sujets humains face à la vidéo d'un petit robot dinosaure nommé Pléo. Le robot était successivement traité de façon brutale ou affectueuse.
 
 Dans la première partie de l’expérience, les chercheurs ont mesuré la conductance de la peau (comment la peau conduit l’électricité) des 40 participants. Lorsqu’ils ont visionné des vidéos violentes à l'égard du (pauvre) dinosaure, les mesures ont révélé que la conductance de leur peau augmentait (nous transpirons plus quand nous ressentons des émotions fortes). Et ce, même s'ils affirmaient ne pas avoir été choqués.
 
@@ -38,7 +38,7 @@ Dans la première partie de l’expérience, les chercheurs ont mesuré la condu
     <iframe width="560" height="315" src="https://www.youtube.com/embed/wAVtkh0mL20" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 </div>
 
-La seconde partie de l’expérience mesurait par [technique IRM](http://www.rim-radiologie.fr/irm.php){:target="_blank"} l’activité cérébrale face à des images de violence à l’égard d’humains, de robots, puis d’objets quelconques. Il s’avère que l’activité neuronale dans les régions du système limbique est identique lorsque les participants sont confrontés à des vidéos de **violence à l’égard d’humains et de robots**. 
+La seconde partie de l’expérience mesurait par [technique IRM](http://www.rim-radiologie.fr/irm.php){:target="_blank"} l’activité cérébrale face à des images de violence à l’égard d’humains, de robots, puis d’objets quelconques. Il s’avère que l’activité neuronale dans les régions du système limbique est identique lorsque les participants sont confrontés à des vidéos de **violence à l’égard d’humains et de robots**.
 
 ### Une étude de chercheurs japonais sur notre réaction face à la douleur
 
@@ -64,7 +64,7 @@ A l'heure actuelle, certains robots sont déjà capables d’analyser nos émoti
 
 Serge Tisseron craint qu’à terme on finisse par préférer la compagnie robotique à la compagnie humaine et qu'on attende des autres qu'ils se comportent comme des robots : **« serviables, gentils et sans ego »**.
 
-Une chose est sûre: **Les robots sont des objets animés hors du commun qui modifient notre relation aux objets**. C’est la première fois qu’on se permet de les aimer, qu’on y développe des relations de dépendance. Pour Serge Tisseron, le titre de son livre se fonde sur un mensonge : 
+Une chose est sûre: **Les robots sont des objets animés hors du commun qui modifient notre relation aux objets**. C’est la première fois qu’on se permet de les aimer, qu’on y développe des relations de dépendance. Pour Serge Tisseron, le titre de son livre se fonde sur un mensonge :
 
 > "Non, jamais mon robot ne m'aimera, et s’il me dit qu’il m’aime, ce ne sera qu’illusion".
 
@@ -92,12 +92,12 @@ Si certains psychologues craignent que le robot devienne un substitut aux relati
 
 #### Sources :
 
-Couverture : enfants jouant avec le robot Pleo, Bart van overbeeke  
-[1] ROSENTHAL VON DER PÜTTEN A., HOFFMAN A., SOBIERAJ S., EIMLER S., ”An experimental study on emotional reactions towards a robot”, International Journal of Social Robotics, January 2013  
-[2] SUZUJI Y., GALLI L., IKEDA A., ITAKURA S., KITAZAKI M., ”Measuring empathy for human and robot hand pain using electroencephalography”, Scientific Reports, November 2015  
-[3] SINGER P.W., Wired For War: The Robotics Revolution and Conflict in the 21st Century, Penguin, 2009  
-[4] TISSERON S., Le jour où mon robot m’aimera, vers l’empathie artificielle, Albin Michel, septembre 2015  
-[5] HENNO J., « [Les robots face au défi de l’empathie](http://www.lesechos.fr/idees-debats/sciences-prospective/021304845082-les-robots-face-au-defi-de-lempathie-1153265.php) », Lesechos.fr, 08/09   
+Couverture : enfants jouant avec le robot Pleo, Bart van overbeeke
+[1] ROSENTHAL VON DER PÜTTEN A., HOFFMAN A., SOBIERAJ S., EIMLER S., ”An experimental study on emotional reactions towards a robot”, International Journal of Social Robotics, January 2013
+[2] SUZUJI Y., GALLI L., IKEDA A., ITAKURA S., KITAZAKI M., ”Measuring empathy for human and robot hand pain using electroencephalography”, Scientific Reports, November 2015
+[3] SINGER P.W., Wired For War: The Robotics Revolution and Conflict in the 21st Century, Penguin, 2009
+[4] TISSERON S., Le jour où mon robot m’aimera, vers l’empathie artificielle, Albin Michel, septembre 2015
+[5] HENNO J., « [Les robots face au défi de l’empathie](http://www.lesechos.fr/idees-debats/sciences-prospective/021304845082-les-robots-face-au-defi-de-lempathie-1153265.php) », Lesechos.fr, 08/09
 [6] Ibid. HENNO J., « Les robots face au défi de l’empathie »
 
 
