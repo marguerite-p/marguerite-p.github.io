@@ -181,6 +181,7 @@ img:not([src]) {
       .button {
         align-self: center;
         margin-bottom: 1em;
+        margin-top: 1em;
         &:last-child {
           @extend .is-marginless;
         }

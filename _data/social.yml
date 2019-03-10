@@ -13,15 +13,20 @@
 #   class: 'instagram'
 #   color: '#8a3ab9'
 -
-  url: 'https://www.linkedin.com/company/socio-jam/'
+  url: 'https://www.linkedin.com/in/marguerite-pometko/'
   class: 'linkedin'
   color: '#007bb5'
   name: profil linkedin
 -
-  url: 'https://plus.google.com/u/0/108944050755285690208'
-  class: 'google-plus'
-  color: '#dd4b39'
-  name: page google plus
+  url: 'https://www.youtube.com/channel/UCES4NR-TMbFN2tNAPistA9w'
+  class: 'youtube '
+  color: '#FF0000'
+  name: page youtube
+#-
+#  url: 'https://plus.google.com/u/0/108944050755285690208'
+#  class: 'google-plus'
+#  color: '#dd4b39'
+#  name: page google plus
 # -
 #   url: 'http://example.com'
 #   class: 'snapchat'
