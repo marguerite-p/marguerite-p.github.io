@@ -5,4 +5,4 @@ _site/
 .vscode
 
 node_modules
-assets/images/raw
+assets/images/.raw

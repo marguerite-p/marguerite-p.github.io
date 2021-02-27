@@ -12,9 +12,9 @@
   "author": "Julien Avert",
   "license": "MIT",
   "devDependencies": {
-    "gulp": "3.9.1",
-    "gulp-imagemin": "4.1.0",
+    "gulp": "4.0.2",
+    "gulp-imagemin": "7.1.0",
     "gulp-smushit": "1.2.0",
-    "gulp-uglify": "3.0.0"
+    "gulp-uglify": "3.0.2"
   }
 }

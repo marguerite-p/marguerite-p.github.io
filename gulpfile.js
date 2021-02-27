@@ -5,9 +5,9 @@ const smushit = require('gulp-smushit');
 const uglify = require('gulp-uglify');
 
 gulp.task('compress:images', () => {
-  return gulp.src('assets/images/raw/**/*')
+  return gulp.src('assets/images/.raw/**/*')
     .pipe(imagemin([
-      imagemin.jpegtran({ progressive: true }),
+      imagemin.mozjpeg({ progressive: true }),
       imagemin.optipng({ optimizationLevel: 5 })
     ]))
     .pipe(smushit({

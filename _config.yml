@@ -67,7 +67,8 @@ exclude:
   - docker-compose.yml
   - Gemfile
   - Gemfile.lock
-
+  - node_modules
+  
 # Plugin settings
 plugins:
   - jekyll-feed
