@@ -2,10 +2,10 @@
   name: science
   title: Techniques, Sciences et Numérique
   image: /assets/images/techniques-sciences-numerique.jpg
--
-  name: redaction
-  title: Web, Rédaction et Réseaux sociaux
-  image: /assets/images/web-redaction-reseaux.jpg
+# -
+#   name: redaction
+#   title: Web, Rédaction et Réseaux sociaux
+#   image: /assets/images/web-redaction-reseaux.jpg
 -
   name: environnement
   title: Environnement, Climat et Écologie

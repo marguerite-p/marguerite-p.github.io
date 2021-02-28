@@ -1,4 +1,6 @@
 ---
+published: false
+
 title: Instagram - retour au feed chronologique et autres nouveautés
 category: redaction
 meta_description: Le nouvel algorithme Instagram début 2018, retour au feed chronologique et un nouveau bouton pour raffraichir la page.
