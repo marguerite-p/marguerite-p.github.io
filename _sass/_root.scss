@@ -266,6 +266,14 @@ img:not([src]) {
     justify-content: center;
     align-items: center;
   }
+
+  &-experience {
+    &__list {
+      li {
+        margin-bottom: 1em;
+      }
+    }
+  }
 }
 
 .blog {
