@@ -56,17 +56,13 @@ html {
 }
 
 .is-responsive-video {
-  height: 0;
-  overflow: hidden;
-  padding-bottom: 56.25%;
-  position: relative;
+  @extend .image;
+  @extend .is-16by9;
 
-  iframe{
-    height: 100%;
-    left: 0;
-    position: absolute;
-    top: 0;
-    width: 100%;
+  margin-bottom: 1rem;
+
+  iframe {
+    @extend .has-ratio;
   }
 }
 
@@ -140,12 +136,12 @@ img:not([src]) {
   &-header {
     align-items: center;
     justify-content: center;
-    margin-bottom: 1em;
+    margin-bottom: 1rem;
     padding: 1rem;
 
     &__quote {
       color: $socio-jam-red;
-      font-size: 5em;
+      font-size: 5rem;
       line-height: 1;
       &:first-child {
         padding-right: 1rem;
@@ -180,8 +176,8 @@ img:not([src]) {
 
       .button {
         align-self: center;
-        margin-bottom: 1em;
-        margin-top: 1em;
+        margin-bottom: 1rem;
+        margin-top: 1rem;
         &:last-child {
           @extend .is-marginless;
         }
@@ -270,7 +266,7 @@ img:not([src]) {
   &-experience {
     &__list {
       li {
-        margin-bottom: 1em;
+        margin-bottom: 1rem;
       }
     }
   }
@@ -318,7 +314,7 @@ img:not([src]) {
 
 .article {
   &-head {
-    padding-bottom: 1em;
+    padding-bottom: 1rem;
   }
   &-title {
     margin-bottom: 0.5rem;

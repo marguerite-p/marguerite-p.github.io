@@ -24,7 +24,9 @@ Porté par l’université Grenoble-Alpes, **CitizenCampus est un cursus pour ex
 
 Durant une année universitaire, à partir d’un thème qui servira de fil rouge durant l’année, ces étudiants se confronteront ensemble au débat sur des enjeux scientifiques d’avenir et obtiendront des clés pour influencer les prises de décision politiques.
 
+<div class="is-responsive-video">
 <iframe src="//videos.univ-grenoble-alpes.fr/video/0555-citizencampus-teaser/?is_iframe=true&size=240" width="640" height="360" style="padding: 0; margin: 0; border:0" allowfullscreen ></iframe>
+</div>
 
 Ce parcours complémentaire est *ouvert à tous les étudiants de l’académie de Grenoble*, et c’est là tout ce qui fait sa richesse : une promotion mixte de 40 étudiants de la L2 jusqu’au doctorat, et ce qu’ils étudient les sciences et techniques ou les sciences humaines et sociales.
 
@@ -36,7 +38,9 @@ Dans un contexte où les sujets scientifiques sont régulièrement délégués a
 
 <div class="has-text-centered"><h3>L’ambition du programme expliqué par Isabelle Forge Allegret, porteuse du projet :</h3></div>
 
+<div class="is-responsive-video">
 <iframe src="//videos.univ-grenoble-alpes.fr/video/0552-citizencampus-presentation-du-parcours/?is_iframe=true&size=240" width="640" height="360" style="padding: 0; margin: 0; border:0" allowfullscreen ></iframe>
+</div>
 
 ## CitizenCampus : une pédagogie innovante
 

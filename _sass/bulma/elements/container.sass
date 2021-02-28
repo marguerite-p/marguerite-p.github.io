@@ -1,30 +1,29 @@
-// HACKY BULMA OVERRIDE
-$container-gap-factor-desktop: 2 !default
-$container-gap-factor-widescreen: $container-gap-factor-desktop !default
-$container-gap-factor-fullhd: $container-gap-factor-desktop !default
+@import "../utilities/mixins"
+
+$container-offset: (2 * $gap) !default
+$container-max-width: $fullhd !default
 
 .container
+  flex-grow: 1
   margin: 0 auto
   position: relative
-  +from($desktop)
-    max-width: $desktop - ($container-gap-factor-desktop * $gap)
-    width: $desktop - ($container-gap-factor-desktop * $gap)
-    &.is-fluid
-      margin-left: $gap
-      margin-right: $gap
-      max-width: none
-      width: auto
-  +until($widescreen)
-    &.is-widescreen
-      max-width: $widescreen - ($container-gap-factor-widescreen * $gap)
-      width: auto
-  +until($fullhd)
-    &.is-fullhd
-      max-width: $fullhd - ($container-gap-factor-fullhd * $gap)
-      width: auto
-  +from($widescreen)
-    max-width: $widescreen - ($container-gap-factor-widescreen * $gap)
-    width: $widescreen - ($container-gap-factor-widescreen * $gap)
-  +from($fullhd)
-    max-width: $fullhd - ($container-gap-factor-fullhd * $gap)
-    width: $fullhd - ($container-gap-factor-fullhd * $gap)
+  width: auto
+  &.is-fluid
+    max-width: none !important
+    padding-left: $gap
+    padding-right: $gap
+    width: 100%
+  +desktop
+    max-width: $desktop - $container-offset
+  +until-widescreen
+    &.is-widescreen:not(.is-max-desktop)
+      max-width: min($widescreen, $container-max-width) - $container-offset
+  +until-fullhd
+    &.is-fullhd:not(.is-max-desktop):not(.is-max-widescreen)
+      max-width: min($fullhd, $container-max-width) - $container-offset
+  +widescreen
+    &:not(.is-max-desktop)
+      max-width: min($widescreen, $container-max-width) - $container-offset
+  +fullhd
+    &:not(.is-max-desktop):not(.is-max-widescreen)
+      max-width: min($fullhd, $container-max-width) - $container-offset
