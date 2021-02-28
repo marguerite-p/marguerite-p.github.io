@@ -19,7 +19,7 @@ tags:
 
 **Instagram** a entendu les plaintes (pour ne pas dire *lamentations*) des utilisateurs fâchés de voir leur portée organique (audience) baisser. « *À quoi bon faire des publications de qualité si plus personne ne peut les voir ?* », pouvait-on entendre du côté de nombreux influenceurs. En juin 2016, le réseau social avait opté pour un **affichage algorithmique des publications au détriment de l’ordre chronologique**. Effet pervers : les stories sont désormais plus vues que les publications, ce qui a donné lieu à des situations absurdes, comme des blogueurs invitant leurs followers à voir leurs derniers posts par le biais de leurs *stories*.
 
-Soucieux du *feedback* de ses utilisateurs, **Instagram modifie son algorithme**. Parce que bon, c’était quand même mieux avant ! :smirk: Il n’y aura pas de retour total à l’affichage chronologique, mais **Instagram a annoncé que son algorithme serait mis à jour pour afficher plus de publications récentes dans le fil d’actualité**. Vous pourrez donc de nouveau voir les publications de votre cousin australien au réveil ! :wink:
+Soucieux du *feedback* de ses utilisateurs, **Instagram modifie son algorithme**. Parce que bon, c’était quand même mieux avant ! 😏 Il n’y aura pas de retour total à l’affichage chronologique, mais **Instagram a annoncé que son algorithme serait mis à jour pour afficher plus de publications récentes dans le fil d’actualité**. Vous pourrez donc de nouveau voir les publications de votre cousin australien au réveil ! 😉
 
 ## Fin de la mise à jour automatique du fil d’actualité
 

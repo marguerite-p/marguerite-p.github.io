@@ -20,7 +20,7 @@ related_posts:
 
 date: 2018-11-17
 ---
-<h2 class="is-chapo">Il s’en est passé du temps depuis mon dernier article ! Prise entre mon travail à l’Université, la vie associative et le sport, cet article aura mis du temps à voir le jour. Mais fini les excuses : voici la fin de mon récit de voyage sibérien qu’il me tenait tant à cœur de finir ! :heart:</h2>
+<h2 class="is-chapo">Il s’en est passé du temps depuis mon dernier article ! Prise entre mon travail à l’Université, la vie associative et le sport, cet article aura mis du temps à voir le jour. Mais fini les excuses : voici la fin de mon récit de voyage sibérien qu’il me tenait tant à cœur de finir ! ❤</h2>
 
 Dans le [premier épisode de mon voyage en Sibérie](http://www.socio-jam.com/blog/2018/08/irkoutsk.html){:target="_blank"}, je vous parlais de mon arrivée dans la ville d’Irkoutsk. Dans [le deuxième épisode](http://www.socio-jam.com/blog/2018/08/baikal.html){:target="_blank"}, de mon arrivée sur l’île d’Olkhon au lac Baïkal. Aujourd’hui, je vous raconte **mon excursion en bateau sur le lac Baïkal et dans le sud de l’île d’Olkhon**.
 
@@ -135,4 +135,4 @@ Dès notre première soirée à l’auberge de jeunesse, deux jeunes russes d’
 
 ![Baikal friends](/assets/images/autres/baikal2/baikal36.JPG)
 
-C’est avec émotion que je termine **le récit de mon voyage en Sibérie**. Merci d’avoir suivi mon histoire ! до свидания! :heart:
+C’est avec émotion que je termine **le récit de mon voyage en Sibérie**. Merci d’avoir suivi mon histoire ! до свидания! ❤

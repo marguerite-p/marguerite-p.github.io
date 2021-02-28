@@ -20,7 +20,7 @@ date: 2018-02-16
 
 <h2 class="is-chapo">Dans ma présentation, je vous ai annoncé la couleur de cette rubrique mode : présenter une "autre" mode, plus écologique et en décalage avec la mode mainstream. Pour mon premier article, j'ai tout de suite pensé à Coffin Rock, une créatrice bordelaise aux créations écologiques et décalées, le tout avec une touche d'humour !</h2>
 
-**Coffin Rock** vit de sa passion du DIY et crée **des objets écolos et zéro déchet pour les besoins du quotidien** : lingettes démaquillantes, serviettes hygiéniques, sacs en vrac... Coffin est une personnalité inspirante et colorée (bien que goth :smirk:). Je l'ai interviewée pour vous faire découvrir son univers de **sorcière des temps modernes**.
+**Coffin Rock** vit de sa passion du DIY et crée **des objets écolos et zéro déchet pour les besoins du quotidien** : lingettes démaquillantes, serviettes hygiéniques, sacs en vrac... Coffin est une personnalité inspirante et colorée (bien que goth 😏). Je l'ai interviewée pour vous faire découvrir son univers de **sorcière des temps modernes**.
 
 
 ## Allons droit au but : Qui es-tu Coffin ?
@@ -112,7 +112,7 @@ Le **Goth It Yourself** est ma version goth' du **DIY** (Do It Yourself). J'ai q
 
 **We all are Witches** est un coven créatif éphémère. Chaque année, au mois d'avril (le mois se clôturant, le 30, par la *Walpurgis Nacht* - la nuit des sorcières) nous sommes plusieurs *créateurices* (contraction de créateur et créatrice) à nous retrouver autour d'un thème hebdomadaire et à proposer notre vision artistique de ce sujet. C'est l'occasion de sortir des sentiers battus, de tester d'autres supports. C'est très vivifiant de voir qu'un sujet peut être interprété de bien des manières différentes. En plus, c'est une joie d'avoir des artistes, écrivain-e-s, et créateurices qui participent. Le monde créatif est vaste et regroupe beaucoup d'artisanats différents. C'est aussi l'occasion de pouvoir échanger entre nous et de créer des liens. Je designe aussi un visuel de fond qui est utilisé par tou-te-s les participant-es afin de proposer des collections inédites et communes avec une charte graphique unique.
 
-Les créations sont dévoilées chaque samedi, il y a donc un rythme et du suspense :wink: J'organise aussi un marché des sorcières durant le mois d'avril, afin d'essayer de réunir les participant-e-s et d'autres artisan-e-s autour de ce thème mystique et immortel.
+Les créations sont dévoilées chaque samedi, il y a donc un rythme et du suspense 😉 J'organise aussi un marché des sorcières durant le mois d'avril, afin d'essayer de réunir les participant-e-s et d'autres artisan-e-s autour de ce thème mystique et immortel.
 
 ## C’est quoi une sorcière des temps moderne ?
 

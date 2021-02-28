@@ -48,7 +48,7 @@ Cal Newport conseille de supprimer « **toute application dont l’absence ne po
     <span class="is-credits">Les applications que j'ai supprimées ou conservées.</span>
 </figure>
 
-Je décide de conserver *Google Maps* pour me repérer à Berlin où j’ai emménagé il n’y pas longtemps et *WhatsApp* et *Signal*, qui me sont indispensables pour communiquer avec ma famille et mes collègues à l’étranger (mais je supprime *Fb Messenger*). Je garde *Youtube* pour accéder à mes cours de Yoga, *Petit Bambou* pour la méditation et *Spotify* pour la musique et les podcasts. Malheureusement j’essaie, mais je n’arrive pas à déconnecter mon compte *Gmail* (la preuve que tout est fait pour qu’on ne le fasse pas …ou que je ne suis pas douée :wink: ). 
+Je décide de conserver *Google Maps* pour me repérer à Berlin où j’ai emménagé il n’y pas longtemps et *WhatsApp* et *Signal*, qui me sont indispensables pour communiquer avec ma famille et mes collègues à l’étranger (mais je supprime *Fb Messenger*). Je garde *Youtube* pour accéder à mes cours de Yoga, *Petit Bambou* pour la méditation et *Spotify* pour la musique et les podcasts. Malheureusement j’essaie, mais je n’arrive pas à déconnecter mon compte *Gmail* (la preuve que tout est fait pour qu’on ne le fasse pas …ou que je ne suis pas douée 😉). 
 
 Je m’autorise à utiliser la plupart des applications sur l’ordinateur, sauf les réseaux sociaux (*Facebook* et *Instagram*), le cœur de mon problème d’addiction. 
 
