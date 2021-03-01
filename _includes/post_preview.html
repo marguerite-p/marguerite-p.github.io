@@ -4,7 +4,7 @@
       <figure class="image is-3by2">
         <img data-src="{{ image }}" alt="{{ post.title }}">
       </figure>
-      <h2 class="title is-size-5 has-text-centered">{{ post.title }}</h2>
+      <h2 class="title is-size-5 has-text-centered mt-2">{{ post.title }}</h2>
       {% if include.show_excerpt %}
       {% assign description = post.preview_description | default: post.meta_description | default: post.excerpt | strip_html | normalize_whitespace | truncate: 100 | escape %}
       <p class="post-preview__excerpt has-text-justified">{{ description }}</p>
