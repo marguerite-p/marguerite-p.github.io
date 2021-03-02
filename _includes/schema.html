@@ -25,7 +25,7 @@
       itemprop="logo"
       itemscope
       itemtype="http://schema.org/ImageObject">
-      <meta itemprop="url" content="http://via.placeholder.com/200x200">
+      <meta itemprop="url" content="{{ site.share_image | absolute_url }}">
     </div>
     <meta
       itemprop="member"
@@ -41,6 +41,8 @@
   {% if page.layout == 'post' %}
   {% assign url = page.url | replace:'index.html','' | absolute_url %}
   {% assign author = page.author | default: site.author %}
+  {% assign headline = page.meta_description | default: page.excerpt  | strip_html | normalize_whitespace | truncate: 160 | escape %}
+  {% assign image = page.share_image | default: page.preview_image | default: site.preview_image | absolute_url %}
   <!-- Article -->
   <div
     itemtype="http://schema.org/Article"
@@ -53,11 +55,11 @@
       itemscope
       itemtype="http://schema.org/Person"
       itemref="person">
-    <meta itemprop="headline" content="{{ page.excerpt }}">
+    <meta itemprop="headline" content="{{ headline }}">
     <meta itemprop="datePublished" content="{{ page.date | date_to_xmlschema }}">
     <meta itemprop="dateModified" content="{{ page.date | date_to_xmlschema }}">
     <div itemprop="image" itemscope itemtype="http://schema.org/ImageObject">
-      <meta itemprop="url" content="http://via.placeholder.com/200x200">
+      <meta itemprop="url" content="{{ image }}">
     </div>
     <meta
       itemprop="publisher"
