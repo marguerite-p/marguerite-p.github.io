@@ -20,7 +20,7 @@ tags:
 date: 2021-02-28
 ---
 
-<h2 class="is-chapo">Ce mois j’ai essayé le <em>Digital Declutter</em> (littéralement <em>désencombrement numérique</em>) décrit par Cal Newport dans son ouvrage <em>Digital Minimalism</em>. Concrètement : j’ai supprimé les applications non essentielles de mon smartphone pendant un mois, pour interroger la place que chacune de ces applications prend dans mon quotidien.
+<h2 class="is-chapo">En février j’ai essayé le <em>Digital Declutter</em> (littéralement <em>désencombrement numérique</em>) décrit par Cal Newport dans son ouvrage <em>Digital Minimalism</em>. Concrètement : j’ai supprimé les applications non essentielles de mon smartphone pendant un mois, pour interroger la place que chacune de ces applications prend dans mon quotidien.
 </h2>
 
 Pour ma part, il s’agissait essentiellement me **déconnecter des réseaux sociaux** qui sont au cœur de mon addiction pour les écrans. Entre stress, impact sur la santé mentale, obstacle à la créativité et perte de temps, je pourrais écrire tout un article sur l’impact des réseaux sociaux sur mon bien-être, mais aujourd’hui j’aimerais surtout me focaliser sur ce retour d’expérience :-). Je vous dis tout !
@@ -33,7 +33,7 @@ Après avoir lu les conseils de Cal Newport dans son ouvrage *Digital Minimalism
 
 ## Digital Declutter et minimalisme digital, qu'est-ce que c'est ? 
 
-Avec le **digital declutter** ou *désencombrement numérique* (ça fait beaucoup d'anglicismes, mais on n’a pas encore trouvé de joli mot en français 😊), ce qui change par rapport à ce que l'on appelle communément « détox numérique », c’est l’intention : il ne faut pas aborder cette expérience comme une simple pause (qui implique un retour à la normale le mois d’après), mais comme une première étape vers un véritable changement de comportement sur le long terme, motivé par une philosophie de vie : le **minimalisme digital** (que l'on pourrait aussi appeler *sobriété numérique*)
+Avec le **digital declutter** ou *désencombrement numérique* (ça fait beaucoup d'anglicismes, mais on n’a pas encore trouvé de joli mot en français 😊), ce qui change par rapport à ce que l'on appelle communément « détox numérique », c’est l’intention : il ne faut pas aborder cette expérience comme une simple pause (qui implique un retour à la normale le mois d’après), mais comme une première étape vers un véritable changement de comportement sur le long terme, motivé par une philosophie de vie : le **minimalisme digital** (que l'on pourrait aussi qualifier de *sobriété numérique*)
 
 > *Le minimalisme digital, tel que décrit par Cal Newport consiste à se concentrer sur un nombre limité d’activités en ligne soigneusement choisies et de « joyeusement » faire l’impasse sur le reste*. 
 
@@ -62,9 +62,9 @@ Je m’autorise à utiliser la plupart des applications sur l’ordinateur, sauf
 
 ### Semaine 2 : 
 
-*Ah, voilà, le manque arrive. Ou plutôt les réflexes : après une grosse session de travail j’ai le réflexe d’attraper mon portable pour me divertir. Frustrée, je me rappelle qu’il n’y a plus rien à voir. En bon petit soldat conditionné comme un rat à la dopamine (réflexe pavlovien), je me surprends à scroller ce que je peux encore scroller : la météo (que je connais par cœur en une semaine) et mes mails (décidément, j’aurais vraiment dû supprimer gmail).*
+*Ah, voilà, le manque arrive. Ou plutôt les réflexes : après une grosse session de travail j’ai le réflexe d’attraper mon portable pour me divertir. Frustrée, je me rappelle qu’il n’y a plus rien à voir. Conditionnée comme un rat de laboratoire à la dopamine (réflexe pavlovien), je me surprends à scroller ce que je peux encore scroller : la météo (que je connais par cœur au bout d'une semaine) et mes mails (décidément, j’aurais vraiment dû supprimer gmail).*
 
-*Toutefois l’ennui et le manque durent deux minutes tout au plus, et je passe rapidement à autre chose (un peu comme le manque de nicotine au final).*
+*Toutefois l’ennui et le manque durent deux minutes tout au plus, et je passe rapidement à autre chose.*
 
 *Le plus dur c’est de combler les petits vides dans les moments d’attente : ceux où l’on attrape le portable pour passer le temps, mais qui sont trop courts pour sortir un livre. Je me rends compte que mon cerveau n’aime pas beaucoup le vide. Alors je l’y habitue.*
 
@@ -86,7 +86,7 @@ Je m’autorise à utiliser la plupart des applications sur l’ordinateur, sauf
 
 ## L'heure du bilan
 
-Si ce mois m’a fait réaliser une chose, c’est que **déconnecter des réseaux sociaux ce n’est pas la mort**. Parfois on s’ennuie, parfois on doit s’organiser et trouver des alternatives pour accéder à des infos, mais on ne ratera jamais rien de vital (car quelqu’un sera toujours là pour nous prévenir en cas d’urgence). 
+Si ce mois m’a fait réaliser une chose, c’est que **déconnecter des réseaux sociaux ce n’est pas la mort** (inimaginable pour beaucoup de jeunes de mon âge). Parfois on s’ennuie, parfois on doit s’organiser et trouver des alternatives pour accéder à des infos, mais on ne ratera jamais rien de vital (car quelqu’un sera toujours là pour nous prévenir en cas d’urgence). 
 
 Je me sens **moins stressée et libérée d’un poids**. D’abord inquiétée par le FOMO (*Fear of missing out*) je découvre le JOMO (*Joy of missing out*). Quel plaisir de savoir que je ne dois rien à personne ! 
 

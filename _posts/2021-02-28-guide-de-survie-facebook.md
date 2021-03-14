@@ -19,7 +19,7 @@ tags:
 date: 2021-02-28
 ---
 
-<h2 class="is-chapo">Marre de passer trop de temps sur Facebook et pourtant impossible de t’en passer ? On a tous nos bonnes raisons de rester sur la plateforme, ce n’est pas pour autant qu’on doit laisser l’application consumer tout notre temp-libre. Je vous partage mes astuces pour rester maître de mon temps et de mon attention sur Facebook.
+<h2 class="is-chapo">Marre de passer trop de temps sur Facebook et pourtant impossible de t’en passer ? On a tous nos bonnes raisons de rester sur la plateforme, ce n’est pas pour autant qu’on doit laisser l’application consumer tout notre temps-libre. Je vous partage mes astuces pour rester maître de mon temps et de mon attention sur Facebook.
 </h2>
 
 ## Facebook : je t’aime, moi non plus
@@ -52,7 +52,7 @@ Plan d’action :
 -	Dans un premier temps, **identifier (comme je l’ai fait ci-dessus) les actions précises que tu souhaites effectuer sur Facebook** (par exemple : consulter les évènements dans ta ville cette semaine, publier un post pour ton entreprise…). 
 -	Dans un second temps, **définir le temps qu’il te faudrait pour réaliser ces actions** (1 à 2h par semaine pour moi). Une fois que c’est fait, tu identifies un créneau dans la semaine que tu bloques dans ton agenda : et voilà !
 
-…OK, j’ai essayé mais je me suis retrouvée à scroller mon fil d’actualité pendant 2h ou à débattre avec inconnu sous un post. Comment je fais pour que ça ne m’arrive pas ? 
+…OK, j’ai essayé mais je me suis retrouvé à scroller mon fil d’actualité pendant 2h ou à débattre avec inconnu sous un post. Comment je fais pour que ça ne m’arrive pas ? 
 
 ## Guide de survie sur Facebook
 
@@ -61,12 +61,13 @@ Plan d’action :
     <span class="is-credits"><span>Photo by <a href="https://unsplash.com/@anniespratt?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText">Annie Spratt</a> on <a href="https://unsplash.com/s/photos/facebook?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText">Unsplash</a></span></span>
 </figure>
 
-Ne t’en veux pas, Facebook fait tout ce qu’il peut pour capter ton attention. Normal, c’est comme ça qu’il se fait de l’argent (pour t’exposer à des publicités). Pour résister, il faut s’armer. Voilà mon **guide de survie sur Facebook** : 
+Ne t’en veux pas, Facebook fait tout ce qu’il peut pour capter ton attention. Normal, c’est comme ça qu’il se fait de l’argent. Pour résister, il faut s’armer. Voilà mon **guide de survie sur Facebook** : 
 
 >-	**Mesurer le temps que tu passes sur Facebook** avec une appli (comme *Equilibre Digital*, souvent pré-intégrée dans les smartphones). Ce n’est pas ça qui te fera arrêter, mais ça permet de mesurer l’ampleur des dégâts.
 >-	**Désactiver les notifications** Facebook (et de toutes les applis) du portable : si ce n’est pas encore fait, c’est le meilleur conseil que je puisse te donner pour ton bien-être.
 >-	**Installer l’extension web *Facebook Container*** sur Firefox, qui te permet de supprimer entièrement ton fil d’actualité : tu peux directement aller à la page qui t’intéresse ou consulter le profil Facebook que tu souhaites sans te laisser absorber par la page d’accueil. Je l’ai depuis 1 an et ça marche du tonnerre ! (Dommage que ce ne soit possible que sur l’ordi). 
 >-	**Installer un bon bloqueur de pub** comme *Ublocks origins*. Adios wish et Marketplace !
+>- Dans les paramètres d’affichage (sous la photo de profil), **passer au thème sombre** (c’est tout de suite moins sexy).
 >-	**Paramétrer (et diminuer) tes notifications** sur Facebook dans la rubrique « paramètres des notifications » : tu veux vraiment recevoir un e-mail à chaque fois que quelqu’un aime un de tes posts ou qu’un copain publie un statut ? 
 >-	**Te désabonner des pages** et n’aller les consulter que quand quelque chose en particulier t’intéresse.
 >-	**Réduire ta liste d’amis**.
