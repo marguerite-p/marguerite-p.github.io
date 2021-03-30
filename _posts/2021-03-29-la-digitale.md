@@ -19,10 +19,10 @@ tags:
 date: 2021-03-29
 ---
 
-<h2 class="is-chapo">Aujourd’hui je vous parle de La Digitale : une plateforme d’outils éducatifs numériques responsables, que j’ai découverte lors d’un webinaire. Un outil formidable que j’aimerais vous faire découvrir (d’autant plus que la plateforme ne fait pas de marketing).
+<h2 class="is-chapo">Aujourd’hui je vous parle de La Digitale : une plateforme d’outils éducatifs numériques responsables, que j’ai découverte lors d’un <a href="https://www.youtube.com/watch?v=iC4TJ0ZkcMc&list=PLb4jEzkCnMUmjjqGVgwD9I_csnL2zsu-X&index=3" target="_blank">webinaire IF Profs</a>. Des outils formidables que j’aimerais vous faire découvrir à mon tour (d’autant plus que la plateforme ne fait pas de marketing).
 </h2>
 
-*Formidable*, pourquoi ? Car cet outil 1/ va vous faciliter la vie 2/ fonctionne sans publicité et ne collecte pas les données des apprenants 3/ permet de créer des séquences de cours motivantes et intuitives. Et ça en période d’école à distance, c’est un peu le Graal. 
+*Formidables*, pourquoi ? Car cette plateforme d'outils 1/ va vous faciliter la vie 2/ fonctionne sans publicité et ne collecte pas les données des apprenants 3/ permet de créer des séquences de cours motivantes et intuitives. Et ça en période d’école à distance, c’est un peu le Graal. 
 
 ## La Digitale, késako ? 
 
@@ -201,7 +201,7 @@ Vidéo de Cynthia Cravo sur Les *Digitools* :
 
 ## Pour conclure
 
-Cette découverte tombe à pic pour moi dans une période où je me questionne sur mes usages personnels et professionnels du numérique (lire [mon article sur le *Digital Declutter*](http://www.socio-jam.com/blog/2021/02/digital-declutter.html){:target="_blank"}). La valeur ajoutée de La Digitale est selon moi est de **sensibiliser aux bonnes pratiques et à la sobriété numérique dans la sphère éducative**. 
+Cette découverte tombe à pic pour moi dans une période où je me questionne sur mes usages personnels et professionnels du numérique (lire [mon article sur le *Digital Declutter*](http://www.socio-jam.com/blog/2021/02/digital-declutter.html){:target="_blank"}). La valeur ajoutée de La Digitale est selon moi de **sensibiliser aux bonnes pratiques et à la sobriété numérique dans la sphère éducative**. 
 
 **Je prévois moi-même d’utiliser certains outils La Digitale dans le cadre des projets éducatifs que je mène**. Maintenant que *Framalink* n’existe plus, je pense utiliser *Digilink* pour créer des QR Codes à intégrer pour les dossiers pédagogiques. Je vais aussi tester *Digistorm* pour réaliser un vote lors d’un jury en ligne. A titre plus personnel, nous avons déjà utilisé *Digipad* pour créer une carte virtuelle pour le départ d’un collègue. 
 
@@ -213,7 +213,7 @@ Une belle initiative qui montre qu’**un autre numérique est possible** !
 
 ### Pour aller plus loin :
 
-- [Le replay du webinaire sur La Digitale](https://www.youtube.com/watch?v=iC4TJ0ZkcMc&list=PLb4jEzkCnMUmjjqGVgwD9I_csnL2zsu-X&index=3){:target="_blank"} organisé par IF Profs 
+- [Le replay du webinaire sur La Digitale](https://www.youtube.com/watch?v=iC4TJ0ZkcMc&list=PLb4jEzkCnMUmjjqGVgwD9I_csnL2zsu-X&index=3){:target="_blank"} organisé par IF Profs (le réseau social des enseignants de français)
 - L'article ["Qu’est-ce qu’un outil numérique responsable ?"]( https://ladigitale.dev/blog/un-outil-numerique-educatif-responsable-c-est-quoi){:target="_blank"} sur le site de La Digitale
 - A propos du numérique responsable : **GreenIT.fr**, avec le soutien de plus de 50 contributeurs membres du collectif *Conception Numérique Responsable*, a mis au point [un référentiel de 115 bonnes pratiques d'éco-conception Web](https://collectif.greenit.fr/ecoconception-web/){:target="_blank"}
 -	La [chaîne Youtube de Cynthia Cravo](https://www.youtube.com/channel/UCAcdy3ZqRDM71a_xfedT5hQ){:target="_blank"}, qui parle d'innovations pédagogiques et d'enseignement FLE 
