@@ -206,7 +206,7 @@ Cette découverte tombe à pic pour moi dans une période où je me questionne s
 **Je prévois moi-même d’utiliser certains outils La Digitale dans le cadre des projets éducatifs que je mène**. Maintenant que *Framalink* n’existe plus, je pense utiliser *Digilink* pour créer des QR Codes à intégrer pour les dossiers pédagogiques. Je vais aussi tester *Digistorm* pour réaliser un vote lors d’un jury en ligne. A titre plus personnel, nous avons déjà utilisé *Digipad* pour créer une carte virtuelle pour le départ d’un collègue. 
 
 Si La Digitale est une excellente plateforme, attention cependant à **diversifier vos outils numériques** pour ne pas mettre toutes vos données dans le même panier et ne pas devenir dépendants d'un service (cf. campagnes
-[Dé-googlisons](https://degooglisons-internet.org/fr/){:target="_blank"} et [Dé-framatisons](https://framablog.org/2020/03/03/10-bonnes-raisons-de-fermer-certains-services-framasoft-la-5e-est-un-peu-bizarre/){:target="_blank"} internet). Pour palier à celà, Emmanuel espère pouvoir un jour offrir aux écoles un moyen d'héberger leurs propres données.
+[Dé-googlisons](https://degooglisons-internet.org/fr/){:target="_blank"} et [Dé-framatisons](https://framablog.org/2020/03/03/10-bonnes-raisons-de-fermer-certains-services-framasoft-la-5e-est-un-peu-bizarre/){:target="_blank"} internet). Pour palier à celà, Emmanuel a publié [tous les outils sous licence publique générale GNU v3](https://gitlab.com/ladigitale){:target="_blank"} sur Gitlab, ce qui permet aux institutions de mettre en place leurs propres instances des outils si elles le souhaitent.
 
 Une belle initiative qui montre qu’**un autre numérique est possible** !
 
