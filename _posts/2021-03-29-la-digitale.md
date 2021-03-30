@@ -62,18 +62,109 @@ Pour Emmanuel Zimmert, un outil numérique responsable est un outil :
 La Digitale propose **un éventail d’outils de création, d’animation et de collaboration**. Avec l’avantage d’être tous rassemblés sur un même site, ce qui économise du temps de recherche pour trouver le meilleur outil en ligne. Les outils sont assez intuitifs et certains ressemblent à d’autres outils en ligne déjà existants que vous reconnaitrez sûrement. 
 
 <div>
-    <div class="is-flex is-flex-direction-column-touch"><span class="desktop-mr-1 has-text-weight-semibold">DIJISCREEN</span><span class="is-flex-grow-1">un fond d’écran interactif pour la classe = la table de mixage de l’enseignant. Dijiscreen n’est pas collaboratif, mais un outil d’animation, initialement conçu pour être projeté en classe</span></div>
-    <div class="is-flex is-flex-direction-column-touch"><span class="desktop-mr-1 has-text-weight-semibold">DIGIPAD</span><span class="is-flex-grow-1">pour créer des murs collaboratifs multimédia</span></div>
-    <div class="is-flex is-flex-direction-column-touch"><span class="desktop-mr-1 has-text-weight-semibold">DIGIDOC</span><span class="is-flex-grow-1">travailler de façon collaborative sur un doc</span></div>
-    <div class="is-flex is-flex-direction-column-touch"><span class="desktop-mr-1 has-text-weight-semibold">DIGIBUNCH</span><span class="is-flex-grow-1">pour créer des bouquets de liens</span></div>
-    <div class="is-flex is-flex-direction-column-touch"><span class="desktop-mr-1 has-text-weight-semibold">DIGILINK</span><span class="is-flex-grow-1">pour générer des liens raccourcis et QR codes</span></div>
-    <div class="is-flex is-flex-direction-column-touch"><span class="desktop-mr-1 has-text-weight-semibold">DIGIPLAY</span><span class="is-flex-grow-1">pour visionner des vidéos Youtube sans distraction (et couper des vidéos pour garder uniquement la partie qui nous intéresse)</span></div>
-    <div class="is-flex is-flex-direction-column-touch"><span class="desktop-mr-1 has-text-weight-semibold">DIGITOOLS</span><span class="is-flex-grow-1">une série d’outils d’animation simples et utiles</span></div>
-    <div class="is-flex is-flex-direction-column-touch"><span class="desktop-mr-1 has-text-weight-semibold">DIGISTORM</span><span class="is-flex-grow-1">pour créer des sondages et des remue-méninges</span></div>
-    <div class="is-flex is-flex-direction-column-touch"><span class="desktop-mr-1 has-text-weight-semibold">DIGICARD</span><span class="is-flex-grow-1">pour créer des compositions graphiques simples</span></div>
-    <div class="is-flex is-flex-direction-column-touch"><span class="desktop-mr-1 has-text-weight-semibold">DIGIWORDS</span><span class="is-flex-grow-1">pour créer des nuages de mots</span></div>
-    <div class="is-flex is-flex-direction-column-touch"><span class="desktop-mr-1 has-text-weight-semibold">EDUBOX</span><span class="is-flex-grow-1">un espace de travail complétement hors-ligne (Avec un *raspberry pie* auquel on peut se connecter avec un téléphone portable)</span></div>
-    <div class="is-flex is-flex-direction-column-touch"><span class="is-flex-grow-1">… et d’autres à venir.</span></div>
+  <div class="columns is-centered is-vcentered">
+    <span
+      class="column is-one-fifth has-text-weight-semibold has-text-centered has-text-left-tablet"
+      >DIJISCREEN</span
+    >
+    <span class="column has-text-centered has-text-left-tablet"
+      >Un fond d’écran interactif pour la classe = la table de mixage de
+      l’enseignant. Dijiscreen n’est pas collaboratif, mais un outil
+      d’animation, initialement conçu pour être projeté en classe.</span
+    >
+  </div>
+  <div class="columns is-centered is-vcentered">
+    <span
+      class="column is-one-fifth has-text-weight-semibold has-text-centered has-text-left-tablet"
+      >DIGIPAD</span
+    >
+    <span class="column has-text-centered has-text-left-tablet"
+      >Pour créer des murs collaboratifs multimédia.</span
+    >
+  </div>
+  <div class="columns is-centered is-vcentered">
+    <span
+      class="column is-one-fifth has-text-weight-semibold has-text-centered has-text-left-tablet"
+      >DIGIDOC</span
+    >
+    <span class="column has-text-centered has-text-left-tablet"
+      >Travailler de façon collaborative sur un document.</span
+    >
+  </div>
+  <div class="columns is-centered is-vcentered">
+    <span
+      class="column is-one-fifth has-text-weight-semibold has-text-centered has-text-left-tablet"
+      >DIGIBUNCH</span
+    >
+    <span class="column has-text-centered has-text-left-tablet"
+      >Pour créer des bouquets de liens.</span
+    >
+  </div>
+  <div class="columns is-centered is-vcentered">
+    <span
+      class="column is-one-fifth has-text-weight-semibold has-text-centered has-text-left-tablet"
+      >DIGILINK</span
+    >
+    <span class="column has-text-centered has-text-left-tablet"
+      >Pour générer des liens raccourcis et QR codes.</span
+    >
+  </div>
+  <div class="columns is-centered is-vcentered">
+    <span
+      class="column is-one-fifth has-text-weight-semibold has-text-centered has-text-left-tablet"
+      >DIGIPLAY</span
+    >
+    <span class="column has-text-centered has-text-left-tablet"
+      >Pour visionner des vidéos YouTube sans distraction (et couper des vidéos
+      pour garder uniquement la partie qui nous intéresse).</span
+    >
+  </div>
+  <div class="columns is-centered is-vcentered">
+    <span
+      class="column is-one-fifth has-text-weight-semibold has-text-centered has-text-left-tablet"
+      >DIGITOOLS</span
+    ><span class="column has-text-centered has-text-left-tablet"
+      >Une série d’outils d’animation simples et utiles.</span
+    >
+  </div>
+  <div class="columns is-centered is-vcentered">
+    <span
+      class="column is-one-fifth has-text-weight-semibold has-text-centered has-text-left-tablet"
+      >DIGISTORM</span
+    ><span class="column has-text-centered has-text-left-tablet"
+      >Pour créer des sondages et des remue-méninges.</span
+    >
+  </div>
+  <div class="columns is-centered is-vcentered">
+    <span
+      class="column is-one-fifth has-text-weight-semibold has-text-centered has-text-left-tablet"
+      >DIGICARD</span
+    ><span class="column has-text-centered has-text-left-tablet"
+      >Pour créer des compositions graphiques simples.</span
+    >
+  </div>
+  <div class="columns is-centered is-vcentered">
+    <span
+      class="column is-one-fifth has-text-weight-semibold has-text-centered has-text-left-tablet"
+      >DIGIWORDS</span
+    ><span class="column has-text-centered has-text-left-tablet"
+      >Pour créer des nuages de mots.</span
+    >
+  </div>
+  <div class="columns is-centered is-vcentered">
+    <span
+      class="column is-one-fifth has-text-weight-semibold has-text-centered has-text-left-tablet"
+      >EDUBOX</span
+    ><span class="column has-text-centered has-text-left-tablet"
+      >Un espace de travail complétement hors-ligne (Avec un *Raspberry Pi*
+      auquel on peut se connecter avec un téléphone portable).</span
+    >
+  </div>
+  <div class="columns is-centered is-vcentered">
+    <span class="column has-text-centered has-text-left-tablet"
+      >… et d’autres à venir.</span
+    >
+  </div>
 </div>
 
 ## Et qu’en pensent les profs ?
@@ -104,7 +195,9 @@ Elle applique cette méthode dans ses cours en pratiquant le jeu (« **gamificat
  
 Vidéo de Cynthia Cravo sur Les *Digitools* : 
 
+<div class="is-responsive-video">
 <iframe width="560" height="315" src="https://www.youtube.com/embed/CkqYX3Lboa4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
 
 ## Pour conclure
 
